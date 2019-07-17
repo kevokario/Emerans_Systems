@@ -1,0 +1,15 @@
+#footer .fa, h5,h6{
+   color: white;
+   font-weight: 700;
+}
+#footer .fa{
+    border-left: 10px;
+}
+#footer p,a{
+    color: lightgrey;
+    font-weight: 600;
+}
+#footer h8{
+    color: lightgray;
+    font-weight: 700;
+}
