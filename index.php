@@ -6,12 +6,19 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title></title>
+       <?php
+       include './includes/header/head.php';
+       ?>
     </head>
     <body>
         <?php
-        // put your code here
-        ?>
+       include './includes/header/navbar.php';
+       include './home/carousel.php';
+       include './home/expertise.php';
+       include './home/electrification.php';
+       include './home/contactus.php';
+       include './home/projects.php';
+       include './includes/footer/footer.php';
+       ?>
     </body>
 </html>
