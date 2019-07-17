@@ -7,11 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Emerans_Systems</title>
+        <link rel="stylesheet" href="Resources/css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="Resources/fa/css/font-awesome.min.css"/>
+        <script src="Resources/js/jquery-3.4.1.js"></script>
+        <script src="Resources/js/bootstrap.min.js"></script>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h2>Welcome to Emerans Systems</h2>
     </body>
 </html>
