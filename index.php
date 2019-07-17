@@ -6,14 +6,20 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
-        <title>Emerans_Systems</title>
-        <link rel="stylesheet" href="Resources/css/bootstrap.min.css"/>
-        <link rel="stylesheet" href="Resources/fa/css/font-awesome.min.css"/>
-        <script src="Resources/js/jquery-3.4.1.js"></script>
-        <script src="Resources/js/bootstrap.min.js"></script>
+
+       <?php
+       include './includes/header/head.php';
+       ?>
     </head>
     <body>
-        <h2>Welcome to Emerans Systems</h2>
+        <?php
+       include './includes/header/navbar.php';
+       include './home/carousel.php';
+       include './home/expertise.php';
+       include './home/electrification.php';
+       include './home/contactus.php';
+       include './home/projects.php';
+       include './includes/footer/footer.php';
+       ?>
     </body>
 </html>
