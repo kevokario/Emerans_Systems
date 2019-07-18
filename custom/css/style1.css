@@ -1,0 +1,137 @@
+body{
+	background-color: #ceaefe;
+}
+.mynav-logo{
+    /*margin: 0px -15px;*/
+    height: 70px;
+}
+.mynav-brand{
+
+}
+
+.mynav-links{
+	display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 80%;
+}
+.mynav .mynav-caret{
+    display: none;
+}
+.mynav-links li,.mynav-brand{
+	display: inline-block;
+	padding: 0;
+    margin: 1px 3px;
+}
+.mynav-links li .mynav-link{
+	display: inline-block;
+	border-top:2px solid #f8f9fa;
+    padding: 22px 20px;
+    transition: .5s;
+    text-decoration: none;
+}
+.mynav-btn{
+	display: inline-block;
+	border-top:2px solid #f8f9fa;
+    padding: 22px 20px;
+    text-decoration: none;
+}
+.mynav-btn{
+	    display: none;
+}
+.mynav-links li .menu-options-multiple{
+	position: absolute;
+    right: 0;
+    left: 0;
+    opacity: 0;
+    z-index: 5;
+    margin-top: -1px;
+    transition: .5s;
+    padding: 3px 13px;
+    background-color: #fff;
+}
+
+.mynav-links li .menu-options{
+    position: absolute;
+    background-color: #fff;
+    padding: 2px 20px 2px 2px;
+    text-align: left;
+    opacity: 0;
+    transition: .5s;
+    min-width: 134px;
+}
+.menu-options-multiple .mymenu{
+    padding: 10px 5px;
+    float: left;
+    width: 25%;
+}
+
+.menu-option-title{
+    text-align: center;
+    font-weight: 900;
+    transition: .5s;
+    font-size: larger;
+    border-bottom: 1px solid;
+}
+
+.menu-option-body{
+
+}
+.menu-option-body a{
+    display: block;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+/*Response ive CSS*/
+@media(max-width: 768px){
+	.mynav .mynav-btn{
+		display: inline-block;
+	}
+	.mynav .mynav-links{
+		position: fixed;
+	    right: 0;
+	    top: 73px;
+	    overflow-x: auto;
+	    bottom: 0;
+	    background-color: #fefefe;
+    	overflow-x: hidden;
+    	width: 0;
+	    /*width: 70%;*/
+	    transition: .5s;
+	}
+	.mynav .mynav-links li{
+		display: block;
+    	border: none;
+	}
+	.mynav .mynav-links li a{
+		display: block;
+    	border: none;
+	}
+	.mynav-links li .menu-options-multiple{
+		opacity: 1;
+	    position: relative;
+	    height: 0px;
+	    /*height: 600px;*/
+	    overflow: hidden;
+	    padding: 0;
+	}
+	.mynav-links li .menu-options-multiple .mymenu{
+    	width: 100%;
+	}
+	.mynav-links li .menu-options{
+		opacity: 1;
+	    position: relative;
+	    height: 0px;
+	    /*height: 125px;*/
+	    overflow: hidden;
+	    padding: 0;
+	}
+	.mynav .mynav-caret{
+    	display: inline;
+	}
+}
+@media(max-width: 576px){
+
+}
