@@ -1,5 +1,5 @@
-<nav class="bg-light mynav navbar-light">
-	<a class="mynav-brand"><img src="img/emerands_logo.jpg" alt="Emerans" class="mynav-logo"></a>
+<nav class="mynav navbar-light">
+    <a class="mynav-brand"><img src="img/emerands_logo1.jpg" alt="Emerands Systems" class="mynav-logo"></a>
 	<ul class="mynav-links">
 		<li>
 			<a id="linksA" href="#" class="mynav-link">

@@ -1,6 +1,4 @@
-body{
-	background-color: #ceaefe;
-}
+
 .mynav-logo{
     /*margin: 0px -15px;*/
     height: 70px;
@@ -9,6 +7,10 @@ body{
 
 }
 
+.mynav{
+	left: 0;
+	right: 0;
+}
 .mynav-links{
 	display: inline-block;
     padding: 0;
@@ -25,14 +27,14 @@ body{
 }
 .mynav-links li .mynav-link{
 	display: inline-block;
-	border-top:2px solid #f8f9fa;
+	border-top:2px solid transparent;
     padding: 22px 20px;
     transition: .5s;
     text-decoration: none;
 }
 .mynav-btn{
 	display: inline-block;
-	border-top:2px solid #f8f9fa;
+	border-top:2px solid transparent;
     padding: 22px 20px;
     text-decoration: none;
 }
@@ -43,6 +45,7 @@ body{
 	position: absolute;
     right: 0;
     left: 0;
+    border-bottom: 1px solid;
     opacity: 0;
     z-index: 5;
     margin-top: -1px;
@@ -57,6 +60,7 @@ body{
     padding: 2px 20px 2px 2px;
     text-align: left;
     opacity: 0;
+    border-bottom: 1px solid;
     transition: .5s;
     min-width: 134px;
 }
@@ -67,13 +71,16 @@ body{
 }
 
 .menu-option-title{
-    text-align: center;
-    font-weight: 900;
-    transition: .5s;
-    font-size: larger;
+    font-weight: 400;
+    transition: .2s;
+    padding-left: 20px;
+    width: 75%;
     border-bottom: 1px solid;
 }
-
+.menu-option-title:hover{
+	color:#fff;
+    background: #000;
+}
 .menu-option-body{
 
 }
@@ -83,7 +90,10 @@ body{
     padding-top: 5px;
     padding-bottom: 2px;
 }
-
+.menu-option-body a:hover{
+	    transition: .3s;
+    color: blue !imporntant;
+}
 /*Response ive CSS*/
 @media(max-width: 768px){
 	.mynav .mynav-btn{
@@ -109,6 +119,10 @@ body{
 		display: block;
     	border: none;
 	}
+	.mynav .mynav-links li .menu-option-body a{
+
+    margin-left: 45px;
+	}
 	.mynav-links li .menu-options-multiple{
 		opacity: 1;
 	    position: relative;
@@ -130,6 +144,10 @@ body{
 	}
 	.mynav .mynav-caret{
     	display: inline;
+	}
+	.mynav .menu-option-title{
+    border-bottom: none;
+    margin-left: 20px;
 	}
 }
 @media(max-width: 576px){

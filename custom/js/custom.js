@@ -1,5 +1,11 @@
     $(document).ready(function () {
 
+    	 $(document).scroll(function () {
+        var st = $(this).scrollTop();
+        if (st > 70) {
+//           alert(st);
+        }
+    });
         //This is the nav-bar icon click event registration
         // -------------------------------------------------------------------------------
         $('.mynav .mynav-btn').click(function () {
@@ -16,7 +22,6 @@
             // -------------------------------------------------------------------------------
             else {
                 doOnSmall();
-
             }
         $(window).on('resize', function () {
             //on a large screen
@@ -27,7 +32,6 @@
             // -------------------------------------------------------------------------------
             else {
                 doOnSmall();
-
             }
         });
     });
@@ -52,11 +56,11 @@
                 });
                 $('#linksA').mouseleave(function () {
                     $('.mynav .menu-options-multiple').css({'opacity': '0', 'z-index': '1'});
-                    $(this).css({'border-top-color': '#f8f9fa'});
+                    $(this).css({'border-top-color': 'transparent'});
                 });
                 $('.menu-options-multiple').mouseleave(function () {
                     $('.mynav .menu-options-multiple').css('opacity', '0');
-                    $('#linksA').css({'border-top-color': '#f8f9fa'});
+                    $('#linksA').css({'border-top-color': 'transparent'});
                 });
                 // -------------------------------------------------------------------------------
 
@@ -75,11 +79,11 @@
                 });
                 $('#linksB').mouseleave(function () {
                     $('#linksB').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-                    $(this).css({'border-top-color': '#f8f9fa'});
+                    $(this).css({'border-top-color': 'transparent'});
                 });
                 $('#linksB').siblings('.menu-options').mouseleave(function () {
                     $(this).css({'opacity': '0', 'z-index': '1'});
-                    $('#linksB').css({'border-top-color': '#f8f9fa'});
+                    $('#linksB').css({'border-top-color': 'transparent'});
                 });
                 // -------------------------------------------------------------------------------
 
@@ -98,11 +102,11 @@
                 });
                 $('#linksC').mouseleave(function () {
                     $('#linksC').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-                    $(this).css({'border-top-color': '#f8f9fa'});
+                    $(this).css({'border-top-color': 'transparent'});
                 });
                 $('#linksC').siblings('.menu-options').mouseleave(function () {
                     $(this).css({'opacity': '0', 'z-index': '1'});
-                    $('#linksC').css({'border-top-color': '#f8f9fa'});
+                    $('#linksC').css({'border-top-color': 'transparent'});
                 });
                 // -------------------------------------------------------------------------------
 
@@ -121,11 +125,11 @@
                 });
                 $('#linksD').mouseleave(function () {
                     $('#linksD').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-                    $(this).css({'border-top-color': '#f8f9fa'});
+                    $(this).css({'border-top-color': 'transparent'});
                 });
                 $('#linksD').siblings('.menu-options').mouseleave(function () {
                     $(this).css({'opacity': '0', 'z-index': '1'});
-                    $('#linksD').css({'border-top-color': '#f8f9fa'});
+                    $('#linksD').css({'border-top-color': 'transparent'});
                 });
                 // -------------------------------------------------------------------------------
 
@@ -144,19 +148,19 @@
                 });
                 $('#linksE').mouseleave(function () {
                     $('#linksE').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-                    $(this).css({'border-top-color': '#f8f9fa'});
+                    $(this).css({'border-top-color': 'transparent'});
                 });
                 $('#linksE').siblings('.menu-options').mouseleave(function () {
                     $(this).css({'opacity': '0', 'z-index': '1'});
-                    $('#linksE').css({'border-top-color': '#f8f9fa'});
+                    $('#linksE').css({'border-top-color': 'transparent'});
                 });
                 // -------------------------------------------------------------------------------
     }
 
     function doOnSmall(){
                 $('.mynav-links').css({'width': '0', 'transition': '0s'});
-                $('.mynav-links .menu-options').css({'opacity': '1', 'transition': '0s'});
-                $('.mynav-links .menu-options-multiple').css({'opacity': '1', 'transition': '0s'});
+                $('.mynav-links .menu-options').css({'opacity': '1', 'transition': '0s','height':'0'});
+                $('.mynav-links .menu-options-multiple').css({'opacity': '1', 'transition': '0s','height':'0'});
 
                 $('#linksA').click(function (event) {
                     event.preventDefault();
@@ -168,7 +172,7 @@
                         $('.menu-options-multiple').css({'height': '0', 'transition': '.5s'});
                     } else {
                     	$(this).children('.mynav-caret').css({'transition':'.5s','transform':'rotateZ(180Deg)'});
-                        $('.menu-options-multiple').css({'height': '600px', 'transition': '.5s'});
+                        $('.menu-options-multiple').css({'height': '664px', 'transition': '.5s'});
                     }
                     }
                 });
