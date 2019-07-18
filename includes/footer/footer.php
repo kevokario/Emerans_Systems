@@ -2,13 +2,21 @@
     <div class="row">
         <div class="col-sm-3 bg-warning">
             <h5>EMERAND SYSTEMS LTD</h5>
+            <div class="container">
+                <p style="color: white;">
+Emeran systems is a kenyan registered company operating in the Engineering and Technology field. The company focus on 
+i) Power distribution. i.e distribution networks, Electrification, low voltage and medium voltage design & Constrution.
+
+Weve qualified surveyor, Designers, electrical linesmen, electricians, with extensive experience in line design, survey, management and construction.
+</p>
+            </div>
             <span>
             <h6>FOLLOW US!</h6>
-                <a class="fa fa-facebook"></a>
-                <a class="fa fa-twitter">
-                <a class="fa fa-linkedin"></a>
-                <a class="fa fa-youtube"></a>
-                </a></span>
+            <a class="fa fa-facebook fa-2x" href="#"></a>
+                <a class="fa fa-twitter fa-2x" href="#"></a>
+                <a class="fa fa-linkedin fa-2x" href="#"></a>
+                <a class="fa fa-youtube fa-2x" href="#"></a>
+            </span>
         </div>
         <div class="col-sm-4">
             <h6 class="text-center">SERVICES/EXPERTISE</h6>
@@ -44,7 +52,7 @@
             </div>
         </div>
         <div class="col-sm-3">
-            <h5>ELECTRIFICATION SYSTEM </h5>
+            <h5>ELECTRIFICATION SYSTEMS </h5>
             <div class="container">
                 <p><a onmouseover="style='color: white;'" href="#">Design</a><br>
                     <a onmouseover="style='color: white;'" href="#">Store Management</a><br>

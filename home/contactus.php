@@ -1,8 +1,8 @@
-<?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+<div class="container-fluid bg-info" id="contact">
+    <h3 style="margin-left: 10%; font-weight: 700;">CONTACT US</h3>
+    <p style="margin-left: 10%;"><b>GOT A NEW PROJECT?</b><br>
+        Emeran system's team can provide the experience, expertise, resourses and materials you need.
+        <a class="square-button" href="#">CONTACT US</a>
+    </p>
+</div>
 
