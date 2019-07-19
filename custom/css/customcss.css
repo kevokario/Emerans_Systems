@@ -87,7 +87,7 @@
     bottom: -50px;
 }
 .carousel-control-prev, .carousel-control-next{
-    bottom: -300px;
+    /*bottom: -300px;*/
 }
 #projects h3{
     font-weight: 700;
