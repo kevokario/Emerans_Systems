@@ -13,7 +13,7 @@
                 </div>
             </div>
         </a>
-        <a class="col-sm-3" id="projectimg" href="#">
+        <a class="col-sm-3 projectimg" href="#">
             <div class="card">
                 <img src="img/pbanner.jpg" alt=""/>
                 <div class="card-body">
@@ -21,11 +21,11 @@
                 </div>
             </div>
         </a>
-        <a class="col-sm-3" id="projectimg">
+        <a class="col-sm-3 projectimg">
             <img src="img/photo_2017-10-20_12-52-49.jpg" alt=""/>
             <p>Training</p>
         </a>
-        <a class="col-sm-3" id="projectimg">
+        <a class="col-sm-3 projectimg">
             <img src="img/photo_2019-06-03_17-14-58.jpg" alt=""/>
             <p>Electrification management systems phase II</p>
         </a>
