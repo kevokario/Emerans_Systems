@@ -3,7 +3,10 @@ $(document).ready(function () {
     $(document).scroll(function () {
         var st = $(this).scrollTop();
         if (st > 70) {
-            // alert(st);
+            $('.mynav').addClass('navScolled');
+        }
+        else {
+            $('.mynav').removeClass('navScolled');
         }
     });
     //This is the nav-bar icon click event registration
@@ -18,24 +21,23 @@ $(document).ready(function () {
     if ($(window).width() > 768) {
         doOnLarge();
     }
-    //does this in a smaller screen. Responsive Css.
-    // -------------------------------------------------------------------------------
+//does this in a smaller screen. Responsive Css.
+// -------------------------------------------------------------------------------
     else {
         doOnSmall();
     }
     $(window).on('resize', function () {
-        //on a large screen
+//on a large screen
         if ($(window).width() > 768) {
             doOnLarge();
         }
-        //does this in a smaller screen. Responsive Css.
-        // -------------------------------------------------------------------------------
+//does this in a smaller screen. Responsive Css.
+// -------------------------------------------------------------------------------
         else {
             doOnSmall();
         }
     });
 });
-
 function doOnLarge() {
     $('.mynav-links').css('width', '70%');
     $('.mynav-links .menu-options').css({'opacity': '0', 'height': 'auto'});
@@ -46,7 +48,7 @@ function doOnLarge() {
     // -------------------------------------------------------------------------------
     $('#linksA').mouseenter(function () {
         $('.mynav .menu-options-multiple').css({'opacity': '1', 'z-index': '5'});
-        $(this).css({'border-top-color': 'red'});
+        $(this).css({'border-top-color': '#fff'});
     });
     $('.menu-options-multiple').mouseenter(function () {
         if ($('.mynav .menu-options-multiple').css('opacity') === '1') {
@@ -133,7 +135,6 @@ function doOnLarge() {
         $(this).css({'opacity': '0', 'z-index': '1'});
         $('#linksD').css({'border-top-color': 'transparent'});
     });
-
     //This happens on the fourth navbar menu options
     // -------------------------------------------------------------------------------
 
@@ -162,7 +163,6 @@ function doOnSmall() {
     $('.mynav-links').css({'width': '0', 'transition': '0s'});
     $('.mynav-links .menu-options').css({'opacity': '1', 'transition': '0s', 'height': '0'});
     $('.mynav-links .menu-options-multiple').css({'opacity': '1', 'transition': '0s', 'height': '0'});
-
     $('#linksA').click(function (event) {
         event.preventDefault();
         if ($(window).width() > 768) {
@@ -199,6 +199,14 @@ function doOnSmall() {
             }
         }
     });
+        $('#linksB').mouseleave(function () {
+            $('#linksB').siblings('.menu-options').css({'opacity': '1'});
+            $(this).css({'border-top-color': 'transparent'});
+        });
+        $('#linksB').siblings('.menu-options').mouseleave(function () {
+            $(this).css({'opacity': '0'});
+            $('#linksB').css({'border-top-color': 'transparent'});
+        });
     $('#linksC').click(function (event) {
         event.preventDefault();
         if ($(window).width() > 768) {
@@ -213,5 +221,13 @@ function doOnSmall() {
                 $(this).siblings('.menu-options').css({'height': '125px', 'opacity': '1', 'transition': '.5s'});
             }
         }
+    });
+     $('#linksC').mouseleave(function () {
+        $('#linksC').siblings('.menu-options').css({'opacity': '1'});
+        $(this).css({'border-top-color': 'transparent'});
+    });
+    $('#linksC').siblings('.menu-options').mouseleave(function () {
+        $(this).css({'opacity': '0'});
+        $('#linksC').css({'border-top-color': 'transparent'});
     });
 }
