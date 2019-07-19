@@ -1,4 +1,6 @@
-
+body{
+	background-color: #ceaefe;
+}
 .mynav-logo{
     /*margin: 0px -15px;*/
     height: 70px;
@@ -10,12 +12,14 @@
 .mynav{
 	left: 0;
 	right: 0;
+	z-index: 120;
 }
 .mynav-links{
 	display: inline-block;
     padding: 0;
     margin: 0;
     width: 80%;
+    z-index: 120;
 }
 .mynav .mynav-caret{
     display: none;
@@ -30,6 +34,7 @@
 	border-top:2px solid transparent;
     padding: 22px 20px;
     transition: .5s;
+        color: #fff;
     text-decoration: none;
 }
 .mynav-btn{
@@ -59,10 +64,11 @@
     background-color: #fff;
     padding: 2px 20px 2px 2px;
     text-align: left;
+    z-index: 5;
     opacity: 0;
     border-bottom: 1px solid;
     transition: .5s;
-    min-width: 134px;
+    min-width: 200px;
 }
 .menu-options-multiple .mymenu{
     padding: 10px 5px;
@@ -92,7 +98,7 @@
 }
 .menu-option-body a:hover{
 	    transition: .3s;
-    color: blue !imporntant;
+    color: blue!imporntant;
 }
 /*Response ive CSS*/
 @media(max-width: 768px){
@@ -105,7 +111,7 @@
 	    top: 73px;
 	    overflow-x: auto;
 	    bottom: 0;
-	    background-color: #fefefe;
+	    background-color: rgba(0,0,0,0.9);
     	overflow-x: hidden;
     	width: 0;
 	    /*width: 70%;*/
@@ -119,8 +125,12 @@
 		display: block;
     	border: none;
 	}
+	.mynav .mynav-links .mynav-link{
+		color: #fff;
+    font-weight: 700;
+	}
 	.mynav .mynav-links li .menu-option-body a{
-
+    color: #f7f8fa;
     margin-left: 45px;
 	}
 	.mynav-links li .menu-options-multiple{
@@ -128,6 +138,7 @@
 	    position: relative;
 	    height: 0px;
 	    /*height: 600px;*/
+	    background-color: #303030;
 	    overflow: hidden;
 	    padding: 0;
 	}
@@ -139,6 +150,7 @@
 	    position: relative;
 	    height: 0px;
 	    /*height: 125px;*/
+	    background-color: #303030;
 	    overflow: hidden;
 	    padding: 0;
 	}
@@ -146,9 +158,15 @@
     	display: inline;
 	}
 	.mynav .menu-option-title{
-    border-bottom: none;
-    margin-left: 20px;
+	    border-bottom: none;
+	    margin-left: 20px;
+	    color: #999;
+	    text-transform: uppercase;
 	}
+	#navlinksA:hover, #navlinksA:focus, #navlinksA:active{
+		color: blue;
+	}
+	
 }
 @media(max-width: 576px){
 
