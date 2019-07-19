@@ -9,27 +9,26 @@
             <div class="card">
                 <img src="img/pb1.jpg" alt=""/>
                 <div class="card-body">
-            <p>Design and salary</p>
-            </div>
+                    <p>Design and salary</p>
+                </div>
             </div>
         </a>
         <a class="col-sm-3" id="projectimg" href="#">
             <div class="card">
-            <img src="img/pbanner.jpg" alt=""/>
-            <div  class="card-body">
-                <h4>Electrification</h4>
-            <p>Electrification management systems</p>
-            </div>
+                <img src="img/pbanner.jpg" alt=""/>
+                <div class="card-body">
+                    <p>Electrification management systems</p>
+                </div>
             </div>
         </a>
-        <div class="col-sm-3" id="projectimg">
+        <a class="col-sm-3" id="projectimg">
             <img src="img/photo_2017-10-20_12-52-49.jpg" alt=""/>
             <p>Training</p>
-        </div>
-        <div class="col-sm-3" id="projectimg">
+        </a>
+        <a class="col-sm-3" id="projectimg">
             <img src="img/photo_2019-06-03_17-14-58.jpg" alt=""/>
             <p>Electrification management systems phase II</p>
-        </div>
+        </a>
     </div>
 </div>
 

@@ -107,7 +107,7 @@
 }
 .menu-option-body a:hover{
     transition: .3s;
-    color: blue!imporntant;
+    color: blue !imporntant;
 }
 /*Response ive CSS*/
 @media(max-width: 768px){
