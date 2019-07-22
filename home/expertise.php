@@ -17,7 +17,12 @@
 <div class="cotainer-fluid generic-container">
     <div class="row">
         <div class="col-sm-12 text-center">
-            <h3> Our Services/ Expertise Section</h3>
+            <h2> Our Services/ Expertise Section</h2>
+
+            <p class="emphase-introduction">
+                World-class engineering services at your fingertips
+            </p>
+
         </div>
     </div>
     <div class="row px-auto  justify-content-center">

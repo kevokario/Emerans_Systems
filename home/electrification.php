@@ -1,3 +1,4 @@
+<!--
 <div class="container-fluid" id="triangle-up">
     <div class="container-fluid row" id="elect">
         <div class="col-sm-3 bg-warning" id="electrifictaion">
@@ -83,7 +84,14 @@
                     </div>
                 </div>
             </div>
-        </div>-->
+        </div>
     </div>
 
+</div>
+-->
+
+<div class="container-fluid">
+    <div class="row">
+        
+    </div>
 </div>

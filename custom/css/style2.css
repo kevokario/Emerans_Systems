@@ -81,6 +81,9 @@
 .generic-container{
     padding: 51px 20px;
 }
+.emphase-introduction{
+  padding: 0 40px;   
+}
 @media(max-width: 768px){
     .service-conatiner{
         width: 46%;
