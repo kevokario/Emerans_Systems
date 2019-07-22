@@ -1,6 +1,6 @@
 <div class="container-fluid bg-dark footerr" id="footer">
     <div class="row">
-        <div class="col-sm-3 bg-warning emebottom" id="emebottom">
+        <div class="col-sm-3  emebottom" id="emebottom">
             <h5>EMERAND SYSTEMS LTD</h5>
             <div id="emeran">
                 <p style="color: white;">
@@ -52,7 +52,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-sm-3 foot2">
+        <div class="col-sm-3 foot">
             <h5>ELECTRIFICATION SYSTEMS </h5>
             <div class="container" id="hide">
                 <p><a onmouseover="style = 'color: white;'" href="#">Design</a><br>
@@ -66,7 +66,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-sm-2 foot3">
+        <div class="col-sm-2 foot">
             <a href="#"><h6>PROJECTS</h6></a>
             <a href="#"><h6>BLOG</h6>
                 <a href="#"><H6>ABOUT US</H6></a>

@@ -1,20 +1,12 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <!--Head details Section-->
-        <?php
-        include '../../includes/header/head.php';
-        ?>
-    <a href="../../includes/header/head.php">Head</a>
-    </head>
-    <body>
-
-        <!--Nav Bar Section-->
-        <?php
-        include '../../includes/header/navbar.php';
-        ?>
-
-
+   <?php
+   include 'head.php';
+   ?>
+   
+        <div style="height: 600px">
+            
+        </div>
 
         <!--Footer Section-->
         <?php

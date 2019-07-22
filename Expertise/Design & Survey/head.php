@@ -1,32 +1,41 @@
-<!--<div class="d-flex">
-    <div class="ml-auto p-2">
-        <button>Sign in</button> <button>Sign up</button>
-    </div>
-</div>-->
-<!--<div class="d-flex">
-    <div class="ml-auto p-2">
-        <button>Sign in</button> <button>Sign up</button>
-    </div>
-</div>-->
-<nav class="mynav navbar-light">
-    <a class="mynav-brand"><img src="img/logo.png" alt="Emerans" class="mynav-logo"></a>
+<head>
+<link href="../../Resources/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="../../Resources/fa/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<link href="../../custom/css/style1.css" rel="stylesheet" type="text/css"/>
+<link href="../../custom/css/customcss.css" rel="stylesheet" type="text/css"/>
+<link href="../../Resources/css/swiper.min.css" rel="stylesheet" type="text/css"/>
+<link href="../../Resources/css/animate.css" rel="stylesheet" type="text/css"/>
+<link href="../../custom/css/style2.css" rel="stylesheet" type="text/css"/>
+<link rel="icon" href="../../img/favicon.png"/>
+<script src="../../Resources/js/jquery-3.4.0.min.js" type="text/javascript"></script>
+<script src="../../Resources/js/popper.min.js" type="text/javascript"></script>
+<script src="../../Resources/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="../../custom/js/custom.js" type="text/javascript"></script>
+<script src="../../Resources/js/swiper.min.js" type="text/javascript"></script>
+<script src="../../Resources/js/jquery.wait.js" type="text/javascript"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emerans Systems Ltd</title>
+</head>
+<body>
+    <nav class="mynav navbar-light">
+    <a class="mynav-brand"><img src="../../img/logo.png" alt="Emerans" class="mynav-logo"></a>
 	<ul class="mynav-links">
 		<li>
-			<a id="linksA" href="Expertise/" class="mynav-link">
+                    <a id="linksA" href="../" class="mynav-link">
 				Expertise 
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>
 			<div class="menu-options-multiple custom-menu-option text-dark">
 				<div class="mymenu">
-                                    <a class="menu-option-title" href="Expertise/Design & Survey/">
+                                    <a class="menu-option-title" href="../Design & Survey/">
 						Design & Survey
 					</a>
 					<div class="menu-option-body">
-                                            <a href="Expertise/Design & Survey/AutocardDesign.php">Autocard Design</a>
-                                            <a href="Expertise/Design & Survey/Costing.php">Costing</a>
-                                            <a href="Expertise/Design & Survey/Design&Survey.php">Design&Survey</a>
-                                            <a href="Expertise/Design & Survey/Field Survey.php">Field Survey</a>
-                                            <a href="Expertise/Design & Survey/FieldDatabase.php">Field Database</a>
+                                            <a href="AutocardDesign.php">Autocard Design</a>
+                                            <a href="Costing.php">Costing</a>
+                                            <a href="Design&Survey.php">Design&Survey</a>
+                                            <a href="Field Survey.php">Field Survey</a>
+                                            <a href="FieldDatabase.php">Field Database</a>
 					</div>
 				</div>
 				<div class="mymenu">
