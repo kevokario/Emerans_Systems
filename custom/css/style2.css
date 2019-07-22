@@ -31,6 +31,9 @@
 }
 .service-title h3{
     padding-left: 2px;
+    font-size: 1.7rem;
+    font-weight: 600;
+    letter-spacing: 1.2px;
 }
 .service-cover{
     position: absolute;
@@ -47,9 +50,12 @@
     left: -100%;
     transition: .5s;
 }
-.service-cover-title{
+.service-cover .service-cover-title h3{
     text-align: center;
     padding: 20px 5px 5px;
+    font-size: 1.7rem;
+    font-weight: 600;
+    letter-spacing: 1.2px;
 }
 .service-cover-text{
     text-align: left;
@@ -79,10 +85,10 @@
 }
 
 .generic-container{
-    padding: 51px 36px;
+    padding: 51px 36px !important;
 }
 .emphase-introduction{
-  padding: 0 40px;   
+    padding: 0 40px;   
 }
 @media(max-width: 768px){
     .service-conatiner{

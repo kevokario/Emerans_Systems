@@ -1,0 +1,95 @@
+   .swiper-container {
+        width: 100%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .swiper-slide {
+        width: 300px;
+        /*height: 500px;*/
+
+    }
+
+    .swiper-slide .swiper-img >img:hover {
+        box-shadow: 0 8px 15px 4px rgba(0,0,0,0.3);
+        transform: scaleY(1.03);
+    }
+    .swiper-slide .swiper-img >img{
+        width: 100%;
+        height: 300px;
+        transition: .5s;
+    }
+    .swiper-slide .swiper-details{
+        background-color: #fff;
+    }
+    .swiper-slide .swiper-details h4{
+        font-weight: 600;
+        font-size: 20px;
+        margin-top: 4px;
+        margin-bottom: 5px;
+        text-align: center;
+        bottom: -3px;
+        overflow: hidden;
+        position: absolute;
+        background: rgba(0,0,0,0.7);
+        width: 100%;
+        margin: 0;
+        color: #fff;
+        padding: 18px;
+    }
+    .swiper-slide .swiper-details h4 span{
+        display: block;
+        font-size: smaller;
+    }
+    .swiper-slide .swiper-details p{
+        text-align: justify;
+        padding: 10px;
+        line-height: 19.2px;
+        margin-bottom: 0;
+    }
+    .my-class{
+        border: 1px solid #05063c;
+        padding: 10px;
+        border-radius: 3px;
+        /*border: none;*/
+        display: inline-block;
+        color: #05063c;
+        font-weight: 600;
+        transition: .5s;
+    }
+    .my-class:hover{
+        background-color: #05063c;
+        color:#fff !important;
+        text-decoration: none;
+    }
+
+    .generic-container-alt{
+        padding: 36px;
+        background: #f1f1f1;
+        min-height: 500px;
+    }
+    .generic-container-alt .lead-div{
+        padding: 20px;
+    }
+    .generic-container-alt .lead-div h2{
+        margin-top: 23px;
+        font-weight: 700;
+        font-size: 1.6rem;
+        color: #05063c;
+    }
+    .generic-container-alt .lead-div .details{
+        text-align: justify;
+    }
+    @media(max-width:768px){
+        .swiper-slide{
+
+        }
+        .swiper-slide .swiper-details{
+
+        }
+        .swiper-slide .swiper-details .swiper-img{
+
+        }
+        .swiper-slide .swiper-details .swiper-title{
+
+        } 
+    }
