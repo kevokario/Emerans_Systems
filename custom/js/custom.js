@@ -1,22 +1,35 @@
 $(document).ready(function () {
 
+
     $(document).scroll(function () {
         var st = $(this).scrollTop();
         if (st > 70) {
             $('.mynav').addClass('navScolled');
-        }
-        else {
+        } else {
             $('.mynav').removeClass('navScolled');
         }
     });
     //This is the nav-bar icon click event registration
     // -------------------------------------------------------------------------------
     $('.mynav .mynav-btn').click(function () {
-        if ($(this).siblings('.mynav-links').width() > 20) {
-            $(this).siblings('.mynav-links').css({'width': '0', 'transition': '.5s'});
+        if ($(window).width() <= 576) {
+
+            if ($(this).siblings('.mynav-links').css('right') === '0px') {
+                $(this).siblings('.mynav-links').css({'right': '-76%', 'transition': '.5s'});
+            } else {
+                $(this).siblings('.mynav-links').css({'right': '0px', 'transition': '.5s'});
+            }
+
         } else {
-            $(this).siblings('.mynav-links').css({'width': '70%', 'transition': '.5s'});
+
+            if ($(this).siblings('.mynav-links').css('right') === '0px') {
+                $(this).siblings('.mynav-links').css({'right': '-70%', 'transition': '.5s'});
+            } else {
+                $(this).siblings('.mynav-links').css({'right': '0px', 'transition': '.5s'});
+            }
+
         }
+
     });
     if ($(window).width() > 768) {
         doOnLarge();
@@ -35,134 +48,40 @@ $(document).ready(function () {
 // -------------------------------------------------------------------------------
         else {
             doOnSmall();
+            if ($(window).width() <= 576) {
+                $('.mynav-links').css({'width': '76%', 'right': '-76%'});
+            }
         }
     });
 });
 function doOnLarge() {
     $('.mynav-links').css('width', '70%');
-    $('.mynav-links .menu-options').css({'opacity': '0', 'height': 'auto'});
+    $('.mynav-links .menu-options').css({'opacity': '0', 'height': 'auto', 'display': 'none'});
     $('.mynav-links .menu-options').css({'transition': '0.5s'});
-    $('.mynav-links .menu-options-multiple').css({'opacity': '0', 'height': 'auto'});
+    $('.mynav-links .menu-options-multiple').css({'opacity': '0', 'height': 'auto', 'display': 'none'});
     $('.mynav-links .menu-options-multiple').css({'transition': '0.5s'});
-    // This happens on the first navbar menu option
+    // This happens on the navbar menu option hover
     // -------------------------------------------------------------------------------
-    $('#linksA').mouseenter(function () {
-        $('.mynav .menu-options-multiple').css({'opacity': '1', 'z-index': '5'});
-        $(this).css({'border-top-color': '#fff'});
+    $('.mynav-links li').mouseenter(function () {
+        $(this).children('.custom-menu-option').css({'display': 'block'}).wait(10).css({'opacity': '1', 'z-index': '5'});
+        $(this).children('.mynav-link').css({'border-top-color': '#fff','color':'#ee9600'});
     });
-    $('.menu-options-multiple').mouseenter(function () {
-        if ($('.mynav .menu-options-multiple').css('opacity') === '1') {
-            $('.mynav .menu-options-multiple').css({'opacity': '1', 'z-index': '5'});
-            $('#linksA').css({'border-top-color': '#fff'});
-        }
+    $('.mynav-links li').mouseleave(function () {
+        $(this).children('.custom-menu-option').css({'opacity': '0', 'z-index': '1'}).wait(500).css('display', 'none');
+        $(this).children('.mynav-link').css({'border-top-color': 'transparent','color':'#fff'});
     });
-    $('#linksA').mouseleave(function () {
-        $('.mynav .menu-options-multiple').css({'opacity': '0', 'z-index': '1'});
-        $(this).css({'border-top-color': 'transparent'});
-    });
-    $('.menu-options-multiple').mouseleave(function () {
-        $('.mynav .menu-options-multiple').css('opacity', '0');
-        $('#linksA').css({'border-top-color': 'transparent'});
-    });
-    // -------------------------------------------------------------------------------
 
-    //This happens on the second navbar menu options
-    // -------------------------------------------------------------------------------
-
-    $('#linksB').mouseenter(function () {
-        // alert('Welcome');
-        $('#linksB').siblings('.menu-options').css({'opacity': '1', 'z-index': '5'});
-        $('#linksB').css({'border-top-color': '#fff'});
-    });
-    $('#linksB').siblings('.menu-options').mouseenter(function () {
-        // alert('Welcome');
-        if ($(this).css('opacity') === '1') {
-            $(this).css({'opacity': '1', 'z-index': '5'});
-            // alert('Welcome');
-            $('#linksB').css({'border-top-color': '#fff'});
-        }
-    });
-    $('#linksB').mouseleave(function () {
-        $('#linksB').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-        $(this).css({'border-top-color': 'transparent'});
-    });
-    $('#linksB').siblings('.menu-options').mouseleave(function () {
-        $(this).css({'opacity': '0', 'z-index': '1'});
-        $('#linksB').css({'border-top-color': 'transparent'});
-    });
-    // -------------------------------------------------------------------------------
-
-    //This happens on the third navbar menu options
-    // -------------------------------------------------------------------------------
-
-    $('#linksC').mouseenter(function () {
-        $('#linksC').siblings('.menu-options').css({'opacity': '1', 'z-index': '5'});
-        $('#linksC').css({'border-top-color': '#fff'});
-    });
-    $('#linksC').siblings('.menu-options').mouseenter(function () {
-        if ($(this).css('opacity') === '1') {
-            $(this).css({'opacity': '1', 'z-index': '5'});
-            $('#linksC').css({'border-top-color': '#fff'});
-        }
-    });
-    $('#linksC').mouseleave(function () {
-        $('#linksC').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-        $(this).css({'border-top-color': 'transparent'});
-    });
-    $('#linksC').siblings('.menu-options').mouseleave(function () {
-        $(this).css({'opacity': '0', 'z-index': '1'});
-        $('#linksC').css({'border-top-color': 'transparent'});
-    });
-    // -------------------------------------------------------------------------------
-
-    //This happens on the fourth navbar menu options
-    // -------------------------------------------------------------------------------
-    $('#linksD').mouseenter(function () {
-        $('#linksD').siblings('.menu-options').css({'opacity': '1', 'z-index': '5'});
-        $('#linksD').css({'border-top-color': '#fff'});
-    });
-    $('#linksD').siblings('.menu-options').mouseenter(function () {
-        if ($(this).css('opacity') === '1') {
-            $(this).css({'opacity': '1', 'z-index': '5'});
-            $('#linksD').css({'border-top-color': '#fff'});
-        }
-    });
-    $('#linksD').mouseleave(function () {
-        $('#linksD').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-        $(this).css({'border-top-color': 'transparent'});
-    });
-    $('#linksD').siblings('.menu-options').mouseleave(function () {
-        $(this).css({'opacity': '0', 'z-index': '1'});
-        $('#linksD').css({'border-top-color': 'transparent'});
-    });
-    //This happens on the fourth navbar menu options
-    // -------------------------------------------------------------------------------
-
-    $('#linksE').mouseenter(function () {
-        $('#linksE').siblings('.menu-options').css({'opacity': '1', 'z-index': '5'});
-        $('#linksE').css({'border-top-color': '#fff'});
-    });
-    $('#linksE').siblings('.menu-options').mouseenter(function () {
-        if ($(this).css('opacity') === '1') {
-            $(this).css({'opacity': '1', 'z-index': '5'});
-            $('#linksE').css({'border-top-color': '#fff'});
-        }
-    });
-    $('#linksE').mouseleave(function () {
-        $('#linksE').siblings('.menu-options').css({'opacity': '0', 'z-index': '1'});
-        $(this).css({'border-top-color': 'transparent'});
-    });
-    $('#linksE').siblings('.menu-options').mouseleave(function () {
-        $(this).css({'opacity': '0', 'z-index': '1'});
-        $('#linksE').css({'border-top-color': 'transparent'});
-    });
     // -------------------------------------------------------------------------------
 }
 
 function doOnSmall() {
-    $('.mynav-links').css({'width': '0', 'transition': '0s'});
-    $('.mynav-links .menu-options').css({'opacity': '1', 'transition': '0s', 'height': '0'});
-    $('.mynav-links .menu-options-multiple').css({'opacity': '1', 'transition': '0s', 'height': '0'});
+    $('.mynav-links').css({'right': '-70%', 'transition': '0s', 'width': '70%'});
+    if ($(window).width() <= 576) {
+        $('.mynav-links').css({'width': '76%', 'right': '-76%', 'transition': '0s'});
+    }
+
+    $('.mynav-links .menu-options').css({'opacity': '1', 'transition': '0s', 'height': '0', 'display': 'block'});
+    $('.mynav-links .menu-options-multiple').css({'opacity': '1', 'transition': '0s', 'height': '0', 'display': 'block'});
     $('#linksA').click(function (event) {
         event.preventDefault();
         if ($(window).width() > 768) {
@@ -178,11 +97,11 @@ function doOnSmall() {
         }
     });
     $('#linksA').mouseleave(function () {
-        $('.mynav .menu-options-multiple').css({'opacity': '1'});
+        $('.mynav .menu-options-multiple').css({'opacity': '1', 'display': 'block'});
         $(this).css({'border-top-color': 'transparent'});
     });
     $('.menu-options-multiple').mouseleave(function () {
-        $('.mynav .menu-options-multiple').css('opacity', '1');
+        $('.mynav .menu-options-multiple').css({'opacity': '1', 'display': 'block'});
         $('#linksA').css({'border-top-color': 'transparent'});
     });
     $('#linksB').click(function (event) {
@@ -199,14 +118,14 @@ function doOnSmall() {
             }
         }
     });
-        $('#linksB').mouseleave(function () {
-            $('#linksB').siblings('.menu-options').css({'opacity': '1'});
-            $(this).css({'border-top-color': 'transparent'});
-        });
-        $('#linksB').siblings('.menu-options').mouseleave(function () {
-            $(this).css({'opacity': '0'});
-            $('#linksB').css({'border-top-color': 'transparent'});
-        });
+    $('#linksB').mouseleave(function () {
+        $('#linksB').siblings('.menu-options').css({'opacity': '1', 'display': 'block'});
+        $(this).css({'border-top-color': 'transparent'});
+    });
+    $('#linksB').siblings('.menu-options').mouseleave(function () {
+        $(this).css({'opacity': '1', 'display': 'block'});
+        $('#linksB').css({'border-top-color': 'transparent'});
+    });
     $('#linksC').click(function (event) {
         event.preventDefault();
         if ($(window).width() > 768) {
@@ -222,12 +141,58 @@ function doOnSmall() {
             }
         }
     });
-     $('#linksC').mouseleave(function () {
-        $('#linksC').siblings('.menu-options').css({'opacity': '1'});
+    $('#linksC').mouseleave(function () {
+        $('#linksC').siblings('.menu-options').css({'opacity': '1', 'display': 'block'});
         $(this).css({'border-top-color': 'transparent'});
     });
     $('#linksC').siblings('.menu-options').mouseleave(function () {
-        $(this).css({'opacity': '0'});
+        $(this).css({'opacity': '1', 'display': 'block'});
         $('#linksC').css({'border-top-color': 'transparent'});
     });
 }
+
+/*
+ * --------------------------------------------------------------------------------------
+ * 
+ * 
+ * THIS SECTION CONTAINS THE SCRIPT THAT CONTROLS THE ANIMATED HOVER DIV
+ * 
+ * 
+ * 
+ * 
+ * -------------------------------------------------------------------------------------
+ */
+
+$(document).ready(function () {
+    $('.service-container').mouseenter(function () {
+        var coverdiv = $(this).children('.service-cover');
+        $(this).children('.service-title').css({'margin-top': '1px'}).wait(300).css('display', 'none');
+        $(this).children('.service-cover').css({
+            'display': 'block'
+        }).wait(10).css('left', '0');
+        $(coverdiv).children('.service-cover-text').addClass('animated fadeInLeftBig');
+        $(coverdiv).children('.service-cover-link')
+                .css({'display': 'block'})
+                .wait(200)
+                .css({'right': '0', 'animation-delay': '.3s'});
+    });
+    $('.service-container').mouseleave(function () {
+        var coverdiv = $(this).children('.service-cover');
+        $(this).children('.service-title').css({'display': 'block'}).wait(1).css('margin-top', '-40px');
+        $(this).children('.service-cover').wait(100).css({
+            'left': '-100%'
+        }).wait(300).css('display', 'none');
+        $(coverdiv).children('.service-cover-link')
+                .css({'right': '-80%'})
+                .wait(200)
+                .css('display', 'none');
+    });
+
+    $(window).on('resize', function () {
+        if ($(window).width() <= 768) {
+            $('.service-container:eq(3)').css('display', 'block');
+        } else {
+            $('.service-container:eq(3)').css('display', 'none');
+        }
+    });
+});

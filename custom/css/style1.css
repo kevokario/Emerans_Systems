@@ -1,19 +1,21 @@
-/*body{
+body{
     background-color: #f7f8fa;
-}*/
+}
 .mynav-logo{
-    /* margin: 0px -15px; */
+    /*margin: 0px -15px;*/
     height: 70px;
-    width: 144px;
 }
 .mynav-brand{
 
 }
 
 .mynav{
-    left: 0;
-    right: 0;
     z-index: 120;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 21px;
 }
 .mynav-links{
     display: inline-block;
@@ -26,11 +28,6 @@
     display: none;
 }
 .navScolled{
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    margin-bottom: 21px;
     background: rgb(99, 102, 106);
 }
 .mynav-links li,.mynav-brand{
@@ -40,10 +37,10 @@
 }
 .mynav-links li .mynav-link{
     display: inline-block;
-    border-top:2px solid transparent;
+    border-top:5px solid transparent;
     padding: 22px 20px;
     transition: .5s;
-    /*color: #fff;*/
+    color: #fff;
     text-decoration: none;
 }
 .mynav-btn{
@@ -62,8 +59,10 @@
     border-bottom: 1px solid;
     opacity: 0;
     z-index: 5;
+    height: 176px;
+    height: 0px;
     margin-top: -1px;
-    transition: .5s;
+    /*transition: .5s;*/
     padding: 3px 13px;
     background-color: #fff;
 }
@@ -76,7 +75,7 @@
     z-index: 5;
     opacity: 0;
     border-bottom: 1px solid;
-    transition: .5s;
+    /*transition: .5s;*/
     min-width: 200px;
 }
 .menu-options-multiple .mymenu{
@@ -89,7 +88,9 @@
     font-weight: 400;
     transition: .2s;
     padding-left: 20px;
+    padding-top: 7px;
     width: 75%;
+    border-radius: 5px 4px 0 0;
     border-bottom: 1px solid;
 }
 .menu-option-title:hover{
@@ -107,7 +108,7 @@
 }
 .menu-option-body a:hover{
     transition: .3s;
-    color: blue !imporntant;
+    color: blue!imporntant;
 }
 /*Response ive CSS*/
 @media(max-width: 768px){
@@ -117,13 +118,14 @@
     .mynav .mynav-links{
         position: fixed;
         right: 0;
-        top: 73px;
+        /*right: -70%;*/
+        top: 72px;
         overflow-x: auto;
         bottom: 0;
         background-color: rgba(0,0,0,0.9);
         overflow-x: hidden;
-        width: 0;
-        /*width: 70%;*/
+        /*width: 0;*/
+        width: 70%;
         transition: .5s;
     }
     .mynav .mynav-links li{
@@ -172,10 +174,18 @@
         color: #999;
         text-transform: uppercase;
     }
-    #navlinksA:hover, #navlinksA:focus, #navlinksA:active{
-        color: blue;
+    .mynav-link:hover{
+        color: #ff99ee;
     }
 
+    
+    /*
+    ---------------------------------------
+    -=====      Services CSS       =======-
+    ---------------------------------------
+    */
+    
+   
 }
 @media(max-width: 576px){
 

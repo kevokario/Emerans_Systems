@@ -3,21 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
+            <file>file:/var/www/html/Emerans_Systems/home/carousel.php</file>
             <file>file:/var/www/html/Emerans_Systems/index.php</file>
             <file>file:/var/www/html/Emerans_Systems/custom/css/style1.css</file>
             <file>file:/var/www/html/Emerans_Systems/includes/header/head.php</file>
             <file>file:/var/www/html/Emerans_Systems/includes/header/navbar.php</file>
             <file>file:/var/www/html/Emerans_Systems/custom/js/custom.js</file>
-=======
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/home/expertise.php</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/index.php</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/home/electrification.php</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/custom/css/customcss.css</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/home/contactus.php</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/home/projects.php</file>
-            <file>file:/C:/Program%20Files%20(x86)/Ampps/www/Emerans_Systems/includes/footer/footer.php</file>
->>>>>>> bc1cdecd888f1de5bf9959c4ab634ce923956eb1
+            <file>file:/var/www/html/Emerans_Systems/custom/css/style2.css</file>
+            <file>file:/var/www/html/Emerans_Systems/home/expertise.php</file>
+            <file>file:/var/www/html/Emerans_Systems/home/electrification.php</file>
         </group>
     </open-files>
 </project-private>

@@ -70,6 +70,7 @@
     #carousel_main img{
          height: 450px;
         width:100%;
+            filter: grayscale(0.1) brightness(79%);
     }
     #carousel_main .carousel-caption h3{
         color: #05063c;

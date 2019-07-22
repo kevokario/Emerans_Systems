@@ -3,15 +3,20 @@
         <button>Sign in</button> <button>Sign up</button>
     </div>
 </div>-->
+<!--<div class="d-flex">
+    <div class="ml-auto p-2">
+        <button>Sign in</button> <button>Sign up</button>
+    </div>
+</div>-->
 <nav class="mynav navbar-light">
-    <a class="mynav-brand"><img src="img/emerands_logo1.jpg" alt="Emerans" class="mynav-logo"></a>
+    <a class="mynav-brand"><img src="img/logo.png" alt="Emerans" class="mynav-logo"></a>
 	<ul class="mynav-links">
 		<li>
 			<a id="linksA" href="#" class="mynav-link">
 				Expertise 
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>
-			<div class="menu-options-multiple text-dark">
+			<div class="menu-options-multiple custom-menu-option text-dark">
 				<div class="mymenu">
 					<div class="menu-option-title">
 						Title A
@@ -60,10 +65,10 @@
 		</li>
 		<li>
 			<a href="#" id="linksB" class="mynav-link">
-			Electrification Systems
-			<i class="mynav-caret pull-right fa fa-caret-down"></i>
-		</a>
-			<div class="menu-options text-dark">
+				Electrification Systems
+				<i class="mynav-caret pull-right fa fa-caret-down"></i>
+			</a>
+			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
 						<a>sublink a</a>
 						<a>sublink b</a>
@@ -78,10 +83,10 @@
 		</li>
 		<li>
 			<a href="#" id="linksC" class="mynav-link">
-			Projects 
-			<i class="mynav-caret pull-right  fa fa-caret-down"></i>
-		</a>
-			<div class="menu-options text-dark">
+				Projects 
+				<i class="mynav-caret pull-right  fa fa-caret-down"></i>
+			</a>
+			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
 						<a>sublink a</a>
 						<a>sublink b</a>
@@ -95,7 +100,7 @@
 				Blog
 				<!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
 			</a>
-			<!-- <div class="menu-options text-dark">
+			<!-- <div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
 						<a>sublink a</a>
 						<a>sublink b</a>
@@ -109,7 +114,7 @@
 				Contact us 
 				<!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
 			</a>
-			<!-- <div class="menu-options text-dark">
+			<!-- <div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
 						<a>sublink a</a>
 						<a>sublink b</a>
