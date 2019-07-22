@@ -12,5 +12,6 @@
 <script src="custom/js/custom.js" type="text/javascript"></script>
 <script src="Resources/js/swiper.min.js" type="text/javascript"></script>
 <script src="Resources/js/jquery.wait.js" type="text/javascript"></script>
+<script src="custom/js/custom_swiper.js" type="text/javascript"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Emerans Systems Ltd</title>

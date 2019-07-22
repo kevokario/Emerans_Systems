@@ -8,7 +8,13 @@ body{
 .mynav-brand{
 
 }
-
+a{
+    color : #222;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
 .mynav{
     z-index: 120;
     position: fixed;
@@ -37,9 +43,10 @@ body{
 }
 .mynav-links li .mynav-link{
     display: inline-block;
-    border-top:5px solid transparent;
+    border-top: 5px solid transparent;
     padding: 22px 20px;
     transition: .5s;
+    font-weight: 700;
     color: #fff;
     text-decoration: none;
 }
@@ -76,7 +83,7 @@ body{
     opacity: 0;
     border-bottom: 1px solid;
     /*transition: .5s;*/
-    min-width: 200px;
+    min-width: 220px;
 }
 .menu-options-multiple .mymenu{
     padding: 10px 5px;
@@ -88,6 +95,8 @@ body{
     font-weight: 400;
     transition: .2s;
     padding-left: 20px;
+    display: block;
+    color: #333;
     padding-top: 7px;
     width: 75%;
     border-radius: 5px 4px 0 0;
@@ -178,14 +187,14 @@ body{
         color: #ff99ee;
     }
 
-    
+
     /*
     ---------------------------------------
     -=====      Services CSS       =======-
     ---------------------------------------
     */
-    
-   
+
+
 }
 @media(max-width: 576px){
 
