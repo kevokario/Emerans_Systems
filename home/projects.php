@@ -5,7 +5,7 @@
         Check out some of our latest engineering projects! 
     </p>
     <div class="row">
-        <a class="col-sm-3" id="projectimg" href="#">
+        <a class="col-sm-3 projectimg" href="#">
             <div class="card">
                 <img src="img/pb1.jpg" alt=""/>
                 <div class="card-body">
@@ -22,12 +22,20 @@
             </div>
         </a>
         <a class="col-sm-3 projectimg">
+            <div class="card">
             <img src="img/photo_2017-10-20_12-52-49.jpg" alt=""/>
+            <div class="card-body">
             <p>Training</p>
+            </div>
+            </div>
         </a>
         <a class="col-sm-3 projectimg">
+            <div class="card">
             <img src="img/photo_2019-06-03_17-14-58.jpg" alt=""/>
+            <div class="card-body">
             <p>Electrification management systems phase II</p>
+            </div>
+            </div>
         </a>
     </div>
 </div>
