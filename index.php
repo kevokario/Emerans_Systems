@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
     <head>
-
-      <?php
-       include './includes/header/head.php';
-       ?>
-
         <!--Head details Section-->
         <?php
         include './includes/header/head.php';

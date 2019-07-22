@@ -12,20 +12,21 @@
     <a class="mynav-brand"><img src="img/logo.png" alt="Emerans" class="mynav-logo"></a>
 	<ul class="mynav-links">
 		<li>
-			<a id="linksA" href="#" class="mynav-link">
+			<a id="linksA" href="Expertise/" class="mynav-link">
 				Expertise 
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>
 			<div class="menu-options-multiple custom-menu-option text-dark">
 				<div class="mymenu">
-					<div class="menu-option-title">
-						Title A
-					</div>
+                                    <a class="menu-option-title" href="Expertise/Design & Survey/">
+						Design & Survey
+					</a>
 					<div class="menu-option-body">
-						<a>sublink a</a>
-						<a>sublink b</a>
-						<a>sublink c</a>
-						<a>sublink d</a>
+                                            <a href="Expertise/Design & Survey/AutocardDesign.php">Autocard Design</a>
+                                            <a href="Expertise/Design & Survey/Costing.php">Costing</a>
+                                            <a href="Expertise/Design & Survey/Design&Survey.php">Design&Survey</a>
+                                            <a href="Expertise/Design & Survey/Field Survey.php">Field Survey</a>
+                                            <a href="Expertise/Design & Survey/FieldDatabase.php">Field Database</a>
 					</div>
 				</div>
 				<div class="mymenu">
@@ -64,7 +65,7 @@
 			</div>
 		</li>
 		<li>
-			<a href="#" id="linksB" class="mynav-link">
+                    <a href="Electrification systems/" id="linksB" class="mynav-link">
 				Electrification Systems
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>
@@ -82,7 +83,7 @@
 			</div>
 		</li>
 		<li>
-			<a href="#" id="linksC" class="mynav-link">
+                    <a href="projects/" id="linksC" class="mynav-link">
 				Projects 
 				<i class="mynav-caret pull-right  fa fa-caret-down"></i>
 			</a>
