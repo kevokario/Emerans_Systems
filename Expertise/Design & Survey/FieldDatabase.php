@@ -5,7 +5,7 @@
         <?php
         include '../../includes/header/head.php';
         ?>
-
+    <a href="../../includes/header/head.php">Head</a>
     </head>
     <body>
 

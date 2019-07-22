@@ -30,7 +30,7 @@
     color: #fff;
 }
 .service-title h3{
-    padding-left: 20px;
+    padding-left: 2px;
 }
 .service-cover{
     position: absolute;
@@ -79,7 +79,7 @@
 }
 
 .generic-container{
-    padding: 51px 20px;
+    padding: 51px 36px;
 }
 .emphase-introduction{
   padding: 0 40px;   
