@@ -5,6 +5,15 @@
 #footer .fa{
     border-left: 10px;
 }
+.emebottom, .foot {
+    padding: 30px;
+}
+.emebottom{
+    background-color: #000;
+}
+.foot{
+    background-color: #212529;
+}
 #footer p,a{
     color: lightgrey;
     font-weight: 600;
@@ -97,6 +106,7 @@
 }
 #projects p{
     margin-left: 8%;
+    font-weight: 700;
 }
 #projects{
     background-color: #ffdf7e;
@@ -107,27 +117,17 @@
     width: 100%;
     height: 250px;
 }
-#projectimg:hover{
-    font-weight: 800;
-    transform: scale(1.1);
-    box-shadow: 1px 5px 10px 10px #fdcd3b;
-}
-.card:hover{
-    transform: scale(1.1);
-    height: 70%;
-}
 .projectimg:hover{
     transform: scale(1.1);
     height: 70%;
+    z-index: 1;
 }
 #projectimg, .projectimg{
     transition: .5s;
     height: 300px;
 }
-.card:hover{
+.projectimg:hover .card{
     box-shadow: 1px 5px 10px 10px #fdcd3b;
-
-
 }
 #projectimg .text-box{
     position: relative;
@@ -142,13 +142,32 @@
 }
 .card{
     background-color: #ffdf7e;
-
+    height: 400px;
+}
+.card p{
+    color: black;
+}
+a:hover
+{text-decoration: none;}
+.card img{
+    height: 250px;
 }
 #rowzoom{
     color: #fdcd3b;
 }
 #projects{
     height: 600px;
+}
+#learnmore{
+    text-align: center;
+    height: 5px;
+    color: deepskyblue;
+}
+#learnmore span{
+    margin-left: 10px;
+}
+#learnmore {
+    font-size: 10pt;
 }
 @media screen and (max-width:900px), screen and (max-height:500px) {
     #hide { display: none !important; }
@@ -165,4 +184,5 @@
 
 @media screen and (max-width:900px), screen and (max-height:500px) {
     #projectimg { margin-bottom: 10px;}
+    #footer { margin-top: 10px;}
 }

@@ -1,4 +1,3 @@
-
 <link href="Resources/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 <link href="Resources/fa/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
 <link href="custom/css/style1.css" rel="stylesheet" type="text/css"/>
