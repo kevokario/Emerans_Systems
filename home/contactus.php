@@ -6,6 +6,7 @@
             </h2>
         </div>
     </div>
+    <a href="../nbproject/project.xml"></a>
     <div class="row fancy-background">
         <div class="col-sm-8">
             <h4>GOT A NEW PROJECT ?</h4>

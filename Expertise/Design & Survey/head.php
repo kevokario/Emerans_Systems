@@ -76,20 +76,18 @@
 			</div>
 		</li>
 		<li>
-                    <a href="Electrification systems/" id="linksB" class="mynav-link">
+                    <a href="../../Electrification_Systems/" id="linksB" class="mynav-link">
 				Electrification Systems
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>
 			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
-						<a>sublink a</a>
-						<a>sublink b</a>
-						<a>sublink c</a>
-						<a>sublink d</a>
-						<a>sublink e</a>
-						<a>sublink f</a>
-						<a>sublink g</a>
-						<a>sublink h</a>
+						<a>Design</a>
+						<a>Store management</a>
+						<a>Work progress</a>
+						<a>Reporting</a>
+						<a>Gantt chart</a>
+						<a>Material reconciliation</a>
 					</div>
 			</div>
 		</li>
@@ -100,10 +98,10 @@
 			</a>
 			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
-						<a>sublink a</a>
-						<a>sublink b</a>
-						<a>sublink c</a>
-						<a>sublink d</a>
+						<a>Design & Salary</a>
+						<a>Electrification Management Systems</a>
+						<a>Training</a>
+						<a>Consultance</a>
 					</div>
 			</div>
 		</li>
