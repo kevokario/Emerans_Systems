@@ -67,7 +67,7 @@
 			</div>
 		</li>
 		<li>
-                    <a href="Electrification/" id="linksB" class="mynav-link">
+                    <a href="Electrification_Systems/" id="linksB" class="mynav-link">
 				Electrification Systems
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>

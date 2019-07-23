@@ -6,10 +6,9 @@
    ?>
   
 
-       
-        <div style="height: 600px">
-            
-        </div>
+       <?php
+      include '../pages/ExpertiseMain.php';
+       ?>
 
         <!--Footer Section-->
         <?php
