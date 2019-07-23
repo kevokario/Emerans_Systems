@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-sm-12">
             <h2> Electrification systems Section</h2>
-             <p class="emphase-introduction">
+            <p class="emphase-introduction">
                 World-class engineering services at your fingertips
             </p>
         </div>
@@ -39,8 +39,8 @@
                     <h3>Store Management</h3>
                 </div>
                 <div class="service-cover-text">
-                   <p>In the store module which has user permissions to store manager and procurement officers.
-                       The system indicates the inventory level for all the materials i.e low, critically low, high, etc.</p>
+                    <p>In the store module which has user permissions to store manager and procurement officers.
+                        The system indicates the inventory level for all the materials i.e low, critically low, high, etc.</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -48,40 +48,39 @@
             </div>
         </a>
         <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="img/Emeran_open_page.png" alt="training" class="service-img"/>
+            <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>I am A title</h3>
+                <h3>Work Progress</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>I am a title</h3>
+                    <h3>Work Progress</h3>
                 </div>
                 <div class="service-cover-text">
-                    I contain some content<br>
-                    I contain some content<br>
-                    I contain some content
+                    <p>After the allocation of the scheme to a subcontractor or construction teams, the system
+                        gives a platform for them to update their work progress,</p>
                 </div>
                 <div class="service-cover-link">
-                   Learn more <i class="fa fa-long-arrow-right"></i>
+                    Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
         </a>
         <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="img/Emeran_open_page.png" alt="training" class="service-img"/>
+            <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>I am A title</h3>
+                <h3>Reporting</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>I am a title</h3>
+                    <h3>Reporting</h3>
                 </div>
                 <div class="service-cover-text">
-                    I contain some content<br>
-                    I contain some content<br>
-                    I contain some content
+                    <p>In reporting the system captures both the individual and overall project progress, it has a
+                        chart indicating the overall progress accumulative work completed, and accumulative work
+                        in progress.</p>
                 </div>
                 <div class="service-cover-link">
-                   Learn more <i class="fa fa-long-arrow-right"></i>
+                    Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
         </a>
@@ -141,7 +140,7 @@
                     I contain some content
                 </div>
                 <div class="service-cover-link">
-                   Learn more <i class="fa fa-long-arrow-right"></i>
+                    Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
         </a>
@@ -160,7 +159,7 @@
                     I contain some content
                 </div>
                 <div class="service-cover-link">
-                   Learn more <i class="fa fa-long-arrow-right"></i>
+                    Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
         </a>
