@@ -92,6 +92,58 @@
 .emphase-introduction{
     padding: 0 40px;   
 }
+
+/*------------CONTACT SECTION-----------*/
+.container-contact{
+
+}
+.container-contact h2{
+    margin-bottom: 20px;
+    margin-top: 23px;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: #05063c;
+}
+.container-contact h4{
+    font-weight: 500;
+}
+.fancy-background{
+    margin-left: -36px;
+    margin-right: -36px;
+    padding-top: 20px;
+    padding-left: 36px;
+    background: linear-gradient(110deg, #e1e1e1 80%, #f7f8fa 20%);
+    padding-bottom: 10px;
+}
+.custom-heading{
+    margin-bottom: 20px;
+    margin-top: 23px;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: #05063c;
+}
+.fancy-button{
+    display: block; */
+    width: 80%;
+    /* margin-top: 10px !important; */
+    margin: 15px 10% !important;
+    padding: 20px;
+    border: 1px solid #0b97cc;
+    box-shadow: 0 4px 8px 0 rgba(255,255,255,0.5);
+    box-sizing: border-box;
+    border-radius: 0;
+    background-color: #0b97cc;
+    color: #fff !important;
+    font-weight: 700;
+    transition: .5s;
+    box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.4);
+    letter-spacing: 0.5px;
+}
+.fancy-button:hover{
+    background-color: #087AA3;
+}
+
+/*--------------------------------------*/
 @media(max-width: 768px){
     .service-conatiner{
         width: 46%;
@@ -106,5 +158,12 @@
     }
 }
 @media(max-width: 576px){
+    /*---------------Contact Section-----------*/
 
+
+    .fancy-background{
+        background-color: #e1e1e1;
+    }
+
+    /*-----------------------------------------*/
 }

@@ -1,4 +1,4 @@
-<div id="projects">
+<!--<div id="projects">
     <h3>PROJECTS</h3>
     <p>Emeran systems helps companies of all sizes, from 
         different industries succeed in their engineering objectives.<br>
@@ -58,4 +58,11 @@
         </a>
     </div>
 </div>
-
+-->
+<div class="container-fluid generic-container-alt">
+    <div class="row">
+        <div class="col-sm-12">
+            <h2>PROJECTS</h2>
+        </div>
+    </div>
+</div>
