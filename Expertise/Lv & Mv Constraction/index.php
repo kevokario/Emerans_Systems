@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
+    
    <?php
    include 'head.php';
    ?>
-   
         <div style="height: 600px">
             
         </div>

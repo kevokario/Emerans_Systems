@@ -18,7 +18,7 @@
 </head>
 <body>
     <nav class="mynav navbar-light">
-    <a class="mynav-brand"><img src="../img/logo.png" alt="Emerans" class="mynav-logo"></a>
+        <a class="mynav-brand" href="../"><img src="../img/logo.png" alt="Emerans" class="mynav-logo"></a>
 	<ul class="mynav-links">
 		<li>
 			<a id="linksA" href="" class="mynav-link">
@@ -39,38 +39,38 @@
 					</div>
 				</div>
 				<div class="mymenu">
-					<div class="menu-option-title">
+					<a class="menu-option-title" href="Lv & Mv Constraction/">
 					Lv & Mv Construction
-					</div>
+					</a>
 					<div class="menu-option-body">
-						<a>Construction Standards</a>
-						<a>Material Requisition</a>
-						<a>Metering</a>
-						<a>Pegging</a>
+                                            <a href="Lv & Mv Constraction/ConstructionStandards.php">Construction Standards</a>
+                                            <a href="Lv & Mv Constraction/MaterialRequisition.php">Material Requisition</a>
+                                            <a href="Lv & Mv Constraction/Metering.php">Metering</a>
+                                            <a href="Lv & Mv Constraction/Pegging.php">Pegging</a>
 					</div>
 				</div>
 				<div class="mymenu">
-					<div class="menu-option-title">
+                                    <a class="menu-option-title" href="Project Management/">
 						Project Management
-					</div>
+					</a>
 					<div class="menu-option-body">
-						<a>Back Office</a>
-						<a>Electrification System</a>
-						<a>Project Management</a>
-						<a>Supervision Team</a>
+                                            <a href="Project Management/BackOffice.php">Back Office</a>
+                                            <a href="Project Management/ElectrificationSystem.php">Electrification System</a>
+                                            <a href="Project Management/ProjectManagement.php">Project Management</a>
+                                            <a href="Project Management/SupervisionTeam.php">Supervision Team</a>
 					</div>
 				</div>
 				<div class="mymenu">
-					<div class="menu-option-title">
+                                    <a class="menu-option-title" href="Staffing and Training/">
 						Staffing and Training
-					</div>
+					</a>
 					<div class="menu-option-body">
-						<a>Auto Card</a>
-						<a>Back Office</a>
-						<a>Construction Teams</a>
-						<a>Staffing and Training</a>
-                                                <a>Supervisors</a>
-                                                <a>Surveyors and Designers</a>
+                                            <a href="Staffing and Training/Autocard.php">Auto Card</a>
+                                            <a href="Staffing and Training/BackOffice.php">Back Office</a>
+                                            <a href="Staffing and Training/ConstructionTeams.php">Construction Teams</a>
+                                            <a href="Staffing and Training/StaffingandTraining.php">Staffing and Training</a>
+                                            <a href="Staffing and Training/Supervisors.php">Supervisors</a>
+                                            <a href="Staffing and Training/Surveyors&Designers.php">Surveyors and Designers</a>
 					</div>
 				</div>
 			</div>

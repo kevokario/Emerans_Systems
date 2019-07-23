@@ -31,11 +31,11 @@
 						Design & Survey
 					</a>
 					<div class="menu-option-body">
-                                            <a href="AutocardDesign.php">Autocard Design</a>
-                                            <a href="Costing.php">Costing</a>
-                                            <a href="Design&Survey.php">Design&Survey</a>
-                                            <a href="Field Survey.php">Field Survey</a>
-                                            <a href="FieldDatabase.php">Field Database</a>
+                                            <a href="../Design & Survey/AutocardDesign.php">Autocard Design</a>
+                                            <a href="../Design & Survey/Costing.php">Costing</a>
+                                            <a href="../Design & Survey/Design&Survey.php">Design&Survey</a>
+                                            <a href="../Design & Survey/Field Survey.php">Field Survey</a>
+                                            <a href="../Design & Survey/FieldDatabase.php">Field Database</a>
 					</div>
 				</div>
 				<div class="mymenu">

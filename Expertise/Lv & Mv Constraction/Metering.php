@@ -1,8 +1,16 @@
-<?php
+<!DOCTYPE html>
+<html>
+   <?php
+   include 'head.php';
+   ?>
+   
+        <div style="height: 600px">
+            
+        </div>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+        <!--Footer Section-->
+        <?php
+        include '../../includes/footer/footer.php';
+        ?>
+    </body>
+</html>
