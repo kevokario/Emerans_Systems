@@ -16,7 +16,7 @@
     background-color: #212529;
 }
 #footer p,a{
-    color: lightgrey;
+    color: #777;
     font-weight: 600;
 }
 #footer h8{
@@ -141,18 +141,18 @@
     padding-right: 20px;
     width: 91.5%;
 }
-.card{
+/*.card{
     background-color: #ffdf7e;
     height: 400px;
 }
 .card p{
     color: black;
-}
+}*/
 a:hover
 {text-decoration: none;}
-.card img{
+/*.card img{
     height: 250px;
-}
+}*/
 #rowzoom{
     color: #fdcd3b;
 }
@@ -160,15 +160,16 @@ a:hover
     height: 600px;
 }
 #learnmore{
-    text-align: center;
-    height: 5px;
-    color: deepskyblue;
+    
 }
 #learnmore span{
     margin-left: 10px;
 }
 #learnmore {
     font-size: 10pt;
+    text-align: center;
+    height: 5px;
+    color: deepskyblue;
 }
 @media screen and (max-width:900px), screen and (max-height:500px) {
     #hide { display: none !important; }
