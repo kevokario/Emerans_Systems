@@ -6,11 +6,9 @@
    ?>
   
 
-       
-        <div style="height: 600px">
-            
-        </div>
-
+       <?php
+      include '../pages/ProjectsMain.php';
+       ?>
         <!--Footer Section-->
         <?php
         include '../includes/footer/footer.php';

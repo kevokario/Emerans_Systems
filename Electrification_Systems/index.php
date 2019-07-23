@@ -7,9 +7,9 @@
   
 
        
-        <div style="height: 600px">
-            
-        </div>
+        <?php
+       include '../pages/Electrificationsystemsmain.php';
+        ?>
 
         <!--Footer Section-->
         <?php
