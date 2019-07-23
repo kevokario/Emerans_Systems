@@ -7,8 +7,8 @@
                     <br> This helps in planning
                     logistics of material transportation to the site,<br> the route to use.....</p>
                 <p>
-                    <a href="" class="my-class mx-auto">
-                        View All Projects +
+                    <a href="Electrification_Systems/" class="my-class mx-auto">
+                        View Our Systems +
                     </a>
                 </p>
             </div>
@@ -19,10 +19,10 @@
                     <a href="#" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
+                                <img src="img/Training.jpg" alt="training" class="swiper-img"/>
                             </div>
                             <h4 class="swiper-title">
-                                Kelvin Kario
+                                Design
                             </h4>
                         </div>
                     </a>
@@ -32,58 +32,52 @@
                                 <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
                             </div>
                             <h4 class="swiper-title">
-                                Kelvin Kario
+                                Store Management
                             </h4>
                         </div>
                     </a>
                     <a href="#" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
+                                <img src="img/cumulative_work_progress.png" alt="training" class="swiper-img"/>
                             </div>
                             <h4 class="swiper-title">
-                                Kelvin Kario
+                                Work Progress
                             </h4>
                         </div>
                     </a>
                     <a href="#" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
+                                <img src="img/pbanner.jpg" alt="training" class="swiper-img"/>
                             </div>
                             <h4 class="swiper-title">
-                                Kelvin Kario
+                               Reporting
                             </h4>
                         </div>
                     </a>
                     <a href="#" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
+                                <img src="img/Gantt_chart.png" alt="training" class="swiper-img"/>
                             </div>
                             <h4 class="swiper-title">
-                                Kelvin Kario
+                                Gantt Chart
                             </h4>
                         </div>
                     </a>
                     <a href="" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
+                                <img src="img/photo_2017-10-20_12-52-49.jpg" alt="training" class="swiper-img"/>
                             </div>
                             <h4 class="swiper-title">
-                                Kelvin Kario
+                                Material Reconciliation
                             </h4>
                         </div>
                     </a>
                 </div>
-                <!-- Add Pagination -->
                 <div class="swiper-pagination"></div> 
-                <!-- Add Arrows -->
-                <!--                
-                <div class="swiper-button-next"></div>
-                <div class="swiper-button-prev"></div> 
-                -->
             </div>
         </div>
     </div>
