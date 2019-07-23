@@ -48,7 +48,7 @@
             </div>
         </a>
         <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img"/>
+            <img src="../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Work Progress</h3>
             </div>
