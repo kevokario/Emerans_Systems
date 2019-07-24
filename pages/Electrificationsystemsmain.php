@@ -47,7 +47,7 @@
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="ElectrificationSystemsInformation/#WorkProgress." class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Work Progress</h3>
@@ -68,7 +68,7 @@
     </div>
     <div class="row px-auto  justify-content-center">
         
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="ElectrificationSystemsInformation/#Reporting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Reporting</h3>
@@ -88,7 +88,7 @@
             </div>
         </a>
 
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="ElectrificationSystemsInformation/#GanttChart" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Gantt Chart</h3>
