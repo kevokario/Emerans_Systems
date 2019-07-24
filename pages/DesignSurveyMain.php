@@ -1,9 +1,12 @@
 <div class="container-fluid generic-container custom-option-header">
     <div class="row">
         <div class="col-sm-12">
-            <h2> Electrification systems Section</h2>
+            <h2> Design and Survey</h2>
             <p class="emphase-introduction">
-                World-class engineering services at your fingertips
+               Creaform’s product development and industrial design services give you the professionals, 
+               technology and expertise you need to create innovative product designs that provide
+               the right quality to the 
+               right market—all while mitigating unnecessary costs and risks.
             </p>
         </div>
     </div>
@@ -11,14 +14,14 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-        <a href="ElectrificationSystemsInformation/#budgeting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/1.jpg" alt="training" class="service-img"/>
+        <a href="AutocardDesign.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/1.jpg" alt="Autocard Design" class="service-img"/>
             <div class="service-title">
-                <h3>Design and Budgeting</h3>
+                <h3>Autocard Design</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Design and Budgeting</h3>
+                    <h3>Autocard Design</h3>
                 </div>
                 <div class="service-cover-text">
                     <p>Our systems accept excel data input i.e schemes allocated, indicating on the map that’s
@@ -29,14 +32,14 @@
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#StoreManagement" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/store.jpg" alt="store" class="service-img"/>
+        <a href="Costing.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
-                <h3>Store Management</h3>
+                <h3>Costing</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Store Management</h3>
+                    <h3>Costing</h3>
                 </div>
                 <div class="service-cover-text">
                     <p>In the store module which has user permissions to store manager and procurement officers.
@@ -47,14 +50,14 @@
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#WorkProgress" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/cumulative_work_progress.png" alt="training" class="service-img"/>
+        <a href="Design&Survey.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>Work Progress</h3>
+                <h3>Design and Survey</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Work Progress</h3>
+                    <h3>Design and Survey</h3>
                 </div>
                 <div class="service-cover-text">
                     <p>After the allocation of the scheme to a subcontractor or construction teams, the system
@@ -68,14 +71,14 @@
     </div>
     <div class="row px-auto  justify-content-center">
         
-        <a href="ElectrificationSystemsInformation/#Reporting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
+        <a href="Field Survey.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>Reporting</h3>
+                <h3>Field Survey</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Reporting</h3>
+                    <h3>Field Survey</h3>
                 </div>
                 <div class="service-cover-text">
                     <p>In reporting the system captures both the individual and overall project progress, it has a
@@ -88,14 +91,14 @@
             </div>
         </a>
 
-        <a href="ElectrificationSystemsInformation/#GanttChart" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
+        <a href="FieldDatabase.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>Gantt Chart</h3>
+                <h3>Field Database</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Gantt Chart</h3>
+                    <h3>Field Database</h3>
                 </div>
                 <div class="service-cover-text">
                     <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
@@ -107,30 +110,13 @@ those periods.</p>
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#MaterialReconciliation" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img"/>
-            <div class="service-title">
-                <h3>Material Reconciliation</h3>
-            </div>
-            <div class="service-cover">
-                <div class="service-cover-title">
-                    <h3>Material Reconciliation</h3>
-                </div>
-                <div class="service-cover-text">
-                    <p>Material reconciliation Is key in every construction industry, where we reconcile materials
-issued for a scheme and materials used to construct the scheme.</p>
-                </div>
-                <div class="service-cover-link">
-                    Learn more <i class="fa fa-long-arrow-right"></i>
-                </div>
-            </div>
-        </a>
+        
     </div>
 </div>
 <div class="container-fluid generic-container container-contact">
     <div class="row fancy-background">
         <div class="col-sm-8">
-            <h2>LAERN MORE ABOUT HOW OUR<br> ELECTRIFICATION SYSTEMS WORK</h2>
+            <h2>LAERN MORE ABOUT HOW OUR<br> DESIGN AND SURVEY WORK</h2>
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">
