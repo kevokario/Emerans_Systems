@@ -82,7 +82,7 @@
 			</a>
 			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
-						<a>Design</a>
+                                    <a href="../../Electrification_Systems/ElectrificationSystemsInformation/">Design</a>
 						<a>Store management</a>
 						<a>Work progress</a>
 						<a>Reporting</a>

@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-sm-3  emebottom" id="emebottom">
             <a href="">
-            <h5>EMERAND SYSTEMS LTD</h5>
+                <h5>EMERAND SYSTEMS LTD</h5>
             </a>
             <div id="emeran">
                 <p class='text-white'>
@@ -37,7 +37,7 @@
                 </div>
                 <div class="col-sm-6">
                     <a href="Expertise/Lv & Mv Constraction/">
-                    <h6>LV and MV CONSTRUCTION</h6>
+                        <h6>LV and MV CONSTRUCTION</h6>
                     </a>
                     <p class="hide">
                         <a href="Expertise/Lv & Mv Constraction/ConstructionStandards.php">Construction Standards</a><br>
@@ -50,7 +50,7 @@
             <div class="row">
                 <div class="col-sm-6">
                     <a href="Expertise/Project Management/">
-                    <h6>PROJECT MANAGEMENT</h6>
+                        <h6>PROJECT MANAGEMENT</h6>
                     </a>
                     <p class="hide">
                         <a href="Expertise/Project Management/BackOffice.php">Back Office</a><br>
@@ -60,12 +60,16 @@
                     </p>
                 </div>
                 <div class="col-sm-6">
-                    <h6>STAFFING & TRAINING</h6>
-                    <p class="hide">   Constraction teams<br>
-                        Surveyers and designers<br>
-                        Autocard<br>
-                        Supervision<br>
-                        Back Office
+                    <a href="Staffing and Training/">
+                        <h6>STAFFING & TRAINING</h6>
+                    </a>
+                    <p class="hide">
+                        <a href="Expertise/Staffing and Training/Autocard.php">Auto Card</a><br>
+                        <a href="Expertise/Staffing and Training/BackOffice.php">Back Office</a><br>
+                        <a href="Expertise/Staffing and Training/ConstructionTeams.php">Construction Teams</a><br>
+                        <a href="Expertise/Staffing and Training/StaffingandTraining.php">Staffing and Training</a><br>
+                        <a href="Expertise/Staffing and Training/Supervisors.php">Supervisors</a><br>
+                        <a href="Expertise/Staffing and Training/Surveyors&Designers.php">Surveyors and Designers</a>
                     </p>
                 </div>
             </div>
@@ -83,11 +87,15 @@
             </div>
         </div>
         <div class="col-sm-2 foot">
-            <a href="#"><h6>PROJECTS</h6></a>
-            <a href="#"><h6>BLOG</h6>
-                <a href="#"><H6>ABOUT US</H6></a>
-                <div class="container" class="hide">
-                    <a  href="#"><P>Our <br>company<br></a>
+            <a href="projects/"><h6>PROJECTS</h6></a>
+            <a href="#">
+                <h6>BLOG</h6>
+            </a>
+                <a href="#">
+                    <H6>ABOUT US</H6>
+                </a>
+                <div class="container hide">
+                    <P><a  href="#">Our <br>company<br></a>
                     <a  href="#">Our Offices</a> <br>
                     <a  href="#">Our team</a> <br>
                     <a  href="#">Contact Us</a><br>
