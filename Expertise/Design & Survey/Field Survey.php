@@ -5,6 +5,7 @@
     ?>
 
 
+
     <section class="field_survey">
         <div class="container-fluid generic-container">
             <div class="row">
@@ -51,8 +52,11 @@
         </div>
     </div>
     <!--Footer Section-->
-    <?php
-    include '../../includes/footer/footer.php';
-    ?>
-</body>
+ 
+
+         <!--Footer Section-->
+        <?php
+        include '../../includes/footer/Footer1.php';
+        ?>
+    </body>
 </html>

@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-   
-   <?php
-   include 'head.php';
-   ?>
-  
-
-       
-        <?php
-       include '../pages/Electrificationsystemsmain.php';
-        ?>
-
-        <!--Footer Section-->
+ <!--Footer Section-->
         <div class="container-fluid bg-dark footerr" id="footer">
     <div class="row">
         <div class="col-sm-3  emebottom" id="emebottom">
@@ -95,7 +82,7 @@
             <div class="container hide">
                 <a href="../Electrification_Systems/ElectrificationSystemsInformation/#budgeting">Design</a><br>
                 <a href="../Electrification_Systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a><br>
-                <a href="../Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress">Work progress</a><br>
+                <a href="../Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a><br>
                 <a href="../Electrification_Systems/ElectrificationSystemsInformation/#Reporting">Reporting</a><br>
                 <a href="../Electrification_Systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a><br>
                 <a href="../Electrification_Systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
@@ -118,7 +105,3 @@
         </div>
     </div>
 </div>
-
-
-    </body>
-</html>

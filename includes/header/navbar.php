@@ -75,7 +75,7 @@
                 <div class="menu-option-body">
                     <a href="Electrification_Systems/ElectrificationSystemsInformation/#budgeting">Design</a>
                     <a href="Electrification_Systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a>
-                    <a href="Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a>
+                    <a href="Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress">Work progress</a>
                     <a href="Electrification_Systems/ElectrificationSystemsInformation/#Reporting">Reporting</a>
                     <a href="Electrification_Systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a>
                     <a href="Electrification_Systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>

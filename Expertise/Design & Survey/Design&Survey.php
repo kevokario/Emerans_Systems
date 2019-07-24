@@ -52,8 +52,8 @@
     </div>
 
     <!--Footer Section-->
-    <?php
-    include '../../includes/footer/footer.php';
-    ?>
-</body>
+        <?php
+        include '../../includes/footer/Footer1.php';
+        ?>
+    </body>
 </html>

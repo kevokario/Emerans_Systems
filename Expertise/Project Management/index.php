@@ -10,7 +10,7 @@
 
         <!--Footer Section-->
         <?php
-        include '../../includes/footer/footer.php';
+        include '../../includes/footer/Footer1.php';
         ?>
     </body>
 </html>
