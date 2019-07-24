@@ -39,55 +39,55 @@
 					</div>
 				</div>
 				<div class="mymenu">
-					<div class="menu-option-title">
+					<a class="menu-option-title" href="Lv & Mv Constraction/">
 					Lv & Mv Construction
-					</div>
+					</a>
 					<div class="menu-option-body">
-						<a>Construction Standards</a>
-						<a>Material Requisition</a>
-						<a>Metering</a>
-						<a>Pegging</a>
+                                            <a href="../Expertise/Lv & Mv Constraction/ConstructionStandards.php">Construction Standards</a>
+                                            <a href="../Expertise/Lv & Mv Constraction/MaterialRequisition.php">Material Requisition</a>
+                                            <a href="../Expertise/Lv & Mv Constraction/Metering.php">Metering</a>
+                                            <a href="../Expertise/Lv & Mv Constraction/Pegging.php">Pegging</a>
 					</div>
 				</div>
 				<div class="mymenu">
-					<div class="menu-option-title">
+                                    <a class="menu-option-title" href="Project Management/">
 						Project Management
-					</div>
+					</a>
 					<div class="menu-option-body">
-						<a>Back Office</a>
-						<a>Electrification System</a>
-						<a>Project Management</a>
-						<a>Supervision Team</a>
+                                            <a href="../Expertise/Project Management/BackOffice.php">Back Office</a>
+                                            <a href="../Expertise/Project Management/ElectrificationSystem.php">Electrification System</a>
+                                            <a href="../Expertise/Project Management/ProjectManagement.php">Project Management</a>
+                                            <a href="../Expertise/Project Management/SupervisionTeam.php">Supervision Team</a>
 					</div>
 				</div>
 				<div class="mymenu">
-					<div class="menu-option-title">
+                                    <a class="menu-option-title" href="Staffing and Training/">
 						Staffing and Training
-					</div>
+					</a>
 					<div class="menu-option-body">
-						<a>Auto Card</a>
-						<a>Back Office</a>
-						<a>Construction Teams</a>
-						<a>Staffing and Training</a>
-                                                <a>Supervisors</a>
-                                                <a>Surveyors and Designers</a>
+                                            <a href="../Expertise/Staffing and Training/Autocard.php">Auto Card</a>
+                                            <a href="../Expertise/Staffing and Training/BackOffice.php">Back Office</a>
+                                            <a href="../Expertise/Staffing and Training/ConstructionTeams.php">Construction Teams</a>
+                                            <a href="../Expertise/Staffing and Training/StaffingandTraining.php">Staffing and Training</a>
+                                            <a href="../Expertise/Staffing and Training/Supervisors.php">Supervisors</a>
+                                            <a href="../Expertise/Staffing and Training/Surveyors&Designers.php">Surveyors and Designers</a>
 					</div>
 				</div>
 			</div>
 		</li>
 		<li>
-                    <a href="" id="linksB" class="mynav-link">
+                    <a href="../Electrification_Systems" id="linksB" class="mynav-link">
 				Electrification Systems
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>
 			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
-						<a>Design</a>
-						<a>Store management</a>
-						<a>Work progress</a>
-						<a>Reporting</a>
-						<a>Gantt chart</a>
-						<a>Material reconciliation</a>
+						<a href="ElectrificationSystemsInformation/#budgeting">Design</a>
+						<a href="ElectrificationSystemsInformation/#StoreManagement">Store management</a>
+                                                <a href="ElectrificationSystemsInformation/#WorkProgress.">Work progress</a>
+                                                <a href="ElectrificationSystemsInformation/#Reporting">Reporting</a>
+                                                <a href="ElectrificationSystemsInformation/#GanttChart">Gantt chart</a>
+                                                <a href="ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
 					</div>
 			</div>
 		</li>
@@ -98,7 +98,7 @@
 			</a>
 			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
-						<a>Design & Salary</a>
+                                    <a>Design & Salary</a>
 						<a>Electrification Management Systems</a>
 						<a>Training</a>
 						<a>Consultance</a>
