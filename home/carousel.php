@@ -8,7 +8,7 @@
     <!-- my images -->
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/photo_2019-06-03_17-14-58.jpg" alt=""/>
+            <img src="img/banner2.jpg" alt=""/>
             <div class="carousel-caption">
                 <h3 class="animated zoomIn"> Wow. this is awesome</h3>
                 <p class="animated fadeInUpBig">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/photo_2017-10-20_12-52-49.jpg" alt=""/>
+            <img src="img/pbanner.jpg" alt=""/>
             <div class="carousel-caption">
                 <h3 class="animated fadeInLeftBig"> Wow. this is awesome</h3>
                 <p class="animated fadeInRightBig">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
