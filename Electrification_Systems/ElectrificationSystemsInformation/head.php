@@ -18,10 +18,10 @@
 </head>
 <body>
     <nav class="mynav navbar-light">
-        <a class="mynav-brand" href="../"><img src="../../img/logo.png" alt="Emerans" class="mynav-logo"></a>
+        <a class="mynav-brand" href="../../"><img src="../../img/logo.png" alt="Emerans" class="mynav-logo"></a>
 	<ul class="mynav-links">
 		<li>
-                    <a id="linksA" href="../Expertise/" class="mynav-link">
+                    <a id="linksA" href="../../Expertise/" class="mynav-link">
 				Expertise 
 				<i class="mynav-caret pull-right fa fa-caret-down"></i>
 			</a>

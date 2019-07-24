@@ -1,7 +1,9 @@
 <div class="container-fluid bg-dark footerr" id="footer">
     <div class="row">
         <div class="col-sm-3  emebottom" id="emebottom">
+            <a href="">
             <h5>EMERAND SYSTEMS LTD</h5>
+            </a>
             <div id="emeran">
                 <p class='text-white'>
                     Emeran systems is a kenyan registered company operating in the Engineering and Technology field. The company focus on 
@@ -24,31 +26,37 @@
             <h6 class="text-center">SERVICES/EXPERTISE</h6>
             <div class="row">
                 <div class="col-sm-6">
-                    <h6>DESIGN AND SURVEY</h6>
-                    <p class="hide">Field survey<br>
-                        Autocard design<br>
-                        Field database<br>
-                        Field database<br>
-                        Costing
+                    <a href="Expertise/Design & Survey/"><h6>DESIGN AND SURVEY</h6></a>
+                    <p class="hide">
+                        <a href="Expertise/Design & Survey/AutocardDesign.php">Autocard Design</a><br>
+                        <a href="Expertise/Design & Survey/Costing.php">Costing</a><br>
+                        <a href="Expertise/Design & Survey/Design&Survey.php">Design&Survey</a><br>
+                        <a href="Expertise/Design & Survey/Field Survey.php">Field Survey</a><br>
+                        <a href="Expertise/Design & Survey/FieldDatabase.php">Field Database</a><br>
                     </p>
                 </div>
                 <div class="col-sm-6">
+                    <a href="Expertise/Lv & Mv Constraction/">
                     <h6>LV and MV CONSTRUCTION</h6>
+                    </a>
                     <p class="hide">
-                        Pegging<br>
-                        Material requisition<br>
-                        Construction standards<br>
-                        Metering
+                        <a href="Expertise/Lv & Mv Constraction/ConstructionStandards.php">Construction Standards</a><br>
+                        <a href="Expertise/Lv & Mv Constraction/MaterialRequisition.php">Material Requisition</a><br>
+                        <a href="Expertise/Lv & Mv Constraction/Metering.php">Metering</a><br>
+                        <a href="Expertise/Lv & Mv Constraction/Pegging.php">Pegging</a>
                     </p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-6">
+                    <a href="Expertise/Project Management/">
                     <h6>PROJECT MANAGEMENT</h6>
+                    </a>
                     <p class="hide">
-                        Electrification System<br>
-                        Supervision team<br>
-                        Back office
+                        <a href="Expertise/Project Management/BackOffice.php">Back Office</a><br>
+                        <a href="Expertise/Project Management/ElectrificationSystem.php">Electrification System</a><br>
+                        <a href="Expertise/Project Management/ProjectManagement.php">Project Management</a><br>
+                        <a href="Expertise/Project Management/SupervisionTeam.php">Supervision Team</a>
                     </p>
                 </div>
                 <div class="col-sm-6">
@@ -64,16 +72,14 @@
         </div>
         <div class="col-sm-3 foot">
             <h5>ELECTRIFICATION SYSTEMS </h5>
-            <div class="container" class="hide">
-                <p><a href="#">Design</a><br>
-                    <a  href="#">Store Management</a><br>
-                    <a  href="#">Work Progress</a><br>
-                    <a  href="#">Reporting</a><br>
-                    <a  href="#">Gant chart</a><br>
-                    <a  href="#">Material reconciliation</a><br>
-                    <a  href="#">Returns</a><br>
-                    <a  href="#">Inspection and handover</a>
-                </p>
+            <div class="container hide">
+                <a href="Electrification_Systems/ElectrificationSystemsInformation/#budgeting">Design</a><br>
+                <a href="Electrification_Systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a><br>
+                <a href="Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a><br>
+                <a href="Electrification_Systems/ElectrificationSystemsInformation/#Reporting">Reporting</a><br>
+                <a href="Electrification_Systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a><br>
+                <a href="Electrification_Systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
+
             </div>
         </div>
         <div class="col-sm-2 foot">

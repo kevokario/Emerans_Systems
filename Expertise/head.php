@@ -82,12 +82,12 @@
 			</a>
 			<div class="menu-options custom-menu-option text-dark">
 				<div class="menu-option-body">
-						<a>Design</a>
-						<a>Store management</a>
-						<a>Work progress</a>
-						<a>Reporting</a>
-						<a>Gantt chart</a>
-						<a>Material reconciliation</a>
+                                    <a href="../Electrification_Systems/ElectrificationSystemsInformation/#budgeting">Design</a>
+						<a href="../Electrification_Systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a>
+                                                <a href="../Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a>
+                                                <a href="../Electrification_Systems/ElectrificationSystemsInformation/#Reporting">Reporting</a>
+                                                <a href="../Electrification_Systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a>
+                                                <a href="../Electrification_Systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
 					</div>
 			</div>
 		</li>
