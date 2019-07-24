@@ -172,7 +172,7 @@ a:hover
     color: deepskyblue;
 }
 @media screen and (max-width:900px), screen and (max-height:500px) {
-    #footer .hide { display: none !important; }
+   #footer .hide { display: none !important; }
     #projects {height: 100%}
     @media screen and (max-width:576px) {
         .footerr { display: flex; flex-flow: column;}

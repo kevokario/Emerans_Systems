@@ -39,7 +39,7 @@
 					</div>
 				</div>
 				<div class="mymenu">
-					<a class="menu-option-title" href="Lv & Mv Constraction/">
+                                    <a class="menu-option-title" href="../../Expertise/Lv & Mv Constraction/">
 					Lv & Mv Construction
 					</a>
 					<div class="menu-option-body">
@@ -50,7 +50,7 @@
 					</div>
 				</div>
 				<div class="mymenu">
-                                    <a class="menu-option-title" href="Project Management/">
+                                    <a class="menu-option-title" href="../../Expertise/Project Management/">
 						Project Management
 					</a>
 					<div class="menu-option-body">
@@ -61,7 +61,7 @@
 					</div>
 				</div>
 				<div class="mymenu">
-                                    <a class="menu-option-title" href="Staffing and Training/">
+                                    <a class="menu-option-title" href="../../Expertise/Staffing and Training/">
 						Staffing and Training
 					</a>
 					<div class="menu-option-body">
@@ -92,7 +92,7 @@
 			</div>
 		</li>
 		<li>
-                    <a href="../projects/" id="linksC" class="mynav-link">
+                    <a href="../../projects/" id="linksC" class="mynav-link">
 				Projects 
 				<i class="mynav-caret pull-right  fa fa-caret-down"></i>
 			</a>
