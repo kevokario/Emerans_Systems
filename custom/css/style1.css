@@ -120,11 +120,75 @@ a:hover{
     transition: .3s;
     color: blue!imporntant;
 }
+
+  section{
+        padding: 20px 10px;
+        margin-top: 11px;
+        min-height: 600px;
+    }
+    .generic-custom-description{
+        padding: 11px;
+    }
+    .generic-custom-description h2{
+        font-size: 2.5rem;
+        margin-bottom: 15px;
+        font-weight: 700;
+        margin-top: 10px;
+        color: #05063c;
+        letter-spacing: 0.2px;
+    }
+    .generic-custom-description p{
+        line-height: 33.5px;
+        text-align: justify;
+        font-size: large;
+    }
+    .generic-custom-description p::first-letter{
+        font-size: x-large;
+        font-weight: 700;
+        color: #05063c;
+    }
+    .generic-custom-img{
+        background-color: white;
+        height: 550px;
+        margin-top: auto;
+        margin-bottom: auto;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    
+    #budgeting, #WorkProgress, #GanttChart{
+        background: #f1f1f1;
+    } 
+
+    #budgeting .generic-custom-img{
+        background-image: url(../../img/1.jpg);
+    }
+    #StoreManagement .generic-custom-img{
+        background-image: url(../../img/store.jpg);
+    }
+    #WorkProgress .generic-custom-img{
+        background-image: url(../../img/cumulative_work_progress.png);
+    }
+    #Reporting .generic-custom-img{
+        background-image: url(../../img/Training.jpg);
+    }
+    #GanttChart .generic-custom-img{
+        background-image: url(../../img/Gantt_chart.png);
+    }
+    #MaterialReconciliation .generic-custom-img{
+        background-image: url(../../img/Material_reconciliation.png);
+    }
+
+    
 /*Response ive CSS*/
 @media(max-width: 768px){
     .mynav .mynav-btn{
         display: inline-block;
     }
+    .generic-custom-img{
+            height: 550px;
+
+        }
     .mynav .mynav-links{
         position: fixed;
         right: 0;
@@ -198,5 +262,8 @@ a:hover{
 
 }
 @media(max-width: 576px){
-
+ .generic-custom-img{
+            height: 350px;
+        }
 }
+
