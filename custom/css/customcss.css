@@ -7,7 +7,7 @@
 }
 
 .emebottom, .foot {
-    padding: 30px 15px;
+    padding: 30px 10px;
 }
 .emebottom{
     background-color: #000;
@@ -95,7 +95,7 @@
 }
 
 .carousel-indicators {
-    bottom: -50px;
+    /*bottom: -50px;*/
 }
 .carousel-control-prev, .carousel-control-next{
     /*bottom: -300px;*/
@@ -172,7 +172,7 @@ a:hover
     color: deepskyblue;
 }
 @media screen and (max-width:900px), screen and (max-height:500px) {
-    #hide { display: none !important; }
+    #footer .hide { display: none !important; }
     #projects {height: 100%}
     @media screen and (max-width:576px) {
         .footerr { display: flex; flex-flow: column;}
@@ -181,6 +181,15 @@ a:hover
         .foot2{order: 1;}
         .foot3{order: 2;}
     }
+}
+div#footer p, div#footer a {
+    font-weight: 100;
+    color:#999;
+    transition: .3s;
+}
+#footer a:hover{
+    color: #fff;
+    font-weight: 500;
 }
 
 
