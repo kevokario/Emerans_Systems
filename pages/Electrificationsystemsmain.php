@@ -11,7 +11,7 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="ElectrificationSystemsInformation/#budgeting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/1.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Budgeting</h3>
@@ -29,7 +29,7 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="ElectrificationSystemsInformation/#StoreManagement" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
                 <h3>Store Management</h3>
@@ -47,8 +47,8 @@
                 </div>
             </div>
         </a>
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img"/>
+        <a href="ElectrificationSystemsInformation/#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Work Progress</h3>
             </div>
@@ -65,6 +65,9 @@
                 </div>
             </div>
         </a>
+    </div>
+    <div class="row px-auto  justify-content-center">
+        
         <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
@@ -84,79 +87,38 @@
                 </div>
             </div>
         </a>
-    </div>
-    <div class="row px-auto  justify-content-center">
 
         <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="img/training3.jpeg.jpg" alt="training" class="service-img"/>
+            <img src="../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>Design and Survey</h3>
+                <h3>Gantt Chart</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Design and Survey</h3>
+                    <h3>Gantt Chart</h3>
                 </div>
                 <div class="service-cover-text">
-                    I contain some content<br>
-                    I contain some content<br>
-                    I contain some content
+                    <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
+r production completed in a certain period of time in relation to the amount planned for
+those periods.</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
         </a>
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="img/Training.jpg" alt="training" class="service-img"/>
+        <a href="ElectrificationSystemsInformation/#MaterialReconciliation" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img"/>
             <div class="service-title">
-                <h3>I am A title</h3>
+                <h3>Material Reconciliation</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>I am a title</h3>
+                    <h3>Material Reconciliation</h3>
                 </div>
                 <div class="service-cover-text">
-                    I contain some content<br>
-                    I contain some content<br>
-                    I contain some content
-                </div>
-                <div class="service-cover-link">
-                    Learn more <i class="fa fa-long-arrow-right"></i>
-                </div>
-            </div>
-        </a>
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="img/Emeran_open_page.png" alt="training" class="service-img"/>
-            <div class="service-title">
-                <h3>I am A title</h3>
-            </div>
-            <div class="service-cover">
-                <div class="service-cover-title">
-                    <h3>I am a title</h3>
-                </div>
-                <div class="service-cover-text">
-                    I contain some content<br>
-                    I contain some content<br>
-                    I contain some content
-                </div>
-                <div class="service-cover-link">
-                    Learn more <i class="fa fa-long-arrow-right"></i>
-                </div>
-            </div>
-        </a>
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="img/Emeran_open_page.png" alt="training" class="service-img"/>
-            <div class="service-title">
-                <h3>I am A title</h3>
-            </div>
-            <div class="service-cover">
-                <div class="service-cover-title">
-                    <h3>I am a title</h3>
-                </div>
-                <div class="service-cover-text">
-                    I contain some content<br>
-                    I contain some content<br>
-                    I contain some content
+                    <p>Material reconciliation Is key in every construction industry, where we reconcile materials
+issued for a scheme and materials used to construct the scheme.</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
