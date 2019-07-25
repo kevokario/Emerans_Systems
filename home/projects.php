@@ -20,7 +20,7 @@
 
     <div class="row mt-2">
 
-        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="#">
+        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
                     <img src="img/pb1.jpg" class="card-img" alt=""/>
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </a>
-        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="#">
+        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
                     <img src="img/pbanner.jpg" class="card-img" alt=""/>
@@ -46,7 +46,7 @@
                 </div>
             </div>
         </a>
-        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="#">
+        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
                     <img src="img/photo_2017-10-20_12-52-49.jpg" class="card-img" alt=""/>
@@ -59,7 +59,7 @@
                 </div>
             </div>
         </a>
-        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="#">
+        <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
                     <img src="img/photo_2019-06-03_17-14-58.jpg" class="card-img" alt=""/>
