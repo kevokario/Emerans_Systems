@@ -111,7 +111,7 @@
             </div> -->
         </li>
         <li>
-            <a href="#" id="linksE" class="mynav-link">
+            <a href="ContactUs.php" id="linksE" class="mynav-link">
                 Contact us 
                 <!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
             </a>
