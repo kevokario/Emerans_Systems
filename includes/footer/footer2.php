@@ -98,7 +98,7 @@
                     <a  href="#">Our <br>company<br></a>
                     <a  href="#">Our Offices</a> <br>
                     <a  href="#">Our team</a> <br>
-                    <a  href="#">Contact Us</a><br>
+                    <a  href="../../ContactUs.php">Contact Us</a><br>
                     <a  href="#">Careers</a>
                     </p>
                 </div>
