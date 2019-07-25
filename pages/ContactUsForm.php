@@ -110,7 +110,7 @@
                             <i class="fa fa-phone"></i>
                         </span>
                     </div>
-                    <input type="text" class="form-control " placeholder="Your Phone number..."/>
+                    <input id="phone_number" type="text" class="form-control " placeholder="Your Phone number..."/>
                 </div>
                 <small class="text-danger"></small>
             </div>
@@ -201,6 +201,7 @@
             if (country === 'Select Country' || country.length===0) {
                 $('.custom-flag-holder').css('display', 'inline');
                 $('.custom-svg').css('display', 'none');
+                 $('#phone_number').attr('placeholder','Your Phone number...');
             } else {
                 if(!country.indexOf(' ') == -1){
                      country = country.substring(0, country.indexOf(' '));
@@ -210,6 +211,7 @@
                         function (data, status) {
                             $('.custom-flag-holder').css('display', 'none');
                             $('.custom-svg').css('display', 'inline').attr('src',data[0].flag);
+                            $('#phone_number').attr('placeholder','+('+data[0].callingCodes+') ...');
                         }
                 );
             }
