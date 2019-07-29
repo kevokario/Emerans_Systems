@@ -172,7 +172,7 @@ a:hover
     color: deepskyblue;
 }
 @media screen and (max-width:900px), screen and (max-height:500px) {
-   #footer .hide { display: none !important; }
+    #footer .hide { display: none !important; }
     #projects {height: 100%}
     @media screen and (max-width:576px) {
         .footerr { display: flex; flex-flow: column;}
@@ -197,3 +197,21 @@ div#footer p, div#footer a {
     #projectimg { margin-bottom: 10px;}
     #footer { margin-top: 10px;}
 }
+.media-left{
+    margin-right: 10px;
+}
+.media-left h4{
+    font-weight: 400;
+}
+
+.mapouter{
+    position:relative;
+    text-align:center;
+    padding-top: 0;
+    padding-right: 0;}
+#gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:400px;
+    width:100%;
+    padding-right: 0;}
