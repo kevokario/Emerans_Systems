@@ -1,7 +1,7 @@
 $(document).ready(function () {
-if($(document).scrollTop()>70){
-      $('.mynav').addClass('navScolled');
-}
+    if ($(document).scrollTop() > 70) {
+        $('.mynav').addClass('navScolled');
+    }
 
     $(document).scroll(function () {
         var st = $(this).scrollTop();
@@ -199,4 +199,59 @@ $(document).ready(function () {
             $('.service-container:eq(3)').css('display', 'none');
         }
     });
+});
+
+/*
+ * --------------------------------------------------------------------------------------
+ * 
+ * 
+ * THIS SECTION CONTAINS THE SCRIPT THAT TRIGGERS THE COUNTRY SELECT API
+ * 
+ * 
+ * 
+ * 
+ * -------------------------------------------------------------------------------------
+ */
+
+
+$(document).ready(function () {
+    $.get('https://restcountries.eu/rest/v2/all',
+            function (data, status) {
+                var opt = '<option>Select Country</option>';
+                var sel = $('#countryid');
+//                    for (var i = 0; i < data.length; i++) {
+//                        opt = opt+'<option>'+data[i].name+'<option>';
+//                    }
+                var counter = 0;
+                for (var i in data) {
+                    opt += '<option>' + data[counter].name + '</option>';
+                    counter++;
+                }
+                $(sel).html(opt);
+            }
+    );
+
+    $('#countryid').change(function () {
+        var country = $(this).val().trim();
+
+        if (country === 'Select Country' || country.length === 0) {
+            $('.custom-flag-holder').css('display', 'inline');
+            $('.custom-svg').css('display', 'none');
+            $('#phone_number').attr('placeholder', 'Your Phone number...');
+        } else {
+            if (!country.indexOf(' ') == -1) {
+                country = country.substring(0, country.indexOf(' '));
+                alert('else : ' + country);
+            }
+            $.get('https://restcountries.eu/rest/v2/name/' + country + '',
+                    function (data, status) {
+                        $('.custom-flag-holder').css('display', 'none');
+                        $('.custom-svg').css('display', 'inline').attr('src', data[0].flag);
+                        $('#phone_number').attr('placeholder', '+(' + data[0].callingCodes + ') ...');
+                    }
+            );
+        }
+
+    }
+    );
 });

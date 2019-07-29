@@ -11,46 +11,6 @@
         </div>
     </div>
 
-    <style>
-        form .form-group{
-            margin-bottom: 2px;
-        }
-        form .form-group label{
-            margin-bottom: 3px;
-            font-size: smaller;
-        }
-        form .form-group .input-group input,
-        form .form-group .input-group select,
-        form .form-group .input-group textarea{
-            border-width: 0px 0px 1px 0px;
-            border-radius: 0;
-            box-shadow: none;
-            padding: 5px;
-            transition: .4s;
-        }
-        form .form-group .input-group input:focus, form .form-group .input-group select:focus{
-            box-shadow: none;
-        }
-        form .form-group .input-group .input-group-prepend{
-
-        }
-
-        form .form-group .input-group .input-group-text{
-            border-radius: 0;
-            background: #fff;
-            border-width: 0px 2px 1px 0px;
-        }
-        form .form-group .input-group .input-group-text .custom-svg{
-            /*margin-left: 5px;*/
-            display: inline;
-            height: 22px;
-            width: 27px;
-        }
-        form .form-group small{
-
-        }
-
-    </style>
     <!--Here we place the form-->
     <form class="row">
         <div class="col-sm-6">
@@ -181,42 +141,3 @@
     </form>
 
 </div>
-
-<script>
-    $(document).ready(function () {
-        $.get('https://restcountries.eu/rest/v2/all',
-                function (data, status) {
-                    var opt = '<option>Select Country</option>';
-                    var sel = $('#countryid');
-                    for (var i = 0; i < data.length; i++) {
-                        opt = opt+'<option>'+data[i].name+'<option>';
-                    }
-                    $(sel).html(opt);
-                }
-        );
-
-        $('#countryid').change(function () {
-            var country = $(this).val().trim();
-            
-            if (country === 'Select Country' || country.length===0) {
-                $('.custom-flag-holder').css('display', 'inline');
-                $('.custom-svg').css('display', 'none');
-                 $('#phone_number').attr('placeholder','Your Phone number...');
-            } else {
-                if(!country.indexOf(' ') == -1){
-                     country = country.substring(0, country.indexOf(' '));
-                     alert('else : '+country);
-                }
-                $.get('https://restcountries.eu/rest/v2/name/' + country + '',
-                        function (data, status) {
-                            $('.custom-flag-holder').css('display', 'none');
-                            $('.custom-svg').css('display', 'inline').attr('src',data[0].flag);
-                            $('#phone_number').attr('placeholder','+('+data[0].callingCodes+') ...');
-                        }
-                );
-            }
-
-        }
-        );
-    });
-</script>
