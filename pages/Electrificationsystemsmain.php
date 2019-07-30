@@ -134,7 +134,7 @@ issued for a scheme and materials used to construct the scheme.</p>
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">
-            <a href="#" class="btn fancy-button">
+            <a href="../contact-us.php" class="btn fancy-button">
                 Contact Us
             </a>
         </div>

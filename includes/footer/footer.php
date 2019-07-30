@@ -26,50 +26,50 @@
             <h6 class="text-center">SERVICES/EXPERTISE</h6>
             <div class="row">
                 <div class="col-sm-6">
-                    <a href="Expertise/Design & Survey/"><h6>DESIGN AND SURVEY</h6></a>
+                    <a href="expertise/design-and-survey/"><h6>DESIGN AND SURVEY</h6></a>
                     <p class="hide">
-                        <a href="Expertise/Design & Survey/AutocardDesign.php">Autocard Design</a><br>
-                        <a href="Expertise/Design & Survey/Costing.php">Costing</a><br>
-                        <a href="Expertise/Design & Survey/Design&Survey.php">Design&Survey</a><br>
-                        <a href="Expertise/Design & Survey/Field Survey.php">Field Survey</a><br>
-                        <a href="Expertise/Design & Survey/FieldDatabase.php">Field Database</a><br>
+                        <a href="expertise/design-and-survey/autocard-design.php">Autocard Design</a><br>
+                        <a href="expertise/design-and-survey/costing.php">Costing</a><br>
+                        <a href="expertise/design-and-survey/design-and-survey.php">Design&Survey</a><br>
+                        <a href="expertise/design-and-survey/field-survey.php">Field Survey</a><br>
+                        <a href="expertise/design-and-survey/field-database.php">Field Database</a><br>
                     </p>
                 </div>
                 <div class="col-sm-6">
-                    <a href="Expertise/Lv & Mv Constraction/">
+                    <a href="expertise/lv-and-mv-construction/">
                         <h6>LV and MV CONSTRUCTION</h6>
                     </a>
                     <p class="hide">
-                        <a href="Expertise/Lv & Mv Constraction/ConstructionStandards.php">Construction Standards</a><br>
-                        <a href="Expertise/Lv & Mv Constraction/MaterialRequisition.php">Material Requisition</a><br>
-                        <a href="Expertise/Lv & Mv Constraction/Metering.php">Metering</a><br>
-                        <a href="Expertise/Lv & Mv Constraction/Pegging.php">Pegging</a>
+                        <a href="expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a><br>
+                        <a href="expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a><br>
+                        <a href="expertise/lv-and-mv-construction/matering.php">Metering</a><br>
+                        <a href="expertise/lv-and-mv-construction/pegging.php">Pegging</a>
                     </p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-6">
-                    <a href="Expertise/Project Management/">
+                    <a href="expertise/project-management/">
                         <h6>PROJECT MANAGEMENT</h6>
                     </a>
                     <p class="hide">
-                        <a href="Expertise/Project Management/BackOffice.php">Back Office</a><br>
-                        <a href="Expertise/Project Management/ElectrificationSystem.php">Electrification System</a><br>
-                        <a href="Expertise/Project Management/ProjectManagement.php">Project Management</a><br>
-                        <a href="Expertise/Project Management/SupervisionTeam.php">Supervision Team</a>
+                        <a href="expertise/project-management/back-office.php">Back Office</a><br>
+                        <a href="expertise/project-management/electrification-systems.php">Electrification System</a><br>
+                        <a href="expertise/project-management/project-management.php">Project Management</a><br>
+                        <a href="expertise/project-management/supervision-team.php">Supervision Team</a>
                     </p>
                 </div>
                 <div class="col-sm-6">
-                    <a href="Staffing and Training/">
+                    <a href="expertise/staffing-and-training/">
                         <h6>STAFFING & TRAINING</h6>
                     </a>
                     <p class="hide">
-                        <a href="Expertise/Staffing and Training/Autocard.php">Auto Card</a><br>
-                        <a href="Expertise/Staffing and Training/BackOffice.php">Back Office</a><br>
-                        <a href="Expertise/Staffing and Training/ConstructionTeams.php">Construction Teams</a><br>
-                        <a href="Expertise/Staffing and Training/StaffingandTraining.php">Staffing and Training</a><br>
-                        <a href="Expertise/Staffing and Training/Supervisors.php">Supervisors</a><br>
-                        <a href="Expertise/Staffing and Training/Surveyors&Designers.php">Surveyors and Designers</a>
+                        <a href="expertise/staffing-and-training/autocard.php">Auto Card</a><br>
+                        <a href="expertise/staffing-and-training/back-office.php">Back Office</a><br>
+                        <a href="expertise/staffing-and-training/construction-teams.php">Construction Teams</a><br>
+                        <a href="expertise/staffing-and-training/staffing-and-training.php">staffing-and-training</a><br>
+                        <a href="expertise/staffing-and-training/supervisors.php">Supervisors</a><br>
+                        <a href="expertise/staffing-and-training/surveyors-and-designers.php">Surveyors and Designers</a>
                     </p>
                 </div>
             </div>
@@ -77,12 +77,12 @@
         <div class="col-sm-3 foot">
             <h5>ELECTRIFICATION SYSTEMS </h5>
             <div class="container hide">
-                <a href="Electrification_Systems/ElectrificationSystemsInformation/#budgeting">Design</a><br>
-                <a href="Electrification_Systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a><br>
-                <a href="Electrification_Systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a><br>
-                <a href="Electrification_Systems/ElectrificationSystemsInformation/#Reporting">Reporting</a><br>
-                <a href="Electrification_Systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a><br>
-                <a href="Electrification_Systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
+                <a href="electrification-systems/ElectrificationSystemsInformation/#budgeting">Design</a><br>
+                <a href="electrification-systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a><br>
+                <a href="electrification-systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a><br>
+                <a href="electrification-systems/ElectrificationSystemsInformation/#Reporting">Reporting</a><br>
+                <a href="electrification-systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a><br>
+                <a href="electrification-systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
 
             </div>
         </div>
@@ -98,7 +98,7 @@
                     <P><a  href="#">Our <br>company<br></a>
                     <a  href="#">Our Offices</a> <br>
                     <a  href="#">Our team</a> <br>
-                    <a  href="ContactUs.php">Contact Us</a><br>
+                    <a  href="contact-us.php">Contact Us</a><br>
                     <a  href="#">Careers</a></p>
                 </div>
         </div>

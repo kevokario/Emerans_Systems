@@ -11,7 +11,7 @@
 
         <!--Nav Bar Section-->
         <?php
-        include './includes/header/navbar.php';
+        include './includes/navigation/navbar.php';
         ?>
 
         <!--Carousel Section-->

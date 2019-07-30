@@ -13,7 +13,7 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto justify-content-center">
         <div class="col-sm-1"></div>
-        <a href="Design & Survey/" class="service-container  col-lg-4 col-md-6 col-sm-6 col-xm-12">
+        <a href="design-and-survey/" class="service-container  col-lg-4 col-md-6 col-sm-6 col-xm-12">
             <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Survey</h3>
@@ -31,7 +31,7 @@
                 </div>
             </div>
         </a>
-        <a href="Lv & Mv Constraction/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
+        <a href="lv-and-mv-construction/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/Training.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Lv & Mv Construction</h3>
@@ -51,7 +51,7 @@
         </a>
         <div class="col-sm-1"></div>
         <div class="col-sm-1"></div>
-        <a href="Project Management/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
+        <a href="project-management/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/Emeran_open_page.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Project Management</h3>
@@ -71,7 +71,7 @@
                 </div>
             </div>
         </a>
-        <a href="Staffing and Training/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
+        <a href="staffing-and-training/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/Emeran_open_page.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Staffing & Training</h3>
@@ -126,7 +126,7 @@
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">
-            <a href="#" class="btn fancy-button">
+            <a href="../contact-us.php" class="btn fancy-button">
                 Contact Us
             </a>
         </div>

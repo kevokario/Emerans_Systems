@@ -15,7 +15,7 @@
     <div class="row px-auto  justify-content-center">
 
      
-        <a href="BackOffice.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="back-office.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
                 <h3>Back Office</h3>
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystem.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="electrification-systems.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Electrification Systems</h3>
@@ -54,7 +54,7 @@
     </div>
     <div class="row px-auto  justify-content-center">
         
-        <a href="ProjectManagement.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="project-management.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Project Management</h3>
@@ -74,7 +74,7 @@
             </div>
         </a>
 
-        <a href="SupervisionTeam.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="supervision-team.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Supervision Management</h3>
@@ -103,7 +103,7 @@ those periods.</p>
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">
-            <a href="#" class="btn fancy-button">
+            <a href="../../contact-us.php" class="btn fancy-button">
                 Contact Us
             </a>
         </div>

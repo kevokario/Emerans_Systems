@@ -14,7 +14,7 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-        <a href="AutocardDesign.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="autocard-design.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/1.jpg" alt="Autocard Design" class="service-img"/>
             <div class="service-title">
                 <h3>Autocard Design</h3>
@@ -32,7 +32,7 @@
                 </div>
             </div>
         </a>
-        <a href="Costing.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="costing.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
                 <h3>Costing</h3>
@@ -50,7 +50,7 @@
                 </div>
             </div>
         </a>
-        <a href="Design&Survey.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="design-and-survey.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Survey</h3>
@@ -71,7 +71,7 @@
     </div>
     <div class="row px-auto  justify-content-center">
         
-        <a href="Field Survey.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="field-survey.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Field Survey</h3>
@@ -91,7 +91,7 @@
             </div>
         </a>
 
-        <a href="FieldDatabase.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="field-database.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Field Database</h3>
@@ -120,7 +120,7 @@ those periods.</p>
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">
-            <a href="#" class="btn fancy-button">
+            <a href="../../contact-us.php" class="btn fancy-button">
                 Contact Us
             </a>
         </div>

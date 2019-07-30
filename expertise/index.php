@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 <html>
-
     <head>
-        <!--This is the head content-->
-        <?php include '../includes/header/head1.php'; ?>
+        <?php
+        include '../includes/header/head1.php';
+        ?>
     </head>
 
     <body>
-        
-        <!--Navbar Section-->
+        <!--Navigation Bar-->
         <?php
         include '../includes/navigation/navbar1.php';
         ?>
-        
-        <!--This is the content information-->
+
+        <!--Page Content-->
         <?php
-        include '../pages/ProjectsMain.php';
+        include '../pages/ExpertiseMain.php';
         ?>
-        
+
+
         <!--Footer Section-->
         <?php
         include '../includes/footer/footer1.php';
         ?>
     </body>
 </html>
-

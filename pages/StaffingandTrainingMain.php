@@ -15,7 +15,7 @@
     <div class="row px-auto  justify-content-center">
 
 
-        <a href="Autocard.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="autocard.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
                 <h3>Auto Card</h3>
@@ -33,7 +33,7 @@
                 </div>
             </div>
         </a>
-        <a href="BackOffice.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="back-office.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Back Office Systems</h3>
@@ -51,7 +51,7 @@
                 </div>
             </div>
         </a>
-        <a href="ConstructionTeams.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="construction-teams.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Construction Teams</h3>
@@ -72,7 +72,7 @@
     </div>
     <div class="row px-auto  justify-content-center">
 
-        <a href="StaffingandTraining.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="staffing-and-training.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Staffing and Training</h3>
@@ -91,7 +91,7 @@
                 </div>
             </div>
         </a>
-        <a href="Supervisors.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="supervisors.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Supervisors </h3>
@@ -111,7 +111,7 @@
             </div>
         </a>
 
-        <a href="Surveyors&Designers.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="surveyors-and-designers.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Surveyors and Designers</h3>
@@ -140,7 +140,7 @@
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">
-            <a href="#" class="btn fancy-button">
+            <a href="../../contact-us.php" class="btn fancy-button">
                 Contact Us
             </a>
         </div>
