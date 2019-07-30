@@ -7,7 +7,7 @@
                     <br> This helps in planning
                     logistics of material transportation to the site,<br> the route to use.....</p>
                 <p>
-                    <a href="Electrification_Systems/" class="my-class mx-auto">
+                    <a href="electrification-systems/" class="my-class mx-auto">
                         View Our Systems +
                     </a>
                 </p>
