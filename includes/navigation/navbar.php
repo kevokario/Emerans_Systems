@@ -36,7 +36,7 @@
                     <div class="menu-option-body">
                         <a href="expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a>
                         <a href="expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a>
-                        <a href="expertise/lv-and-mv-construction/matering.php">Metering</a>
+                        <!--<a href="expertise/lv-and-mv-construction/matering.php">Metering</a>-->
                         <a href="expertise/lv-and-mv-construction/pegging.php">Pegging</a>
                     </div>
                 </div>
