@@ -23,11 +23,11 @@
                         Design & Survey
                     </a>
                     <div class="menu-option-body">
-                        <a href="../expertise/design-and-survey/autocard-design.php">Autocard Design</a>
-                        <a href="../expertise/design-and-survey/costing.php">Costing</a>
-                        <a href="../expertise/design-and-survey/design-and-survey.php">Design&Survey</a>
                         <a href="../expertise/design-and-survey/field-survey.php">Field Survey</a>
+                        <a href="../expertise/design-and-survey/autocard-design.php">Design</a>
                         <a href="../expertise/design-and-survey/field-database.php">Field Database</a>
+                        <a href="../expertise/design-and-survey/costing.php">Asbuilt</a>
+                        <!--<a href="../expertise/design-and-survey/design-and-survey.php">Design&Survey</a>-->
                     </div>
                 </div>
                 <div class="mymenu">
