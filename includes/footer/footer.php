@@ -28,11 +28,11 @@
                 <div class="col-sm-6">
                     <a href="expertise/design-and-survey/"><h6>DESIGN AND SURVEY</h6></a>
                     <p class="hide">
-                        <a href="expertise/design-and-survey/autocard-design.php">Autocard Design</a><br>
-                        <a href="expertise/design-and-survey/costing.php">Costing</a><br>
-                        <a href="expertise/design-and-survey/design-and-survey.php">Design&Survey</a><br>
                         <a href="expertise/design-and-survey/field-survey.php">Field Survey</a><br>
+                        <a href="expertise/design-and-survey/autocard-design.php">Design</a><br>
                         <a href="expertise/design-and-survey/field-database.php">Field Database</a><br>
+                        <a href="expertise/design-and-survey/asbuilt.php">Asbuilt</a><br>
+                        <!--<a href="expertise/design-and-survey/design-and-survey.php">Design&Survey</a>-->
                     </p>
                 </div>
                 <div class="col-sm-6">
@@ -42,7 +42,7 @@
                     <p class="hide">
                         <a href="expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a><br>
                         <a href="expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a><br>
-                        <a href="expertise/lv-and-mv-construction/matering.php">Metering</a><br>
+                        <!--<a href="expertise/lv-and-mv-construction/matering.php">Metering</a><br>-->
                         <a href="expertise/lv-and-mv-construction/pegging.php">Pegging</a>
                     </p>
                 </div>
