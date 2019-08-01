@@ -77,12 +77,12 @@
         <div class="col-sm-3 foot">
             <h5>ELECTRIFICATION SYSTEMS </h5>
             <div class="container hide">
-                <a href="electrification-systems/ElectrificationSystemsInformation/#budgeting">Design</a><br>
-                <a href="electrification-systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a><br>
-                <a href="electrification-systems/ElectrificationSystemsInformation/#WorkProgress.">Work progress</a><br>
-                <a href="electrification-systems/ElectrificationSystemsInformation/#Reporting">Reporting</a><br>
-                <a href="electrification-systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a><br>
-                <a href="electrification-systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
+                <a href="electrification-systems/info/#budgeting">Design</a><br>
+                <a href="electrification-systems/info/#StoreManagement">Store management</a><br>
+                <a href="electrification-systems/info/#WorkProgress.">Work progress</a><br>
+                <a href="electrification-systems/info/#Reporting">Reporting</a><br>
+                <a href="electrification-systems/info/#GanttChart">Gantt chart</a><br>
+                <a href="electrification-systems/info/#MaterialReconciliation">Material reconciliation</a>
 
             </div>
         </div>

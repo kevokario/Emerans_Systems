@@ -16,7 +16,7 @@
         <div class="col-sm-8">
             <div class="swiper-container">
                 <div class="swiper-wrapper">
-                    <a href="#" class="swiper-slide">
+                    <a href="electrification-systems/info/#budgeting" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
                                 <img src="img/Training.jpg" alt="training" class="swiper-img"/>
@@ -26,7 +26,7 @@
                             </h4>
                         </div>
                     </a>
-                    <a href="#" class="swiper-slide">
+                    <a href="electrification-systems/info/#StoreManagement" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
                                 <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
@@ -36,7 +36,7 @@
                             </h4>
                         </div>
                     </a>
-                    <a href="#" class="swiper-slide">
+                    <a href="electrification-systems/info/#WorkProgress" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
                                 <img src="img/cumulative_work_progress.png" alt="training" class="swiper-img"/>
@@ -46,7 +46,7 @@
                             </h4>
                         </div>
                     </a>
-                    <a href="#" class="swiper-slide">
+                    <a href="electrification-systems/info/#Reporting" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
                                 <img src="img/pbanner.jpg" alt="training" class="swiper-img"/>
@@ -56,7 +56,7 @@
                             </h4>
                         </div>
                     </a>
-                    <a href="#" class="swiper-slide">
+                    <a href="electrification-systems/info/#GanttChart" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
                                 <img src="img/Gantt_chart.png" alt="training" class="swiper-img"/>
@@ -66,7 +66,7 @@
                             </h4>
                         </div>
                     </a>
-                    <a href="" class="swiper-slide">
+                    <a href="electrification-systems/info/#MaterialReconciliation" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
                                 <img src="img/photo_2017-10-20_12-52-49.jpg" alt="training" class="swiper-img"/>

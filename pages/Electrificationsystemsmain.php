@@ -11,7 +11,7 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-        <a href="ElectrificationSystemsInformation/#budgeting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="info/#budgeting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/1.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Budgeting</h3>
@@ -29,7 +29,7 @@
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#StoreManagement" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="info/#StoreManagement" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
                 <h3>Store Management</h3>
@@ -47,7 +47,7 @@
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#WorkProgress" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="info/#WorkProgress" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/cumulative_work_progress.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Work Progress</h3>
@@ -68,7 +68,7 @@
     </div>
     <div class="row px-auto  justify-content-center">
         
-        <a href="ElectrificationSystemsInformation/#Reporting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="info/#Reporting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Reporting</h3>
@@ -88,7 +88,7 @@
             </div>
         </a>
 
-        <a href="ElectrificationSystemsInformation/#GanttChart" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="info/#GanttChart" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Gantt Chart</h3>
@@ -107,7 +107,7 @@ those periods.</p>
                 </div>
             </div>
         </a>
-        <a href="ElectrificationSystemsInformation/#MaterialReconciliation" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="info/#MaterialReconciliation" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Material Reconciliation</h3>

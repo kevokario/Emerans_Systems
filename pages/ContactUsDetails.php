@@ -15,9 +15,9 @@
         <div class="col-sm-3">
 
             <div class="media">
-                <a class="media-left custom-heading" href="#">
+                <p class="media-left custom-heading">
                     <i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
-                </a>
+                </p>
                 <div class="media-body">
                     <h4 class="custom-heading">Head Office Kenya</h4>
                     <p>Kikuyu, Kenya<br>
@@ -27,9 +27,9 @@
                 </div>
             </div>
             <div class="media">
-                <div class="media-left custom-heading">
+                <p class="media-left custom-heading">
                     <i class="fa fa-phone fa-2x"></i>  
-                </div>
+                </p>
                 <div class="media-body">
                     <h4 class="custom-heading">Phone Number</h4>
                     <p>
@@ -40,9 +40,9 @@
                 </div>
             </div>
             <div class="media">
-                <a class="media-left custom-heading">
-                    <i class="fa fa-envelope-square fa-2x"></i>
-                </a>
+                <p class="media-left custom-heading">
+                    <i class="fa fa-envelope-o fa-2x"></i>
+                </p>
                 <div class="media-body">
                     <h4 class="custom-heading">Email Us</h4>
                     <a href="">

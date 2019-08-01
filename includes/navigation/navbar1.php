@@ -74,12 +74,12 @@
             </a>
             <div class="menu-options custom-menu-option text-dark">
                 <div class="menu-option-body">
-                    <a href="../electrification-systems/ElectrificationSystemsInformation/#budgeting">Design</a>
-                    <a href="../electrification-systems/ElectrificationSystemsInformation/#StoreManagement">Store management</a>
-                    <a href="../electrification-systems/ElectrificationSystemsInformation/#WorkProgress">Work progress</a>
-                    <a href="../electrification-systems/ElectrificationSystemsInformation/#Reporting">Reporting</a>
-                    <a href="../electrification-systems/ElectrificationSystemsInformation/#GanttChart">Gantt chart</a>
-                    <a href="../electrification-systems/ElectrificationSystemsInformation/#MaterialReconciliation">Material reconciliation</a>
+                    <a href="../electrification-systems/info/#budgeting">Design</a>
+                    <a href="../electrification-systems/info/#StoreManagement">Store management</a>
+                    <a href="../electrification-systems/info/#WorkProgress">Work progress</a>
+                    <a href="../electrification-systems/info/#Reporting">Reporting</a>
+                    <a href="../electrification-systems/info/#GanttChart">Gantt chart</a>
+                    <a href="../electrification-systems/info/#MaterialReconciliation">Material reconciliation</a>
                 </div>
             </div>
         </li>
