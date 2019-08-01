@@ -18,7 +18,7 @@
             <div class="container-fluid generic-container">
                 <div class="row">
                     <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 generic-custom-description">
-                        <h2>Costing</h2>
+                        <h2>As Built</h2>
                         <p> Our systems accept excel data input i.e schemes allocated, indicating on the map that’s
                             (integrated on the system), exact location of the schemes. This helps you in planning
                             logistics of material transportation to the site, the route to use, and the type of vehicle to

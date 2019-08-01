@@ -161,7 +161,7 @@ section{
 } 
 
 #budgeting .generic-custom-img{
-    background-image: url(../../img/1.jpg);
+    background-image: url(../../img/design&budgeting_1.jpg);
 }
 #StoreManagement .generic-custom-img{
     background-image: url(../../img/store.jpg);
@@ -170,10 +170,10 @@ section{
     background-image: url(../../img/cumulative_work_progress.png);
 }
 #Reporting .generic-custom-img{
-    background-image: url(../../img/Training.jpg);
+    background-image: url(../../img/reporting.jpg);
 }
 #GanttChart .generic-custom-img{
-    background-image: url(../../img/Gantt_chart.png);
+    background-image: url(../../img/gant-chart.png);
 }
 #MaterialReconciliation .generic-custom-img{
     background-image: url(../../img/Material_reconciliation.png);
@@ -281,7 +281,7 @@ section{
 */
 
 section.costing .generic-custom-img{
-    background-image: url('../../img/1.jpg');
+    background-image: url('../../img/costing.jpg');
 
 }
 section.autocard .generic-custom-img{
