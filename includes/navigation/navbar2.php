@@ -3,7 +3,7 @@
     <ul class="mynav-links">
         <li>
             <a id="linksA" href="../../expertise/" class="mynav-link">
-                Expertise 
+                Expertise
                 <i class="mynav-caret pull-right fa fa-caret-down"></i>
             </a>
             <div class="menu-options-multiple custom-menu-option text-dark">
@@ -13,7 +13,7 @@
                     </a>
                     <div class="menu-option-body">
                         <a href="../../expertise/design-and-survey/field-survey.php">Field Survey</a>
-                        <a href="../../expertise/design-and-survey/autocard-design.php">Design</a>
+                        <a href="../../expertise/design-and-survey/autocard-design.php">AutoCAD Design</a>
                         <a href="../../expertise/design-and-survey/field-database.php">Field Database</a>
                         <a href="../../expertise/design-and-survey/asbuilt.php">Asbuilt</a>
                         <!--<a href="../../expertise/design-and-survey/design-and-survey.php">Design&Survey</a>-->
@@ -74,7 +74,7 @@
         </li>
         <li>
             <a href="../../projects/" id="linksC" class="mynav-link">
-                Projects 
+                Projects
                 <i class="mynav-caret pull-right  fa fa-caret-down"></i>
             </a>
             <div class="menu-options custom-menu-option text-dark">
@@ -102,7 +102,7 @@
         </li>
         <li>
             <a href="../../contact-us.php" id="linksE" class="mynav-link">
-                Contact us 
+                Contact us
                 <!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
             </a>
             <!-- <div class="menu-options custom-menu-option text-dark">
