@@ -97,7 +97,7 @@
             </div>
         </li>
         <li>
-            <a href="#" id="linksD" class="mynav-link">
+            <a href="blog/" id="linksD" class="mynav-link">
                 Blog
                 <!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
             </a>

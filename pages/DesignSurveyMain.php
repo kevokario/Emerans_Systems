@@ -32,14 +32,14 @@
                 </div>
             </div>
         </a>
-        <a href="costing.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="asbuilt.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
-                <h3>Costing</h3>
+                <h3>asbuilt</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Costing</h3>
+                    <h3>Asbuilt</h3>
                 </div>
                 <div class="service-cover-text">
                     <p>In the store module which has user permissions to store manager and procurement officers.
