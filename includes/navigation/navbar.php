@@ -23,7 +23,7 @@
                     </a>
                     <div class="menu-option-body">
                         <a href="expertise/design-and-survey/field-survey.php">Field Survey</a>
-                        <a href="expertise/design-and-survey/autocard-design.php">Design</a>
+                        <a href="expertise/design-and-survey/autocard-design.php">AutoCAD Design</a>
                         <a href="expertise/design-and-survey/field-database.php">Field Database</a>
                         <a href="expertise/design-and-survey/asbuilt.php">Asbuilt</a>
                         <!--<a href="expertise/design-and-survey/design-and-survey.php">Design&Survey</a>-->
@@ -97,7 +97,7 @@
             </div>
         </li>
         <li>
-            <a href="#" id="linksD" class="mynav-link">
+            <a href="blog/" id="linksD" class="mynav-link">
                 Blog
                 <!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
             </a>

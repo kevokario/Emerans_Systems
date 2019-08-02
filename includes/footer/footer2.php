@@ -6,7 +6,7 @@
             </a>
             <div id="emeran">
                 <p class='text-white'>
-                    Emeran systems is a kenyan registered company operating in the Engineering and Technology field. The company focus on 
+                    Emeran systems is a kenyan registered company operating in the Engineering and Technology field. The company focus on
                     i) Power distribution. i.e distribution networks, Electrification, low voltage and medium voltage design & Constrution.
 
                     Weve qualified surveyor, Designers, electrical linesmen, electricians, with extensive experience in line design, survey, management and construction.
@@ -24,11 +24,13 @@
         </div>
         <div class="col-sm-4 foot">
             <a href="../../expertise">
-            <h6 class="text-center">SERVICES/EXPERTISE</h6>
+                <h5 class="text-center">SERVICES/EXPERTISE</h5>
             </a>
             <div class="row">
                 <div class="col-sm-6">
-                    <a href="../../expertise/design-and-survey/"><h6>DESIGN AND SURVEY</h6></a>
+                    <a href="../../expertise/design-and-survey/">
+                        <h6>DESIGN AND SURVEY</h6>
+                    </a>
                     <p class="hide">
                         <a href="../../expertise/design-and-survey/field-survey.php">Field Survey</a><br>
                         <a href="../../expertise/design-and-survey/autocard-design.php">Design</a><br>
@@ -42,10 +44,10 @@
                         <h6>LV and MV CONSTRUCTION</h6>
                     </a>
                     <p class="hide">
-                        <a href="../../expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a><br>
-                        <a href="../../expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a><br>
-                        <!--<a href="../../expertise/lv-and-mv-construction/matering.php">Metering</a><br>-->
-                        <a href="../../expertise/lv-and-mv-construction/pegging.php">Pegging</a>
+                        <a href="expertise/lv-and-mv-construction/pegging.php">Pegging</a><br>
+                        <a href="expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a><br>
+                        <a href="expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a>
+                        <!--<a href="expertise/lv-and-mv-construction/matering.php">Metering</a><br>-->
                     </p>
                 </div>
             </div>
@@ -78,7 +80,7 @@
         </div>
         <div class="col-sm-3 foot">
             <a href="../../electrification-systems">
-            <h5>ELECTRIFICATION SYSTEMS </h5>
+                <h5>ELECTRIFICATION SYSTEMS </h5>
             </a>
             <div class="container hide">
                 <a href="../../electrification-systems/info/#budgeting">Design</a><br>
@@ -91,17 +93,22 @@
             </div>
         </div>
         <div class="col-sm-2 foot">
-            <a href="../../projects/"><h6>PROJECTS</h6></a>
-            <a href="#"><h6>BLOG</h6></a>
-                <a href="#"><H6>ABOUT US</H6></a>
-                <div class="container hide">
-                    <p><a  href="#">Our <br>company</a><br>
-                    <a  href="#">Our Offices</a> <br>
-                    <a  href="#">Our team</a> <br>
-                    <a  href="../../contact-us.php">Contact Us</a><br>
-                    <a  href="#">Careers</a></p>
-                </div>
+            <a href="../../projects/">
+                <h6>PROJECTS</h6>
+            </a>
+            <a href="#">
+                <h6>BLOG</h6>
+            </a>
+            <a href="#">
+                <H6>ABOUT US</H6>
+            </a>
+            <div class="container hide">
+                <p><a href="#">Our <br>company</a><br>
+                    <a href="#">Our Offices</a> <br>
+                    <a href="#">Our team</a> <br>
+                    <a href="../../contact-us.php">Contact Us</a><br>
+                    <a href="#">Careers</a></p>
+            </div>
         </div>
     </div>
 </div>
-
