@@ -22,4 +22,42 @@
             </div>
         </div>
     </div>
+    <div class="row blog-links generic-container-alt">
+        <div class="col-sm-4 b-link">
+            <h3>Blog heading</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+            <a href="#">learn more</a>
+        </div>
+        <div class="col-sm-4 b-link">
+            <h3>Blog heading</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+            <a href="#">learn more</a>
+        </div>
+        <div class="col-sm-4 b-link">
+            <h3>Blog heading</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+            <a href="#">learn more</a>
+        </div>
+        <div class="col-sm-4 b-link">
+            <h3>Blog heading</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+            <a href="#">learn more</a>
+        </div>
+        <div class="col-sm-4 b-link">
+            <h3>Blog heading</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+            <a href="#">learn more</a>
+        </div>
+        <div class="col-sm-4 b-link">
+            <h3>Blog heading</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
+                    ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p>
+            <a href="#">learn more</a>
+        </div>
+    </div>
 </div>
