@@ -14,7 +14,7 @@
     <div class="row px-auto justify-content-center">
         <div class="col-sm-1"></div>
         <a href="design-and-survey/" class="service-container  col-lg-4 col-md-6 col-sm-6 col-xm-12">
-            <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
+            <img src="../img/Training.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Survey</h3>
             </div>
