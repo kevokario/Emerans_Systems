@@ -69,7 +69,7 @@
     <div class="row px-auto  justify-content-center">
         
         <a href="info/#Reporting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/training3.jpeg.jpg" alt="training" class="service-img"/>
+            <img src="../img/reporting.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Reporting</h3>
             </div>
@@ -89,7 +89,7 @@
         </a>
 
         <a href="info/#GanttChart" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
+            <img src="../img/gant-chart.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Gantt Chart</h3>
             </div>

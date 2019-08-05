@@ -62,7 +62,7 @@
         <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
-                    <img src="img/photo_2019-06-03_17-14-58.jpg" class="card-img" alt=""/>
+                    <img src="img/photo_2017-10-20_12-52-49.jpg" class="card-img" alt=""/>
                 </div>
                 <div class="card-body">
                     <p>Electrification management systems phase II</p>
