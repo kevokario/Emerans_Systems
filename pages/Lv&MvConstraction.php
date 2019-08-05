@@ -14,7 +14,7 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-        <a href="ConstructionStandards.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="construction-standards.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/1.jpg" alt="Autocard Design" class="service-img"/>
             <div class="service-title">
                 <h3>Construction Standards</h3>
@@ -32,7 +32,7 @@
                 </div>
             </div>
         </a>
-        <a href="MaterialRequisition.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <a href="material-requisition.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/store.jpg" alt="store" class="service-img"/>
             <div class="service-title">
                 <h3>Material Requisition</h3>
@@ -54,7 +54,7 @@
     </div>
     <div class="row px-auto  justify-content-center">
         
-        <a href="Metering.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+<!--        <a href="Metering.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Metering</h3>
@@ -72,10 +72,10 @@
                     Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
-        </a>
+        </a>-->
 
-        <a href="Pegging.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
+        <a href="pegging.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/pbanner.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Pegging</h3>
             </div>
