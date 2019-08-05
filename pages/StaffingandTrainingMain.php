@@ -73,7 +73,7 @@
     <div class="row px-auto  justify-content-center">
 
         <a href="staffing-and-training.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
+            <img src="../../img/Training.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Staffing and Training</h3>
             </div>
@@ -92,7 +92,7 @@
             </div>
         </a>
         <a href="supervisors.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
+            <img src="../../img/pb1.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Supervisors </h3>
             </div>
@@ -112,7 +112,7 @@
         </a>
 
         <a href="surveyors-and-designers.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/Gantt_chart_(2).png" alt="training" class="service-img"/>
+            <img src="../../img/gant-chart.png" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Surveyors and Designers</h3>
             </div>
