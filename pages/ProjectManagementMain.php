@@ -3,7 +3,7 @@
         <div class="col-sm-12">
             <h2> Project Management</h2>
             <p class="emphase-introduction">
-                <p> Project Initiation</p>  
+                <p> Project Initiation</p>
                 <p> Project Planning,</p>
                 <p> Project Execution,</p>
                 <p> Project Monitoring & Control</p>
@@ -12,7 +12,8 @@
                 Our experience in electrification projects have helped us acquire experience and knowledge to
                 implement/ plan and execute any project in LV & MV category.
                 As a result of challenges, we faced in our previous projects, our team have developed a customized ERP electrification system,
-                incorporating all stages of project management
+                incorporating all stages of project management therefore enhancing effective communication throughout the project implementation, 
+                planning on realistic deadlines, acquiring sufficient skilled teams, resource management and risk management among others.
             </p>
         </div>
     </div>
