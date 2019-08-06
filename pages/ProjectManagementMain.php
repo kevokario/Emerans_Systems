@@ -3,10 +3,16 @@
         <div class="col-sm-12">
             <h2> Project Management</h2>
             <p class="emphase-introduction">
-               Creaform’s product development and industrial design services give you the professionals, 
-               technology and expertise you need to create innovative product designs that provide
-               the right quality to the 
-               right market—all while mitigating unnecessary costs and risks.
+                <p> Project Initiation</p>  
+                <p> Project Planning,</p>
+                <p> Project Execution,</p>
+                <p> Project Monitoring & Control</p>
+                <p> Project closure.</p>
+                You can always engage Emeran professional consultants at any stage of your project.
+                Our experience in electrification projects have helped us acquire experience and knowledge to
+                implement/ plan and execute any project in LV & MV category.
+                As a result of challenges, we faced in our previous projects, our team have developed a customized ERP electrification system,
+                incorporating all stages of project management
             </p>
         </div>
     </div>
@@ -14,9 +20,9 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-     
+
         <a href="back-office.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/store.jpg" alt="store" class="service-img"/>
+            <img src="../../img/store.jpg" alt="store" class="service-img" />
             <div class="service-title">
                 <h3>Back Office</h3>
             </div>
@@ -34,7 +40,7 @@
             </div>
         </a>
         <a href="electrification-systems.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
+            <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Electrification Systems</h3>
             </div>
@@ -53,9 +59,9 @@
         </a>
     </div>
     <div class="row px-auto  justify-content-center">
-        
+
         <a href="project-management.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/Training.jpg" alt="training" class="service-img"/>
+            <img src="../../img/Training.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Project Management</h3>
             </div>
@@ -75,7 +81,7 @@
         </a>
 
         <a href="supervision-team.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/banner2.jpg" alt="training" class="service-img"/>
+            <img src="../../img/banner2.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Supervision Management</h3>
             </div>
@@ -85,21 +91,21 @@
                 </div>
                 <div class="service-cover-text">
                     <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
-r production completed in a certain period of time in relation to the amount planned for
-those periods.</p>
+                        r production completed in a certain period of time in relation to the amount planned for
+                        those periods.</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
         </a>
-        
+
     </div>
 </div>
 <div class="container-fluid generic-container container-contact">
     <div class="row fancy-background">
         <div class="col-sm-8">
-            <h2>LAERN MORE ABOUT HOW OUR<br> PROJECT MANAGEMENT</h2>
+            <h2>LEARN MORE ABOUT HOW OUR<br> PROJECT MANAGEMENT</h2>
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">

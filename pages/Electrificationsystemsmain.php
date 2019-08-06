@@ -1,7 +1,7 @@
 <div class="container-fluid generic-container custom-option-header">
     <div class="row">
         <div class="col-sm-12">
-            <h2> Electrification systems Section</h2>
+            <h2> Electrification ERP systems</h2>
             <p class="emphase-introduction">
                 World-class engineering services at your fingertips
             </p>

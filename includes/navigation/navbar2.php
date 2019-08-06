@@ -36,7 +36,7 @@
                     </a>
                     <div class="menu-option-body">
                         <a href="../../expertise/project-management/back-office.php">Back Office</a>
-                        <a href="../../expertise/project-management/electrification-systems.php">Electrification System</a>
+                        <a href="../../expertise/project-management/electrification-systems.php">Electrification ERP System</a>
                         <a href="../../expertise/project-management/project-management.php">project-management</a>
                         <a href="../../expertise/project-management/supervision-team.php">Supervision Team</a>
                     </div>
@@ -58,7 +58,7 @@
         </li>
         <li>
             <a href="../../electrification-systems" id="linksB" class="mynav-link">
-                Electrification Systems
+                Electrification ERP Systems
                 <i class="mynav-caret pull-right fa fa-caret-down"></i>
             </a>
             <div class="menu-options custom-menu-option text-dark">
@@ -79,8 +79,8 @@
             </a>
             <div class="menu-options custom-menu-option text-dark">
                 <div class="menu-option-body">
-                    <a>Design & Salary</a>
-                    <a>Electrification Management Systems</a>
+                    <a>Design</a>
+                    <a>Electrification ERP Systems</a>
                     <a>Training</a>
                     <a>Consultance</a>
                 </div>
