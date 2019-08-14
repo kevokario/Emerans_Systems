@@ -3,17 +3,17 @@
         <div class="col-sm-12">
             <h2> Electrification ERP systems</h2>
             <p class="emphase-introduction">
-                The electrification system comprises of several modules that helps run electrification project from design & budgeting,
-                 store management, construction reports & progress to As-built, material reconciliation
-                 On the design the system generates the total materials required to completely construct a scheme.
-                 On the store module the system is able to detect the materials already in store
-                 and flag if materials are running low. it issues materials and generates a delivery note as per the exported materials 
-                 as designed/pegged On Construction it indicates the construction progress of every scheme
-                  as allocated to different construction teams or subcontractors generating a Gantt chart. On Reports, 
-                  the system generates reports as per scheme and also the overall progress of the project. 
-                  On material reconciliation the system captures all materials used in site, 
-                  and does a comparison with the materials issued for that specific site. and gives the difference. 
-                  among many other functions in the system.
+                    The electrification system comprises of several modules that helps run electrification project from design & budgeting,
+                    store management, construction reports & progress to As-built, material reconciliation
+                    <br>On the design the system generates the total materials required to completely construct a scheme.
+                    <br>On the store module the system is able to detect the materials already in store
+                    and flag if materials are running low. it issues materials and generates a delivery note as per the exported materials 
+                    as designed/pegged On Construction it indicates the construction progress of every scheme
+                    as allocated to different construction teams or subcontractors generating a Gantt chart. 
+                    <br>On Reports, the system generates reports as per scheme and also the overall progress of the project. 
+                    <br>On material reconciliation the system captures all materials used in site, 
+                    and does a comparison with the materials issued for that specific site. and gives the difference. 
+                    among many other functions in the system.
             </p>
         </div>
     </div>

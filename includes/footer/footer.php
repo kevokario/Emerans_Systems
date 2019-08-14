@@ -2,7 +2,7 @@
     <div class="row">
         <div class="col-sm-3  emebottom" id="emebottom">
             <a href="">
-                <h5>EMERAND SYSTEMS LTD</h5>
+                <h5>EMERAN SYSTEMS LTD</h5>
             </a>
             <div id="emeran">
                 <p class='text-white'>
@@ -77,7 +77,7 @@
             </div>
         </div>
         <div class="col-sm-3 foot">
-            <h5>ELECTRIFICATION SYSTEMS </h5>
+            <h5>ELECTRIFICATION ERP SYSTEMS </h5>
             <div class="container hide">
                 <a href="electrification-systems/info/#budgeting">Design</a><br>
                 <a href="electrification-systems/info/#StoreManagement">Store management</a><br>

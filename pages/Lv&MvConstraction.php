@@ -3,11 +3,11 @@
         <div class="col-sm-12">
             <h2> Lv/Mv Construction</h2>
             <p class="emphase-introduction">
-                Emeran construction engineers are trained and certified in power line construction,
-                this entails interpretation of design maps, pegging, material requisition,
-                ERP system operation, construction, metering, communication, planning,
+                Emeran is proud to have experienced engineers passionate on their work, well trained and experience in power line construction,
+                which entails interpretation of design maps, pegging, material requisition,
+                ERP system i.e contractors module operation, metering, planning,
                 Gantt chart interpretation, work schedules among others.
-                We always observe standards in every construction task.
+                <br>We’ve also exposed them to supervision standards as required by the main clients, hence they understand the do’s and the don’ts in the electrification projects.
             </p>
         </div>
     </div>
