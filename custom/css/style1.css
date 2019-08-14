@@ -1,4 +1,29 @@
-body{
+img{
+       
+    }
+    #carousel_main .carousel-caption h3{
+        animation-delay: .5s;
+    }
+    #carousel_main .carousel-caption p{
+        animation-delay: .75s;
+    }
+    #carousel_main .carousel-control-next,#carousel_main .carousel-control-prev{
+        color: #0b97cc;
+        font-size: 40px;
+        opacity: 1;
+    }
+    #carousel_main img{
+         height: 450px;
+        width:100%;
+            filter: grayscale(0.1) brightness(79%);
+    }
+    #carousel_main .carousel-caption h3{
+        color: #05063c;
+    }
+    #carousel_main .carousel-caption p{
+        color: #fff;
+    }
+    body{
     background-color: #f7f8fa;
 }
 .mynav-logo{
