@@ -127,7 +127,7 @@
                     <P>
                         The system generates a report of materials generated against materials issued for both individual schemes and overall project.
                         When completing the project, you’ll require to identify what materials you’ll need to procure so that at the end of the project
-                         you’ll not have unutilized materials
+                        you’ll not have unutilized materials
                     </P>
                 </div>
             </div>
@@ -141,9 +141,8 @@
                         Gantt Chart
                     </h2>
                     <p>
-                        A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
-                        r production completed in a certain period of time in relation to the amount planned for
-                        those periods.
+                        A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done, 
+                        output completed in a certain period of time in relation to the amount planned for those periods.
                         Emeran systems we care about you completing the project on time.
                         The system generates an editable Gantt chart with the amount of work to be done on a
                         scheme and the construction engineer is required to set the period proposed to be taken to

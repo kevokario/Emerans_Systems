@@ -7,9 +7,9 @@
             <div id="emeran">
                 <p class='text-white'>
                     Emeran systems is a kenyan registered company operating in the Engineering and Technology field. The company focus on
-                    i) Power distribution. i.e distribution networks, Electrification, low voltage and medium voltage design & Constrution.
+                    Power distribution. i.e distribution networks, Electrification, low voltage and medium voltage design & Constrution.
 
-                    Weve qualified surveyor, Designers, electrical linesmen, electricians, with extensive experience in line design, survey, management and construction.
+                    <br>Weve qualified surveyor, Designers, electrical linesmen, electricians, with extensive experience in line design, survey, management and construction.
                 </p>
             </div>
             <div>
