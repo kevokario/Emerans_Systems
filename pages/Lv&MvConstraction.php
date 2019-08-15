@@ -3,18 +3,17 @@
         <div class="col-sm-12">
             <h2> Lv/Mv Construction</h2>
             <p class="emphase-introduction">
-                Emeran construction engineers are trained and certified in power line construction,
-                this entails interpretation of design maps, pegging, material requisition,
-                ERP system operation, construction, metering, communication, planning,
+                Emeran is proud to have experienced engineers passionate on their work, well trained and experienced in power line construction,
+                which entails interpretation of design maps, pegging, material requisition,
+                ERP system i.e contractors module operation, metering, planning,
                 Gantt chart interpretation, work schedules among others.
-                We always observe standards in every construction task.
+                <br>We’ve also exposed them to supervision standards as required by the main clients, hence they understand the do’s and the don’ts in the electrification projects.
             </p>
         </div>
     </div>
 </div>
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
-
         <a href="pegging.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/pbanner.jpg" alt="training" class="service-img" />
             <div class="service-title">
@@ -34,7 +33,6 @@
                 </div>
             </div>
         </a>
-
         <a href="material-requisition.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/store.jpg" alt="store" class="service-img" />
             <div class="service-title">
@@ -53,10 +51,8 @@
                 </div>
             </div>
         </a>
-
     </div>
     <div class="row px-auto  justify-content-center">
-
         <!--        <a href="Metering.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
             <div class="service-title">
@@ -95,7 +91,6 @@
                 </div>
             </div>
         </a>
-
     </div>
 </div>
 <div class="container-fluid generic-container container-contact">

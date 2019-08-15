@@ -4,16 +4,16 @@
             <h2> Electrification ERP systems</h2>
             <p class="emphase-introduction">
                 The electrification system comprises of several modules that helps run electrification project from design & budgeting,
-                 store management, construction reports & progress to As-built, material reconciliation
-                 On the design the system generates the total materials required to completely construct a scheme.
-                 On the store module the system is able to detect the materials already in store
-                 and flag if materials are running low. it issues materials and generates a delivery note as per the exported materials 
-                 as designed/pegged On Construction it indicates the construction progress of every scheme
-                  as allocated to different construction teams or subcontractors generating a Gantt chart. On Reports, 
-                  the system generates reports as per scheme and also the overall progress of the project. 
-                  On material reconciliation the system captures all materials used in site, 
-                  and does a comparison with the materials issued for that specific site. and gives the difference. 
-                  among many other functions in the system.
+                store management, construction reports & progress to As-built, material reconciliation
+                <br>On the design the system generates the total materials required to completely construct a scheme.
+                <br>On the store module the system is able to detect the materials already in store
+                and flag if materials are running low. it issues materials and generates a delivery note as per the exported materials
+                as designed/pegged On Construction it indicates the construction progress of every scheme
+                as allocated to different construction teams or subcontractors generating a Gantt chart.
+                <br>On Reports, the system generates reports as per scheme and also the overall progress of the project.
+                <br>On material reconciliation the system captures all materials used in site,
+                and does a comparison with the materials issued for that specific site. and gives the difference.
+                among many other functions in the system.
             </p>
         </div>
     </div>
@@ -108,9 +108,8 @@
                     <h3>Gantt Chart</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
-                        r production completed in a certain period of time in relation to the amount planned for
-                        those periods.</p>
+                    <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done, 
+                        output completed in a certain period of time in relation to the amount planned for those periods.</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -140,7 +139,7 @@
 <div class="container-fluid generic-container container-contact">
     <div class="row fancy-background">
         <div class="col-sm-8">
-            <h2>LEARN MORE ABOUT HOW OUR<br> ELECTRIFICATION ERP SYSTEMS WORK</h2>
+            <h2>LEARN HOW <br> ELECTRIFICATION ERP WORKS</h2>
             <p>Emeran system can train your team on the ERP system.</p>
         </div>
         <div class="col-sm-4">

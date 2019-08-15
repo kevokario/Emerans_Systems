@@ -28,7 +28,7 @@
                             <i class="fa fa-user-o"></i>
                         </span>
                     </div>
-                    <input type="text" class="form-control " placeholder="Your Full Names..."/>
+                    <input type="text" class="form-control " placeholder="Your Full Names..." />
                 </div>
                 <small class="text-danger"></small>
             </div>
@@ -41,18 +41,18 @@
                             <i class="fa fa-user-o"></i>
                         </span>
                     </div>
-                    <input type="text" class="form-control " placeholder="Your Company Name..."/>
+                    <input type="text" class="form-control " placeholder="Your Company Name..." />
                 </div>
                 <small class="text-danger"></small>
             </div>
 
             <div class="form-group">
-                <label>Select Country  *</label>
+                <label>Select Country *</label>
                 <div class="input-group ">
                     <div class="input-group-prepend">
                         <span class="input-group-text">
                             <i class="fa fa-flag-o custom-flag-holder" style="display:inline"></i>
-                            <img class="custom-svg" style="display: none" >
+                            <img class="custom-svg" style="display: none">
                         </span>
                     </div>
                     <select id="countryid" class="form-control">
@@ -70,7 +70,7 @@
                             <i class="fa fa-phone"></i>
                         </span>
                     </div>
-                    <input id="phone_number" type="text" class="form-control " placeholder="Your Phone number..."/>
+                    <input id="phone_number" type="text" class="form-control " placeholder="Your Phone number..." />
                 </div>
                 <small class="text-danger"></small>
             </div>
@@ -82,13 +82,13 @@
                             <i class="fa fa-envelope-o"></i>
                         </span>
                     </div>
-                    <input type="email" class="form-control " placeholder="Your Email Address..."/>
+                    <input type="email" class="form-control " placeholder="Your Email Address..." />
                 </div>
                 <small class="text-danger"></small>
             </div>
 
             <div class="form-group">
-                <label>Application  *</label>
+                <label>Application *</label>
                 <div class="input-group ">
                     <div class="input-group-prepend">
                         <span class="input-group-text">
@@ -96,6 +96,8 @@
                         </span>
                     </div>
                     <select class="form-control">
+                        <option>-Select-</option>
+                        <option>-Select-</option>
                         <option>-Select-</option>
                     </select>
                 </div>
@@ -126,8 +128,8 @@
             <div class="form-group mt-3 form-check">
                 <label class="form-check-label">
                     <input type="checkbox" name="" value="" class="form-check-input">
-                    Subscribe to the Creaform newsletter and stay up to date on our technological
-                    innovations and our applications in 3D engineering!
+                    Subscribe to the Emeran newsletter and stay up to date on our technological
+                    innovations and our updates on ERP!
                 </label>
             </div>
         </div>
