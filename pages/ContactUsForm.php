@@ -12,7 +12,7 @@
     </div>
 
     <!--Here we place the form-->
-    <form class="row">
+    <form class="row" id="contact-form" method="POST">
         <div class="col-sm-6">
             <h4 class="custom-heading mb-2" style="font-size: 20px; text-transform: capitalize">
                 Enter Your Contact Info
@@ -97,8 +97,10 @@
                     </div>
                     <select class="form-control">
                         <option>-Select-</option>
-                        <option>-Select-</option>
-                        <option>-Select-</option>
+                        <option>Project Management</option>
+                        <option>ERP System</option>
+                        <option>Design and Survey</option>
+                        <option>Others</option>
                     </select>
                 </div>
                 <small class="text-danger"></small>
@@ -136,8 +138,8 @@
 
         <div class="col-sm-12">
             <!--Button Section-->
-            <button type="button" class="btn fancy-button">
-                Send Request
+            <button type="submit" class="btn fancy-button">
+                Send Request <i></i>
             </button>
         </div>
     </form>

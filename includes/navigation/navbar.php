@@ -1,4 +1,4 @@
-<div class="d-flex">
+<!--<div class="d-flex">
     <div class="ml-auto p-2">
         <button>Sign in</button> <button>Sign up</button>
     </div>
@@ -7,7 +7,7 @@
     <div class="ml-auto p-2">
         <button>Sign in</button> <button>Sign up</button>
     </div>
-</div>
+</div>-->
 <nav class="mynav navbar-light">
     <a class="mynav-brand" href="./"><img src="img/logo.png" alt="Emerans" class="mynav-logo"></a>
     <ul class="mynav-links">
