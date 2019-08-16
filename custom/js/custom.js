@@ -236,7 +236,7 @@ $(document).ready(function () {
         } else {
             if (!country.indexOf(' ') == -1) {
                 country = country.substring(0, country.indexOf(' '));
-                alert('else : ' + country);
+//                alert('else : ' + country);
             }
             $.get('https://restcountries.eu/rest/v2/name/' + country + '',
                     function (data, status) {
@@ -306,12 +306,22 @@ function contact_submit() {
     var phone = $('#contact-form .form-group:eq(3) .input-group input');
     var email = $('#contact-form .form-group:eq(4) .input-group input');
     var application = $('#contact-form .form-group:eq(5) .input-group select');
+    var description = $('#contact-form .form-group:eq(6) .input-group textarea').val();
+    var radio = document.getElementById('subscribe_option').checked;
     var name_stat = name_Validator(name);
     var company_stat = company_Validator(company);
     var country_stat = country_Validator(country);
     var phone_stat = phone_Validator(phone);
     var email_stat = email_Validator(email);
     var application_stat = application_Validator(application);
+
+    //successfull validation
+    if (name_stat === true && company_stat === true && country_stat === true &&
+            phone_stat === true && email_stat === true && application_stat === true) {
+//        $.post('Some Place'{
+//            data : JSON.stringify(new Array(name.value,company.value,country.value,phone.value,email.value,application.value,description.value,radio));
+//        })
+    }
 }
 
 function name_Validator(data) {
@@ -381,12 +391,22 @@ function phone_Validator(data) {
         data_small.text('Please Select Your Country first');
         data_input.removeClass('is-valid').addClass('is-invalid');
     } else {
-        var validator_params = validator.substring(validator.indexOf('(') + 1, validator.indexOf(')'));
+        var validator_params = '';
+        var validator_params_1 = '';
+        if (validator === '() ...') {
+            validator_params = '0';
+            alert(validator);
+        } else if (validator.indexOf(',') === -1) {
+            validator_params = validator.substring(validator.indexOf('(') + 1, validator.indexOf(')'));
+        } else {
+            validator_params = validator.substring(validator.indexOf('(') + 1, validator.indexOf(','));
+        }
+//        alert(validator_params+'\n:'+validator_params);
         if (data_value.length === 0) {
             data_small.text('Please provide phone number');
             data_input.removeClass('is-valid').addClass('is-invalid');
         } else if (/[^0-9+]/.test(data_value)) {
-            data_small.text('Please provide phone number');
+            data_small.text('Please provide phone number : only use the following 0-9,+');
             data_input.removeClass('is-valid').addClass('is-invalid');
         } else if ((data_value.substring(0, validator_params.length + 1)) !== ('+' + validator_params)) {
             data_small.text('Please start your phone number with : +' + validator_params);

@@ -129,7 +129,7 @@
             </div>
             <div class="form-group mt-3 form-check">
                 <label class="form-check-label">
-                    <input type="checkbox" name="" value="" class="form-check-input">
+                    <input type="checkbox" id="subscribe_option" name="" value="" class="form-check-input">
                     Subscribe to the Emeran newsletter and stay up to date on our technological
                     innovations and our updates on ERP!
                 </label>

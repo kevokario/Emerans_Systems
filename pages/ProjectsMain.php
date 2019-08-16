@@ -7,10 +7,65 @@
         </div>
     </div>
 </div>
+
+<section class="project_design_survey generic-container-alt">
+    <div class="container-fuid">
+        <div class="row">
+            <div class="col-sm-6 generic-custom-img">
+                
+            </div>
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Design and Survey</h2>
+                <p></p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="project_electrification_management_systems generic-container">
+    <div class="container-fuid">
+        <div class="row">
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Electrification Management Systems</h2>
+                <p></p>
+            </div>
+            <div class="col-sm-6 generic-custom-img">
+                
+            </div>
+           
+        </div>
+    </div>
+</section>
+<section class="project_training generic-container-alt">
+    <div class="container-fuid ">
+        <div class="row">
+            <div class="col-sm-6 generic-custom-img">
+                
+            </div>
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Training</h2>
+                <p></p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="project_consultants generic-container">
+    <div class="container-fuid">
+        <div class="row">
+            
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Consultants</h2>
+                <p></p>
+            </div>
+            <div class="col-sm-6 generic-custom-img">
+                
+            </div>
+        </div>
+    </div>
+</section>
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+<!--        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/1.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Survey</h3>
@@ -29,6 +84,7 @@
                 </div>
             </div>
         </a>
+
         <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/Training.jpg" alt="training" class="service-img"/>
             <div class="service-title">
@@ -87,7 +143,7 @@
                    Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
-        </a>
+        </a>-->
     </div>
     <div class="row px-auto  justify-content-center">
 

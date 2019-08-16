@@ -326,6 +326,18 @@ section.field_database .generic-custom-img{
 
 }
 
+section.project_design_survey .generic-custom-img{
+    background-image: url('../../img/field-database.jpg');
+}
+section.project_electrification_management_systems .generic-custom-img{
+    background-image: url('../../img/Emeran_open_page.png');
+}
+section.project_training .generic-custom-img{
+    background-image: url('../../img/Emeran_open_page.png');
+}
+section.project_consultants .generic-custom-img{
+    background-image: url('../../img/Training.jpg');
+}
 /*fORM cSS*/
 form .form-group{
     margin-bottom: 2px;
