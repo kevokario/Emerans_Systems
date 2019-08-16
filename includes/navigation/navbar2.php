@@ -74,17 +74,17 @@
         </li>
         <li>
             <a href="../../projects/" id="linksC" class="mynav-link">
-                Projects
-                <i class="mynav-caret pull-right  fa fa-caret-down"></i>
+                  Projects
+                <i class=" pull-right"></i>
             </a>
-            <div class="menu-options custom-menu-option text-dark">
+<!--            <div class="menu-options custom-menu-option text-dark">
                 <div class="menu-option-body">
                     <a>Design</a>
                     <a>Electrification ERP Systems</a>
                     <a>Training</a>
                     <a>Consultance</a>
                 </div>
-            </div>
+            </div>-->
         </li>
         <li>
             <a href="../../blog/" id="linksD" class="mynav-link">
