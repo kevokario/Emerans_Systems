@@ -35,13 +35,7 @@
         </div>
     </section>
     <div class="container-fluid generic-container container-contact">
-        <div class="row">
-            <div class="col-sm-12">
-                <h2>
-                    CONTACT US
-                </h2>
-            </div>
-        </div>
+        
         <div class="row fancy-background">
             <div class="col-sm-8">
                 <h4>GOT AN ELECTRIFICATION PROJECT?</h4>
