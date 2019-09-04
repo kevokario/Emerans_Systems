@@ -1,11 +1,10 @@
 <div class="container-fluid generic-container-alt" id="electrification">
     <div class="row">
         <div class="col-sm-4 lead-div">
-            <h2>ELECTRIFICATION SYSTEMS</h2>
+            <h2>ELECTRIFICATION ERP SYSTEM</h2>
             <div class="details">
-                <p>Our systems accept excel data input<br> i.e schemes allocated,<br> indicating on the map exact location of the schemes.
-                    <br> This helps in planning
-                    logistics of material transportation to the site,<br> the route to use.....</p>
+                <p>Electrification ERP system allows total access <br> to each an every process in your project <br> by making data from every department easily accessible on the ERP.
+                    <br> This helps you to concentrate on implementation with an over<br> view of every other department. Project progress reporting is improved and saves you from...</p>
                 <p>
                     <a href="electrification-systems/" class="my-class mx-auto">
                         View ERP Systems +
@@ -19,7 +18,7 @@
                     <a href="electrification-systems/info/#budgeting" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Training.jpg" alt="training" class="swiper-img"/>
+                                <img src="img/design&budgeting.jpg" alt="training" class="swiper-img" />
                             </div>
                             <h4 class="swiper-title">
                                 Design
@@ -29,7 +28,7 @@
                     <a href="electrification-systems/info/#StoreManagement" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Emeran_open_page.png" alt="training" class="swiper-img"/>
+                                <img src="img/store_management.jpg" alt="training" class="swiper-img" />
                             </div>
                             <h4 class="swiper-title">
                                 Store Management
@@ -39,7 +38,7 @@
                     <a href="electrification-systems/info/#WorkProgress" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/cumulative_work_progress.png" alt="training" class="swiper-img"/>
+                                <img src="img/cumulative_work_progress.png" alt="training" class="swiper-img" />
                             </div>
                             <h4 class="swiper-title">
                                 Work Progress
@@ -49,17 +48,17 @@
                     <a href="electrification-systems/info/#Reporting" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/pbanner.jpg" alt="training" class="swiper-img"/>
+                                <img src="img/report.png" alt="training" class="swiper-img" />
                             </div>
                             <h4 class="swiper-title">
-                               Reporting
+                                Reporting
                             </h4>
                         </div>
                     </a>
                     <a href="electrification-systems/info/#GanttChart" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/Gantt_chart.png" alt="training" class="swiper-img"/>
+                                <img src="img/ganttcharttt.png" alt="training" class="swiper-img" />
                             </div>
                             <h4 class="swiper-title">
                                 Gantt Chart
@@ -69,7 +68,7 @@
                     <a href="electrification-systems/info/#MaterialReconciliation" class="swiper-slide">
                         <div class="swiper-details">
                             <div class="swiper-img">
-                                <img src="img/photo_2017-10-20_12-52-49.jpg" alt="training" class="swiper-img"/>
+                                <img src="img/Material_reconciliation.png" alt="training" class="swiper-img" />
                             </div>
                             <h4 class="swiper-title">
                                 Material Reconciliation
@@ -77,7 +76,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="swiper-pagination"></div> 
+                <div class="swiper-pagination"></div>
             </div>
         </div>
     </div>

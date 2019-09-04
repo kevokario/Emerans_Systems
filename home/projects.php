@@ -1,12 +1,12 @@
 <div class="container-fluid generic-container-alt mb-5">
     <div class="row">
         <div class="col-sm-12">
-            <h2 class="custom-heading">PROJECTS</h2>
+            <h2 class="custom-heading">PROJECTS/CLIENTELE</h2>
         </div>
     </div>
     <div class="row">
         <div class="col-sm-7">
-            <p>Emeran systems has been involved in several projects in Kenya since 2015. 
+            <p>Emeran systems has been involved in several projects in Kenya since 2015.
                 From individual utility companies, contractors small scale to large scale companies.
             </p>
         </div>
@@ -20,10 +20,10 @@
         <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
-                    <img src="img/pb1.jpg" class="card-img" alt="" />
+                    <img src="img/pklpcee.png" class="card-img" alt="" />
                 </div>
                 <div class="card-body">
-                    <p>Design and salary</p>
+                    <p>Kenya Power - Individual Designs</p>
                     <p class="custom-card-link">LEARN MORE
                         <span href="#" class="fa fa-long-arrow-right fa-lg"></span>
                     </p>
@@ -33,10 +33,10 @@
         <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
-                    <img src="img/pbanner.jpg" class="card-img" alt="" />
+                    <img src="img/burhani23.png" class="card-img" alt="" />
                 </div>
                 <div class="card-body">
-                    <p>Electrification management systems</p>
+                    <p>Burhani Engineers - Design & Survey LastMile Project Phase 2</p>
                     <p class="custom-card-link">LEARN MORE
                         <span href="#" class="fa fa-long-arrow-right fa-lg"></span>
                     </p>
@@ -46,10 +46,11 @@
         <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
-                    <img src="img/photo_2017-10-20_12-52-49.jpg" class="card-img" alt="" />
+                    <img src="img/globalcpf.jpg" class="card-img" alt="" />
                 </div>
                 <div class="card-body">
-                    <p>Training</p>
+                    <p>CPF/Global Access JV - Design & Survey LastMile Phase 2</p>
+                    <p>ERP System LASTMILE PHASE II - LOT 15 </p>
                     <p class="custom-card-link">LEARN MORE
                         <span href="#" class="fa fa-long-arrow-right fa-lg"></span>
                     </p>
@@ -59,15 +60,17 @@
         <a class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-xm-12 custom-link" href="projects/">
             <div class="card">
                 <div class="card-title">
-                    <img src="img/photo_2017-10-20_12-52-49.jpg" class="card-img" alt="" />
+                    <img src="img/meruwood.png" class="card-img" alt="" />
                 </div>
                 <div class="card-body">
-                    <p>Electrification management systems phase II</p>
+                    <p>Meru Wood Supreme  - Design & Survey LastMile Phase 2</p>
+                    <p>ERP System LASTMILE PHASE II - LOT 11 </p>
                     <p class="custom-card-link">LEARN MORE
                         <span href="#" class="fa fa-long-arrow-right fa-lg"></span>
                     </p>
                 </div>
             </div>
         </a>
+
     </div>
 </div>
