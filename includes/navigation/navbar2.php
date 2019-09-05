@@ -46,12 +46,12 @@
                         Staffing and Training
                     </a>
                     <div class="menu-option-body">
-                        <a href="../../expertise/staffing-and-training/autocard.php">Auto Card</a>
+                        <a href="../../expertise/staffing-and-training/autocard.php">Draftsmen</a>
                         <a href="../../expertise/staffing-and-training/back-office.php">Back Office</a>
-                        <a href="../../expertise/staffing-and-training/construction-teams.php">Construction Teams</a>
-                        <a href="../../expertise/staffing-and-training/staffing-and-training.php">staffing-and-training</a>
+                        <a href="../../expertise/staffing-and-training/construction-teams.php">Construction Supervisors</a>
+                        <!-- <a href="../../expertise/staffing-and-training/staffing-and-training.php">staffing-and-training</a>
                         <a href="../../expertise/staffing-and-training/supervisors.php">Supervisors</a>
-                        <a href="../../expertise/staffing-and-training/surveyors-and-designers.php">Surveyors and Designers</a>
+                        <a href="../../expertise/staffing-and-training/surveyors-and-designers.php">Surveyors and Designers</a> -->
                     </div>
                 </div>
             </div>
@@ -74,10 +74,10 @@
         </li>
         <li>
             <a href="../../projects/" id="linksC" class="mynav-link">
-                  Projects
+                Projects
                 <i class=" pull-right"></i>
             </a>
-<!--            <div class="menu-options custom-menu-option text-dark">
+            <!--            <div class="menu-options custom-menu-option text-dark">
                 <div class="menu-option-body">
                     <a>Design</a>
                     <a>Electrification ERP Systems</a>

@@ -3,9 +3,9 @@
         <div class="col-sm-12">
             <h2>Our Services</h2>
             <p>Our qualified team of experts in power distribution can be brought in at any stage of your project planning
-                and implementation. <br>Thanks to our experts, advanced systems and tools we’ve integrated.
-                we deliver our professional services on:<br>
-                <table style="width:100%">
+                and implementation. Thanks to our experts, advanced systems and tools we’ve integrated.
+                we deliver our professional services on:
+                <!-- <table style="width:100%">
                     <tr>
                         <th>Survey & Design</th>
                         <th>Construction</th>
@@ -39,7 +39,7 @@
                         <td>Metering</td>
                         <td>Material reconciliation</td>
                     </tr>
-                </table>
+                </table> -->
 
             </p>
         </div>
@@ -49,7 +49,7 @@
     <div class="row px-auto justify-content-center">
         <div class="col-sm-1"></div>
         <a href="design-and-survey/" class="service-container  col-lg-4 col-md-6 col-sm-6 col-xm-12">
-            <img src="../img/Training.jpg" alt="training" class="service-img" />
+            <img src="../img/design&budgeting.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Design and Survey</h3>
             </div>
@@ -67,7 +67,7 @@
             </div>
         </a>
         <a href="lv-and-mv-construction/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/Training.jpg" alt="training" class="service-img" />
+            <img src="../img/construction.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Lv & Mv Construction</h3>
             </div>
@@ -76,8 +76,8 @@
                     <h3>Lv & Mv Construction</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>Our data applications are user friendly making it easy to learn and easier for construction's
-                        teams to...</p>
+                    <p>Emeran construction engineers are trained and certified in power line construction,
+                        this entails interpretation of design maps, pegging, material requisition, ERP system operation...</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -87,7 +87,7 @@
         <div class="col-sm-1"></div>
         <div class="col-sm-1"></div>
         <a href="project-management/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/Emeran_open_page.png" alt="training" class="service-img" />
+            <img src="../img/12.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Project Management</h3>
             </div>
@@ -97,8 +97,8 @@
                 </div>
                 <div class="service-cover-text">
                     <p>
-                        Electrification is pur heart beat. whether you're an individual power utility company or a contractor,
-                        large scale or small scale, count on us
+                        Electrification is our heart beat. whether you're an individual power utility company or a contractor,
+                        large scale or small scale, count on us to...
                     </p>
                 </div>
                 <div class="service-cover-link">
@@ -107,7 +107,7 @@
             </div>
         </a>
         <a href="staffing-and-training/" class="service-container  col-lg-4 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/Emeran_open_page.png" alt="training" class="service-img" />
+            <img src="../img/training24.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Staffing & Training</h3>
             </div>
@@ -116,8 +116,9 @@
                     <h3>Staffing & Training</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>Emeran has an extensiv and multidisplinary team of electrical engineers and technitians
-                        who can be outcasted for quick short-term work or complex long-term projects.</p>
+                    <p>Emeran engineers are trained and certified in power line construction, 
+                        We expose them to variety of projects in different areas and also involve them in brainstroming sessions...
+                    </p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -158,7 +159,7 @@
 <div class="container-fluid generic-container container-contact">
     <div class="row fancy-background">
         <div class="col-sm-8">
-            <h2>LAERN MORE ABOUT HOW OUR SYSTEMS WORK</h2>
+            <h2>LEARN MORE ABOUT HOW OUR SYSTEMS WORK</h2>
             <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
         </div>
         <div class="col-sm-4">

@@ -39,12 +39,12 @@
         
         <div class="row fancy-background">
             <div class="col-sm-8">
-                <h4>GOT AN ELECTRIFICATION PROJECT?</h4>
-                <p>Our design team can provide AUTOCAD services to you.</p>
+                <h4>JOIN AUTOCAD TRAINING TODAY! </h4>
+                <p>Join our trainees today specializing on AutoCAD draftsmen...</p>
             </div>
             <div class="col-sm-4">
                 <a href="../../contact-us.php" class="btn fancy-button">
-                    <h4>HIRE AN AUTOCAD DESIGNER NOW!</h4>
+                    <h4>JOIN US TODAY!</h4>
                 </a>
             </div>
         </div>

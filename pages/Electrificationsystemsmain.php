@@ -22,7 +22,7 @@
     <div class="row px-auto  justify-content-center">
 
         <a href="info/#budgeting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/1.jpg" alt="training" class="service-img" />
+            <img src="../img/costing.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Design and Budgeting</h3>
             </div>
@@ -77,9 +77,8 @@
         </a>
     </div>
     <div class="row px-auto  justify-content-center">
-
         <a href="info/#Reporting" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/reporting.jpg" alt="training" class="service-img" />
+            <img src="../img/report.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Reporting</h3>
             </div>
@@ -97,7 +96,6 @@
                 </div>
             </div>
         </a>
-
         <a href="info/#GanttChart" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/gant-chart.png" alt="training" class="service-img" />
             <div class="service-title">
@@ -108,7 +106,7 @@
                     <h3>Gantt Chart</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done, 
+                    <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
                         output completed in a certain period of time in relation to the amount planned for those periods.</p>
                 </div>
                 <div class="service-cover-link">
@@ -117,7 +115,7 @@
             </div>
         </a>
         <a href="info/#MaterialReconciliation" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../img/photo_2017-10-20_12-52-49.jpg" alt="training" class="service-img" />
+            <img src="../img/Material_reconciliation.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Material Reconciliation</h3>
             </div>

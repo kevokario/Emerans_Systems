@@ -1,65 +1,97 @@
 <div class="container-fluid generic-container custom-option-header">
     <div class="row">
         <div class="col-sm-12">
-            <h2> Projects Section</h2>
-            <p class="custom-paragraph">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2> PROJECTS/CLIENTELE</h2>
+            <p class="custom-paragraph">Emeran systems has been involved in several projects in Kenya since 2015.
+                From individual utility companies, contractors small scale to large scale companies.</p>
         </div>
     </div>
 </div>
 
-<section class="project_design_survey generic-container-alt">
+<section class="project_kenyapower generic-container-alt">
     <div class="container-fuid">
         <div class="row">
             <div class="col-sm-6 generic-custom-img">
-                
-            </div>
-            <div class="col-sm-6 generic-custom-description">
-                <h2>Design and Survey</h2>
-                <p class="custom-paragraph">Our surveyors are trained to collect the data required on field for electrification projects, they’re trained on customer relations to ensure effective cooperation with the people involved during the project implementation. This has been a great advantage to our effectiveness in implementing our projects and activities assigned on site.
 
-With software like MapIt, Global Mapper, AutoCAD we’re able to design and deliver quality drawings ready to be submitted for implementation.</p>
+            </div>
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Kenya Power</h2>
+                <p class="custom-paragraph">individual design contracts.
             </div>
         </div>
     </div>
 </section>
-<section class="project_electrification_management_systems generic-container">
+<section class="project_etrade generic-container">
     <div class="container-fuid">
         <div class="row">
             <div class="col-sm-6 generic-custom-description">
-                <h2>Electrification Management Systems</h2>
-                <p></p>
+                <h2>ETRADE-Lodgers Enterprise</h2>
+                <p>Last-mile connectivity project phase 1
+                    Design services, survey, pegging, supervision, back office team, as-built,
+
+                </p>
             </div>
             <div class="col-sm-6 generic-custom-img">
-                
+
             </div>
-           
+
         </div>
     </div>
 </section>
-<section class="project_training generic-container-alt">
+<section class="project_gateway generic-container-alt">
     <div class="container-fuid ">
         <div class="row">
             <div class="col-sm-6 generic-custom-img">
-                
+
             </div>
             <div class="col-sm-6 generic-custom-description">
-                <h2>Training</h2>
+                <h2>Gateway Green Energy </h2>
                 <p></p>
             </div>
         </div>
     </div>
 </section>
-<section class="project_consultants generic-container">
+<section class="project_cpf generic-container">
     <div class="container-fuid">
         <div class="row">
-            
+
             <div class="col-sm-6 generic-custom-description">
-                <h2>Consultants</h2>
+                <h2>Global Access/CPF JV </h2>
                 <p></p>
             </div>
             <div class="col-sm-6 generic-custom-img">
-                
+
+            </div>
+        </div>
+    </div>
+</section>
+<section class="project_meruwood generic-container-alt">
+    <div class="container-fuid ">
+        <div class="row">
+            <div class="col-sm-6 generic-custom-img">
+
+            </div>
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Meru wood Supreme </h2>
+                <p>
+                    Last mile connectivity project Phase 2
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="project_burhani generic-container">
+    <div class="container-fuid">
+        <div class="row">
+
+            <div class="col-sm-6 generic-custom-description">
+                <h2>Burhani Engineers </h2>
+                <p>
+                    Phase 2 Survey, Design
+                </p>
+            </div>
+            <div class="col-sm-6 generic-custom-img">
+
             </div>
         </div>
     </div>
@@ -67,7 +99,7 @@ With software like MapIt, Global Mapper, AutoCAD we’re able to design and deli
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
 
-<!--        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <!--        <a href="#" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="../img/1.jpg" alt="training" class="service-img"/>
             <div class="service-title">
                 <h3>Design and Survey</h3>
@@ -152,7 +184,7 @@ With software like MapIt, Global Mapper, AutoCAD we’re able to design and deli
     </div>
 </div>
 <style>
-    .service-container:nth-child(4){
+    .service-container:nth-child(4) {
         display: block;
     }
 </style>

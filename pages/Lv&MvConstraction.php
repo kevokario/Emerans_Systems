@@ -15,7 +15,7 @@
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
         <a href="pegging.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/pbanner.jpg" alt="training" class="service-img" />
+            <img src="../../img/peg2.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Pegging</h3>
             </div>
@@ -24,9 +24,8 @@
                     <h3>Pegging</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>A Gantt chart is a chart in which a series of horizontal lines shows the amount of work done,
-                        r production completed in a certain period of time in relation to the amount planned for
-                        those periods.</p>
+                    <p>Our data applications are user friendly and easy to learn making it easier for construction
+                        teams to easily use them during pegging. (Pegging is marking the exact...</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -43,8 +42,8 @@
                     <h3>Material Requisition</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>In the store module which has user permissions to store manager and procurement officers.
-                        The system indicates the inventory level for all the materials i.e low, critically low, high, etc.</p>
+                    <p>Determining the materials required to construct a scheme/project completely can be tedious and erroneous,
+                        the ERP system comes in hand by using the data...</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -53,28 +52,8 @@
         </a>
     </div>
     <div class="row px-auto  justify-content-center">
-        <!--        <a href="Metering.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
-            <div class="service-title">
-                <h3>Metering</h3>
-            </div>
-            <div class="service-cover">
-                <div class="service-cover-title">
-                    <h3>Metering</h3>
-                </div>
-                <div class="service-cover-text">
-                    <p>In reporting the system captures both the individual and overall project progress, it has a
-                        chart indicating the overall progress accumulative work completed, and accumulative work
-                        in progress.</p>
-                </div>
-                <div class="service-cover-link">
-                    Learn more <i class="fa fa-long-arrow-right"></i>
-                </div>
-            </div>
-        </a>-->
-
         <a href="construction-standards.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/1.jpg" alt="Autocard Design" class="service-img" />
+            <img src="../../img/standards.jpg" alt="Autocard Design" class="service-img" />
             <div class="service-title">
                 <h3>Construction Standards</h3>
             </div>
@@ -106,3 +85,22 @@
         </div>
     </div>
 </div>
+<!--        <a href="Metering.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+            <img src="../../img/training3.jpeg.jpg" alt="training" class="service-img"/>
+            <div class="service-title">
+                <h3>Metering</h3>
+            </div>
+            <div class="service-cover">
+                <div class="service-cover-title">
+                    <h3>Metering</h3>
+                </div>
+                <div class="service-cover-text">
+                    <p>In reporting the system captures both the individual and overall project progress, it has a
+                        chart indicating the overall progress accumulative work completed, and accumulative work
+                        in progress.</p>
+                </div>
+                <div class="service-cover-link">
+                    Learn more <i class="fa fa-long-arrow-right"></i>
+                </div>
+            </div>
+        </a>-->

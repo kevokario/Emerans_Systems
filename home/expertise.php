@@ -66,7 +66,7 @@
                 </div>
             </div>
         </a>
-        <a href="../expertise/staffing-and-training/" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
+        <!-- <a href="../expertise/staffing-and-training/" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
             <img src="img/Emeran_open_page.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Staffing & Training</h3>
@@ -83,6 +83,6 @@
                     Learn more <i class="fa fa-long-arrow-right"></i>
                 </div>
             </div>
-        </a>
+        </a> -->
     </div>
 </div>

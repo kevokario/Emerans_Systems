@@ -3,30 +3,36 @@
         <div class="col-sm-12">
             <h2> Staffing and training</h2>
             <p class="emphase-introduction">
-                Creaform’s product development and industrial design services give you the professionals, 
-                technology and expertise you need to create innovative product designs that provide
-                the right quality to the 
-                right market—all while mitigating unnecessary costs and risks.
-            </p>
+                At Emeran Systems we believe in passing knowledge to the junior trainees, exposing them to hands-on work,
+                Our engagement in wide range of electrification project enables us to offer the teams a chance of training
+                and equipping in various projects.
+                Through our internship programs and brainstorming sessions were able to identify,
+                mentor and equip identified candidates for effective service.
+                The ERP system widely assist the trainees to have a clear over view of a project.
+                <p />
+                <p> We retain all our trained staffs who are engaged in our projects on contract bases.
+                    in short term and long-term activities to our clients. We have different areas of specialization
+                    that are key in our projects, where we engage team work among the trainees for effective delivery.
+                    As a consulting firm we also refer the trainees to our clients for either short term or
+                    long term engagement according to the area of specialization.
+                    <p />
+                </p>
         </div>
     </div>
 </div>
 <div class="cotainer-fluid generic-container">
     <div class="row px-auto  justify-content-center">
-
-
         <a href="autocard.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/store.jpg" alt="store" class="service-img"/>
+            <img src="../../img/design&budgeting_1.jpg" alt="store" class="service-img" />
             <div class="service-title">
-                <h3>Auto Card</h3>
+                <h3>AutoCAD</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3> Auto Card</h3>
+                    <h3> AutoCAD</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>In the store module which has user permissions to store manager and procurement officers.
-                        The system indicates the inventory level for all the materials i.e low, critically low, high, etc.</p>
+                    <p>Emeran Designers comprises of trained and certified Draftsmen, who are qualified and experienced in power line designs...</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -34,17 +40,17 @@
             </div>
         </a>
         <a href="back-office.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
+            <img src="../../img/bcko.png" alt="training" class="service-img" />
             <div class="service-title">
-                <h3>Back Office Systems</h3>
+                <h3>Back_Office</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Back Office Systems</h3>
+                    <h3>Back_Office</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>After the allocation of the scheme to a subcontractor or construction teams, the system
-                        gives a platform for them to update their work progress,</p>
+                    <p>From previous projects undertaken, we’ve experienced and continue to train back office
+                        teams to act as support for the field supervisors and projects execution..</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -52,17 +58,17 @@
             </div>
         </a>
         <a href="construction-teams.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/cumulative_work_progress.png" alt="training" class="service-img"/>
+            <img src="../../img/supp.jpg" alt="training" class="service-img" />
             <div class="service-title">
-                <h3>Construction Teams</h3>
+                <h3>Construction Supervisors</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
-                    <h3>Construction Teams</h3>
+                    <h3>Construction Supervisors</h3>
                 </div>
                 <div class="service-cover-text">
-                    <p>After the allocation of the scheme to a subcontractor or construction teams, the system
-                        gives a platform for them to update their work progress,</p>
+                    <p>Emeran Engineers believe in passing over the skills and knowledge to the junior trainees, 
+                        on projects, standards, customer relation, project implementation, team work...</p>
                 </div>
                 <div class="service-cover-link">
                     Learn more <i class="fa fa-long-arrow-right"></i>
@@ -70,10 +76,10 @@
             </div>
         </a>
     </div>
-    <div class="row px-auto  justify-content-center">
+    <!-- <div class="row px-auto  justify-content-center">
 
         <a href="staffing-and-training.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/Training.jpg" alt="training" class="service-img"/>
+            <img src="../../img/Training.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Staffing and Training</h3>
             </div>
@@ -92,9 +98,9 @@
             </div>
         </a>
         <a href="supervisors.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/pb1.jpg" alt="training" class="service-img"/>
+            <img src="../../img/pb1.jpg" alt="training" class="service-img" />
             <div class="service-title">
-                <h3>Supervisors </h3>
+                <h3>Supervisors</h3>
             </div>
             <div class="service-cover">
                 <div class="service-cover-title">
@@ -112,7 +118,7 @@
         </a>
 
         <a href="surveyors-and-designers.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/gant-chart.png" alt="training" class="service-img"/>
+            <img src="../../img/gant-chart.png" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Surveyors and Designers</h3>
             </div>
@@ -131,7 +137,7 @@
             </div>
         </a>
 
-    </div>
+    </div> -->
 </div>
 <div class="container-fluid generic-container container-contact">
     <div class="row fancy-background">

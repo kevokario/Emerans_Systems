@@ -187,7 +187,7 @@ section{
 } 
 
 #budgeting .generic-custom-img{
-    background-image: url(../../img/design&budgeting_1.jpg);
+    background-image: url(../../img/costing.jpg);
 }
 #StoreManagement .generic-custom-img{
     background-image: url(../../img/store.jpg);
@@ -196,7 +196,7 @@ section{
     background-image: url(../../img/cumulative_work_progress.png);
 }
 #Reporting .generic-custom-img{
-    background-image: url(../../img/reporting.jpg);
+    background-image: url(../../img/report.png);
 }
 #GanttChart .generic-custom-img{
     background-image: url(../../img/gant-chart.png);
@@ -337,7 +337,7 @@ section{
 */
 
 section.costing .generic-custom-img{
-    background-image: url('../../img/costing.jpg');
+    background-image: url('../../img/Material_reconciliation.png');
 
 }
 section.autocard .generic-custom-img{
@@ -349,7 +349,7 @@ section.design_survey .generic-custom-img{
 
 }
 section.field_survey .generic-custom-img{
-    background-image: url('../../img/Training.jpg');
+    background-image: url('../../img/survey21.jpg');
 
 }
 section.field_database .generic-custom-img{
@@ -357,17 +357,23 @@ section.field_database .generic-custom-img{
 
 }
 
-section.project_design_survey .generic-custom-img{
-    background-image: url('../../img/field-database.jpg');
+section.project_kenyapower .generic-custom-img {
+    background-image: url('../../img/kp.png');
 }
-section.project_electrification_management_systems .generic-custom-img{
+section.project_etrade .generic-custom-img {
     background-image: url('../../img/Emeran_open_page.png');
 }
-section.project_training .generic-custom-img{
+section.project_gateway .generic-custom-img {
     background-image: url('../../img/Emeran_open_page.png');
 }
-section.project_consultants .generic-custom-img{
-    background-image: url('../../img/Training.jpg');
+section.project_cpf .generic-custom-img {
+    background-image: url('../../img/globalcpf.jpg');
+}
+section.project_meruwood .generic-custom-img {
+    background-image: url('../../img/meruwood.png');
+}
+section.project_burhani .generic-custom-img {
+    background-image: url('../../img/burhani23.png');
 }
 /*fORM cSS*/
 form .form-group{
