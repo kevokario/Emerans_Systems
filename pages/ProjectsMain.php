@@ -16,12 +16,14 @@
             </div>
             <div class="col-sm-6 generic-custom-description">
                 <h2>Kenya Power</h2>
-                <p class="custom-paragraph">individual design contracts.
+                <p class="custom-paragraph">Individual design contracts.
+                Kiambu County, 
+                Nakuru & Nyeri County
             </div>
         </div>
     </div>
 </section>
-<section class="project_etrade generic-container">
+<!-- <section class="project_etrade generic-container">
     <div class="container-fuid">
         <div class="row">
             <div class="col-sm-6 generic-custom-description">
@@ -37,7 +39,7 @@
 
         </div>
     </div>
-</section>
+</section> -->
 <section class="project_gateway generic-container-alt">
     <div class="container-fuid ">
         <div class="row">
@@ -46,7 +48,14 @@
             </div>
             <div class="col-sm-6 generic-custom-description">
                 <h2>Gateway Green Energy </h2>
-                <p></p>
+                <p>
+                LastMile Connectivity Project Phase II 
+                    <br/>
+                    <br/>
+                1.	Design & Survey services in Nyandarua & Muranga County. <br/>
+                2.	Meter Digitization Nyandarua & Muranga County. <br/> 
+                3.	Training.
+                </p>
             </div>
         </div>
     </div>
@@ -57,7 +66,14 @@
 
             <div class="col-sm-6 generic-custom-description">
                 <h2>Global Access/CPF JV </h2>
-                <p></p>
+                <p>
+                LastMile Connectivity Project Phase II 
+                    <br/>
+                    <br/>
+                1.	Design & Survey services in Garrisa, Kilifi & Tana_River County..<br/>
+                2.	ERP System – Enterprise Resource & Planning system for Phase II Electrification Project.<br/>
+                3.	ERP operators Training.<br/>
+                </p>
             </div>
             <div class="col-sm-6 generic-custom-img">
 
@@ -74,7 +90,12 @@
             <div class="col-sm-6 generic-custom-description">
                 <h2>Meru wood Supreme </h2>
                 <p>
-                    Last mile connectivity project Phase 2
+                LastMile Connectivity Project Phase II 
+                    <br/>
+                    <br/>
+                    1.	Design & Survey services in Isiolo & Meru county.<br/>
+                    2.	ERP System – Enterprise Resource & Planning system for Phase II Electrification Project.<br/>
+                    3.	ERP operators Training. <br/>
                 </p>
             </div>
         </div>
@@ -87,7 +108,10 @@
             <div class="col-sm-6 generic-custom-description">
                 <h2>Burhani Engineers </h2>
                 <p>
-                    Phase 2 Survey, Design
+                LastMile Connectivity Project Phase II 
+                    <br/>
+                    <br/>
+                    1.	Design & Survey services in Machakos, Kitui & Kajiado county.<br/>
                 </p>
             </div>
             <div class="col-sm-6 generic-custom-img">
@@ -192,7 +216,7 @@
     <div class="row fancy-background">
         <div class="col-sm-8">
             <h2>GOT A NEW PROJECT?</h2>
-            <p>Emeran system's team can provide the experience, expertise, resourses and materials you need.</p>
+            <p>Emeran system's team can provide the experience, expertise, resources and materials you need for your project.</p>
         </div>
         <div class="col-sm-4">
             <a href="../contact-us.php" class="btn fancy-button">

@@ -11,7 +11,7 @@
             </p>
         </div>
         <div class="col-sm-5">
-            <a href="#" class="my-class">
+            <a href="projects/" class="my-class">
                 View all projects +
             </a>
         </div>

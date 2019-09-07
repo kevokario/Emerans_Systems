@@ -77,7 +77,7 @@
         </a>
 
         <a href="supervision-team.php" class="service-container  col-lg-3 col-md-4 col-sm-6 col-xm-12">
-            <img src="../../img/sup.jpg" alt="training" class="service-img" />
+            <img src="../../img/supp.jpg" alt="training" class="service-img" />
             <div class="service-title">
                 <h3>Construction Supervision</h3>
             </div>

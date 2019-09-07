@@ -21,8 +21,8 @@
             <div class="carousel-caption">
                 <h3 class="animated fadeInLeftBig"> ELECTRIFICATION ERP SYSTEM</h3>
                 <p class="animated fadeInRightBig">The electrification ERP system comprises of several customized modules that helps run electrification project from design,
-                    store, construction reporting to As-built, material reconciliation
-                    <th><a style="font-size:20px;color:orange" href="#">Design </a></th>&nbsp;&nbsp;&nbsp;
+                    store, construction reporting to As-built, material reconciliation<br/>
+                    <th><a style="font-size:20px;color:orange" href="#"> Design </a></th>&nbsp;&nbsp;&nbsp;
                     <th><a style="font-size:20px;color:orange" href="#"> Store Inventory </a></th>&nbsp;&nbsp;&nbsp;
                     <th><a style="font-size:20px;color:orange" href="#"> Work Progress </a></th>&nbsp;&nbsp;&nbsp;
                     <th><a style="font-size:20px;color:orange" href="#"> Reporting </a></th>&nbsp;&nbsp;&nbsp;

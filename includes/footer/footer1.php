@@ -67,12 +67,12 @@
                          <h6>STAFFING & TRAINING</h6>
                      </a>
                      <p class="hide">
-                         <a href="../expertise/staffing-and-training/autocard.php">Auto Card</a><br>
+                         <a href="../expertise/staffing-and-training/autocard.php">AutoCAD</a><br>
                          <a href="../expertise/staffing-and-training/back-office.php">Back Office</a><br>
-                         <a href="../expertise/staffing-and-training/construction-teams.php">Construction Teams</a><br>
-                         <a href="../expertise/staffing-and-training/staffing-and-training.php">Staffing and Training</a><br>
+                         <a href="../expertise/staffing-and-training/construction-teams.php">Construction Supervisors</a><br>
+                         <!-- <a href="../expertise/staffing-and-training/staffing-and-training.php">Staffing and Training</a><br>
                          <a href="../expertise/staffing-and-training/supervisors.php">Supervisors</a><br>
-                         <a href="../expertise/staffing-and-training/surveyors-and-designers.php">Surveyors and Designers</a>
+                         <a href="../expertise/staffing-and-training/surveyors-and-designers.php">Surveyors and Designers</a> -->
                      </p>
                  </div>
              </div>
@@ -103,11 +103,11 @@
              </a>
              <div class="container hide">
                  <P>
-                     <a href="#">Our <br>company<br></a>
-                     <a href="#">Our Offices</a> <br>
-                     <a href="#">Our team</a> <br>
+                     <!-- <a href="#">Our <br>company<br></a> -->
+                     <a href="../contact-us.php">Our Offices</a> <br>
+                     <!-- <a href="#">Our team</a> <br> -->
                      <a href="../contact-us.php">Contact Us</a><br>
-                     <a href="#">Careers</a>
+                     <a href="../contact-us.php">Careers</a>
                  </p>
              </div>
          </div>

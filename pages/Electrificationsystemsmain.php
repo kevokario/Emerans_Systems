@@ -8,7 +8,8 @@
                 <br>On the design the system generates the total materials required to completely construct a scheme.
                 <br>On the store module the system is able to detect the materials already in store
                 and flag if materials are running low. it issues materials and generates a delivery note as per the exported materials
-                as designed/pegged On Construction it indicates the construction progress of every scheme
+                as designed/pegged 
+                <br>On Construction it indicates the construction progress of every scheme
                 as allocated to different construction teams or subcontractors generating a Gantt chart.
                 <br>On Reports, the system generates reports as per scheme and also the overall progress of the project.
                 <br>On material reconciliation the system captures all materials used in site,

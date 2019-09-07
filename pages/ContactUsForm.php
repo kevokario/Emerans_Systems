@@ -4,9 +4,9 @@
         <div class="col-sm-12">
             <h2 class="custom-heading mt-5">Contact us</h2>
             <p>
-                <!--Place content Here-->
-                Thank you for your interest in Emeran’s engineering services!
-                Please fill out the form below. One of our team members will contact you shortly.
+                <!--Place content Here-->     
+                We appreciate you for considering Emeran's Engineering services! 
+                Kindly fill the form below. One of our personel will contact you shortly.
             </p>
         </div>
     </div>
@@ -17,9 +17,8 @@
             <h4 class="custom-heading mb-2" style="font-size: 20px; text-transform: capitalize">
                 Enter Your Contact Info
             </h4>
-            <p>The more we know about you, the better we will be at providing you with relevant answers.</p>
+            <p>The more details we get about you, the better and easier we will be able to communicate back</p>
             <!--First details here-->
-
             <div class="form-group">
                 <label>Full Name *</label>
                 <div class="input-group ">
@@ -99,7 +98,7 @@
                         <option>-Select-</option>
                         <option>Project Management</option>
                         <option>ERP System</option>
-                        <option>Design and Survey</option>
+                        <option>Design and Survey Services</option>
                         <option>Others</option>
                     </select>
                 </div>
@@ -111,12 +110,12 @@
         <div class="col-sm-6">
             <!--Test area section-->
             <h4 class="custom-heading mb-2" style="font-size: 20px; text-transform: capitalize">
-                Tell Us About Your Project or Application(Optional)
+                Tell Us more About Your Project(Optional)
             </h4>
-            <p>Please tell us about your project or application, so that we can analyze it,
-                target your needs and provide valuable, customized information for your business.</p>
+            <p>Please let us know more about your project(s), so that we can analyze it,
+                target your needs and provide valuable, customized information for you.</p>
             <div class="form-group">
-                <label>Project/Application Details</label>
+                <label>Project Details</label>
                 <div class="input-group ">
                     <div class="input-group-prepend">
                         <span class="input-group-text">
@@ -130,8 +129,7 @@
             <div class="form-group mt-3 form-check">
                 <label class="form-check-label">
                     <input type="checkbox" id="subscribe_option" name="" value="" class="form-check-input">
-                    Subscribe to the Emeran newsletter and stay up to date on our technological
-                    innovations and our updates on ERP!
+                    Subscribe to the Emeran updates on latest news, Careers, projects & innovations.
                 </label>
             </div>
         </div>

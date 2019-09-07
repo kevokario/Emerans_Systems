@@ -18,7 +18,7 @@
     <div class="container-fluid generic-container" style="margin-top: 53px">
         <div class="row">
             <div class="col-sm-6">
-                <img src="../../img/sup.jpg" class="single-img" alt="pegging">
+                <img src="../../img/sup2.gif" class="single-img" alt="pegging">
             </div>
             <div class="col-sm-6">
                 <h2 class="custom-heading">Construction Supervisors</h2>
