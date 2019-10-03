@@ -13,7 +13,7 @@
     <ul class="mynav-links">
         <li>
             <a id="linksA" href="expertise/" class="mynav-link">
-                Expertise 
+                Expertise
                 <i class="mynav-caret pull-right fa fa-caret-down"></i>
             </a>
             <div class="menu-options-multiple custom-menu-option text-dark">
@@ -84,10 +84,10 @@
         </li>
         <li>
             <a href="projects/" id="linksC" class="mynav-link">
-                  Projects
+                Projects
                 <i class=" pull-right"></i>
             </a>
-<!--            <div class="menu-options custom-menu-option text-dark">
+            <!--            <div class="menu-options custom-menu-option text-dark">
                 <div class="menu-option-body">
                     <a>Design</a>
                     <a>Electrification ERP Systems</a>
@@ -112,7 +112,7 @@
         </li>
         <li>
             <a href="contact-us.php" id="linksE" class="mynav-link">
-                Contact us 
+                Contact us
                 <!-- <i class="mynav-caret pull-right fa fa-caret-down"></i> -->
             </a>
             <!-- <div class="menu-options custom-menu-option text-dark">
