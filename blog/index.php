@@ -17,7 +17,7 @@
     ?>
     <!--footer-->
     <?php
-    include '../includes/footer/footer1.php';
+    include '../includes/footer/footer3.php';
     ?>
 </body>
 </html>

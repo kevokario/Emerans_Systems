@@ -43,9 +43,9 @@
                          <h6>LV and MV CONSTRUCTION</h6>
                      </a>
                      <p class="hide">
-                         <a href="expertise/lv-and-mv-construction/pegging.php">Pegging</a><br>
-                         <a href="expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a><br>
-                         <a href="expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a>
+                         <a href="../expertise/lv-and-mv-construction/pegging.php">Pegging</a><br>
+                         <a href="../expertise/lv-and-mv-construction/material-requisition.php">Material Requisition</a><br>
+                         <a href="../expertise/lv-and-mv-construction/construction-standards.php">Construction Standards</a>
                          <!--<a href="expertise/lv-and-mv-construction/matering.php">Metering</a><br>-->
                      </p>
                  </div>

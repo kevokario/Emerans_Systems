@@ -125,9 +125,9 @@
             </div> -->
         </li>
     </ul>
-    <li style="float:right" class="mynav-btn btn pull-right">
+    <li style="float:right" class="social_list1 mt-3">
         <!-- <div class="row-md-4 log-icons text-right"> -->
-        <span>Welcome Back!</span>
+        <!-- <span>Welcome Back!</span> -->
         <span class="mx-lg-6 mx-md-2  mx-1">
             <a href="blogadmin/index.php">
                 <i class="fas fa-lock"></i> <strong>Sign In</strong></a>
@@ -135,6 +135,9 @@
         <span>
             <a href="blogadmin/membership_signup.php">
                 <i class="far fa-user"></i> <strong>Register</strong></a>
+        </span>
+        <span>
+            
         </span>
         <!-- </div> -->
 
