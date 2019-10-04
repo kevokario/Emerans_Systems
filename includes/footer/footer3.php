@@ -18,7 +18,7 @@
                     <a class="p-2 fa fa-facebook fa-2x" href="#"></a>
                     <a class="p-2 fa fa-twitter fa-2x" href="#"></a>
                     <a class="p-2 fa fa-linkedin fa-2x" href="#"></a>
-                    <a class="fa fa-youtube fa-2x" href="#"></a>
+                    <a class="p-2 fa fa-youtube fa-2x" href="#"></a>
                 </div>
             </div>
         </div>

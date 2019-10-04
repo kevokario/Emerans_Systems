@@ -30,7 +30,7 @@ $row = mysqli_fetch_assoc($result);?>
 </head>
 <body>
 	<!--Header-->
-	<?php include("header.php");?>
+	
 	<!--//header-->
 	<!--/banner-->
 	<div class="banner-inner">

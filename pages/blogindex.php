@@ -3,28 +3,28 @@
 <html lang="zxx">
 
 <head>
-        <title><?php getwebname("titles");
-                echo "|";
-                gettagline("titles"); ?></title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta charset="utf-8">
-        <link id="browser_favicon" rel="shortcut icon" href="blogadmin/images/<?php geticon("titles"); ?>">
-        <meta charset="utf-8" name="description" content="<?php getshortdescription("titles"); ?>">
-        <meta name="keywords" content="<?php getkeywords("titles"); ?>" />
-        <script>
-            addEventListener("load", function() {
-                setTimeout(hideURLbar, 0);
-            }, false);
+    <title><?php getwebname("titles");
+            echo "|";
+            gettagline("titles"); ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link id="browser_favicon" rel="shortcut icon" href="blogadmin/images/<?php geticon("titles"); ?>">
+    <meta charset="utf-8" name="description" content="<?php getshortdescription("titles"); ?>">
+    <meta name="keywords" content="<?php getkeywords("titles"); ?>" />
+    <script>
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
 
-            function hideURLbar() {
-                window.scrollTo(0, 1);
-            }
-        </script>
-        <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-        <link rel="stylesheet" href="css/jquery.desoslide.css">
-        <link href="css/style.css" rel='stylesheet' type='text/css' />
-        <link href="css/fontawesome-all.css" rel="stylesheet">
-        <link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
+    <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="css/jquery.desoslide.css">
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800" rel="stylesheet">
 </head>
 
 
@@ -71,7 +71,9 @@
                 <!--right-->
                 <aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
                     <div class="right-blog-info text-left">
-                        <h4><strong>Categories</strong></h4>
+                        <a class="nav-link dropdown-toggle" href="index.php" id="navbarDropdown" role="button" data-toggle="dropdown">
+                            <h4><strong>Categories</strong></h4>
+                        </a>
                         <ul class="list-group single">
                             <?php countcategories(); ?>
                         </ul>
@@ -80,25 +82,25 @@
                             <ul>
 
                                 <li>
-                                    <a class="twitter" href="">
-                                        <i class="fab fa-twitter"></i>
-                                        <span class="count"></span> Twitter</a>
+                                    <a class="twitter" href="//www.linkedin.com/company/emeran-systems" target="_blank">
+                                        <i class="fab fa-linkedin"></i>
+                                        <span class="count"></span> LinkedIn</a>
                                 </li>
                                 <li>
-                                    <a class="facebook" href="#">
+                                    <a class="facebook" href="//www.facebook.com/systemsredefined/" target="_blank">
                                         <i class="fab fa-facebook-f"></i>
                                         <span class="count"></span> Facebook</a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a class="dribble" href="#">
                                         <i class="fab fa-dribbble"></i>
 
                                         <span class="count"></span> Dribble</a>
-                                </li>
+                                </li> -->
                                 <li>
-                                    <a class="pin" href="#">
+                                    <a class="pin" href="//www.youtube.com/watch?v=633oMekdbxM&list=PLpsbIP5ZQmh-CfrMycdHCTrFnUBG2pzS-&index=2&t=0s/" target="_blank">
                                         <i class="fab fa-youtube"></i>
-                                        <span class="count"></span> Youtube</a>
+                                        <span class="count"></span> Youtube Tutorials</a>
                                 </li>
 
                             </ul>
@@ -133,28 +135,7 @@
     </section>
     <!--//middle-->
     <!---->
-    <section class="main-content-w3layouts-agileits">
-        <div class="container">
-            <div class="row">
-                <!--left-->
-                <div class="col-lg-8 left-blog-info-w3layouts-agileits text-left">
-                    <?php getonelatest("blogs"); ?>
-                </div>
-                <!--//left-->
-                <!--right-->
-                <aside class="col-lg-4 agileits-w3ls-right-blog-con text-left">
-                    <div class="tech-btm">
-                        <h4>Editor's Choice</h4>
 
-                        <?php geteditorschoice("editors_choice"); ?>
-
-                    </div>
-
-                </aside>
-                <!--//right-->
-            </div>
-        </div>
-    </section>
     <!--//main-->
     <!---->
     <!-- js -->
@@ -262,7 +243,7 @@
 
         });
     </script>
-    <a href="#home" class="scroll" id="toTop" style="display: block;">
+    <a href="#" class="scroll" id="toTop" style="display: block;">
         <span id="toTopHover" style="opacity: 1;"> </span>
     </a>
 
