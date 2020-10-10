@@ -171,6 +171,7 @@
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
+    height: fit-content;
 }
 .swiper-slide {
     width: 300px;
